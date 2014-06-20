@@ -20,6 +20,14 @@
 * [Meteor YouTube Channel](https://www.youtube.com/user/MeteorVideos)
 * [The Meteor Podcast](http://www.meteorpodcast.com/)
 
+## Books
+
+* [Discover Meteor](http://www.discovermeteor.com/)
+* [Meteor Cookbook](http://meteorgitbook.harp.io/)
+* [Getting Started with Meteor.js JavaScript Framework](http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book)
+* [Instant Meteor JavaScript Framework Starter](http://www.packtpub.com/meteor-javascript-framework-starter/book)
+* [Testing with Meteor](http://testingmeteor.com/)
+
 ## Articles
 
 * [Best Learning Resources for Meteor.js](http://yauh.de/best-learning-resources-for-meteorjs/)
