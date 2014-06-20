@@ -42,6 +42,8 @@
 
 ## Tutorials
 
+### English
+
 * [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426)
 * [Prototyping With Meteor](http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915)
 * [Builing an App in 45 Minutes with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
@@ -52,6 +54,10 @@
 * [Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo](http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/)
 * [Real-Time Messaging for Meteor With Meteor Streams](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 * [Iron-Router Tutorial](http://www.manuel-schoebel.com/blog/iron-router-tutorial)
+
+### French
+
+* [Meteor JS : B.A. BA et bonnes pratiques](http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/)
 
 ## Cheatsheets
 
