@@ -44,6 +44,7 @@
 
 ### English
 
+* [Diving into MeteorJS](http://moduscreate.com/diving-into-meteorjs/)
 * [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426)
 * [Prototyping With Meteor](http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915)
 * [Builing an App in 45 Minutes with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
