@@ -1,0 +1,378 @@
+{
+  "Resources": [
+    {
+      "title" : "Roadmap",
+      "url"   : "https://trello.com/b/hjBDflxp/meteor-roadmap",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Unofficial Meteor FAQ",
+      "url"   : "https://github.com/oortcloud/unofficial-meteor-faq",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor Cookbook",
+      "url"   : "https://github.com/awatson1978/meteor-cookbook",
+      "lang"  : "en"
+    },
+    {
+      "title" : "meteor-up",
+      "url"   : "https://github.com/arunoda/meteor-up",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor Tips",
+      "url"   : "http://meteortips.com/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteorpedia",
+      "url"   : "http://www.meteorpedia.com/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Pro Meteor",
+      "desc"  : "Production Users' Guide To Meteor",
+      "url"   : "http://meteorhacks.com/pro-meteor/",
+      "lang"  : "en"
+    }
+  ],
+  "News": [
+    {
+      "title" : "Crater.io",
+      "url"   : "http://crater.io/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "MeteorHacks",
+      "url"   : "http://meteorhacks.com/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor Weekly",
+      "url"   : "http://meteorhacks.com/meteor-weekly/",
+      "lang"  : "en"
+    }
+  ],
+  "Jobs": [
+    {
+      "title" : "@meteorjobs",
+      "url"   : "https://twitter.com/meteorjobs",
+      "lang"  : "en"
+    }
+  ],
+  "Videos & Podcast": [
+    {
+      "title" : "Meteor YouTube Channel",
+      "url"   : "https://www.youtube.com/user/MeteorVideos",
+      "lang"  : "en"
+    },
+    {
+      "title" : "The Meteor Podcast",
+      "url"   : "http://www.meteorpodcast.com/",
+      "lang"  : "en"
+    }
+  ],
+  "Books": [
+    {
+      "title" : "Discover Meteor",
+      "url"   : "http://www.discovermeteor.com/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor Cookbook",
+      "url"   : "http://meteorgitbook.harp.io/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Getting Started with Meteor.js JavaScript Framework",
+      "url"   : "http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Instant Meteor JavaScript Framework Starter",
+      "url"   : "http://www.packtpub.com/meteor-javascript-framework-starter/book",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Testing with Meteor",
+      "url"   : "http://testingmeteor.com/",
+      "lang"  : "en"
+    }
+  ],
+  "Articles": [
+    {
+      "title" : "Best Learning Resources for Meteor.js",
+      "url"   : "http://yauh.de/best-learning-resources-for-meteorjs/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "The (not so) real problems of meteor.js",
+      "url"   : "http://differential.io/blog/the-not-so-real-problems-of-meteorjs",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor vs Angular",
+      "url"   : "http://differential.io/blog/meteor-vs-angular",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Confessions of a Meteor Newb",
+      "url"   : "http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor is F***ing Awesome",
+      "url"   : "https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d",
+      "lang"  : "en"
+    },
+    {
+      "title" : "So what is Meteor?",
+      "url"   : "http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/",
+      "lang"  : "fr"
+    }
+  ],
+  "Tutorials": [
+    {
+      "title" : "Diving into MeteorJS",
+      "url"   : "http://moduscreate.com/diving-into-meteorjs/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "What's This Meteor Thing?",
+      "url"   : "http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Prototyping With Meteor",
+      "url"   : "http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Builing an App in 45 Minutes with Meteor",
+      "url"   : "http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Creating a Multi-Page Site with Meteor",
+      "url"   : "http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Building a Web App From Scratch in Meteor",
+      "url"   : "https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Tutorial: Writing your first Meteor application",
+      "url"   : "http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor.js in Action: Create an App, Test With Laika",
+      "url"   : "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo",
+      "url"   : "http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Real-Time Messaging for Meteor With Meteor Streams",
+      "url"   : "https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Iron-Router Tutorial",
+      "url"   : "http://www.manuel-schoebel.com/blog/iron-router-tutorial",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Realtime Maps With Meteor and Leaflet - Part One",
+      "url"   : "http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Realtime Maps With Meteor and Leaflet - Part Two",
+      "url"   : "http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Design a Complete Authentication System with Meteor",
+      "url"   : "https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "My first meteor.js application, a LinkedIn crawler",
+      "url"   : "http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Set Up Navigation With Iron Router and Bootstrap",
+      "url"   : "http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor JS : B.A. BA et bonnes pratiques",
+      "url"   : "http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/",
+      "lang"  : "fr"
+    },
+    {
+      "title" : "CloudAtlas : une application pour tester Meteor.JS",
+      "url"   : "http://tibomahe.github.io/cloudAtlas-Meteor-App/",
+      "lang"  : "fr"
+    }
+  ],
+  "Cheatsheets": [
+    {
+      "title" : "Meteor Cheatsheets (Gentlenode Studio)",
+      "url"   : "http://journal.gentlenode.com/meteor-5-cheatsheet/",
+      "lang"  : "en"
+    }
+  ],
+  "Sources": [
+    {
+      "title" : "TelescopeJS",
+      "url"   : "https://github.com/TelescopeJS/Telescope",
+      "desc"  : "HN clone",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Microscope",
+      "url"   : "https://github.com/DiscoverMeteor/Microscope",
+      "desc"  : "The Discover Meteor book's example app",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Azimuth",
+      "url"   : "https://github.com/mcrider/azimuth",
+      "desc"  :  "a simple, elegant, and fast CMS",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Atmosphere",
+      "url"   : "https://github.com/oortcloud/atmosphere",
+      "desc"  : "Atmosphere Smart Package Database for Meteor",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Ground Control",
+      "url"   : "https://github.com/percolatestudio/ground-control",
+      "desc"  : "a next generation blog",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Browpie",
+      "url"   : "https://github.com/alanshaw/meteor-browpie",
+      "desc"  : "live updated pie charts of browser usage share",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Fortnight",
+      "url"   : "https://github.com/oliversong/fortnight",
+      "desc"  : "a scoped, heatmapping, load-balancing todo list",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Reaction",
+      "url"   : "https://github.com/ongoworks/reaction",
+      "desc"  : "e-commerce platform",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Crowducate",
+      "url"   : "https://github.com/Crowducate/crowducate.me",
+      "desc"  : "open education platform",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Repeeet",
+      "url"   : "https://github.com/meteorhacks/repeeet",
+      "desc"  : "making repeeet tweeting super simple",
+      "lang"  : "en"
+    },
+    {
+      "title" : "We Work Meteor",
+      "url"   : "https://github.com/nate-strauser/wework",
+      "desc"  : "a job board and expert listing for meteor specific work",
+      "lang"  : "en"
+    }
+  ],
+  "Boilerplates": [
+    {
+      "title" : "matteodem/meteor-boilerplate",
+      "url"   : "https://github.com/matteodem/meteor-boilerplate",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Differential/meteor-boilerplate",
+      "url"   : "https://github.com/Differential/meteor-boilerplate",
+      "lang"  : "en"
+    }
+  ],
+  "Tools": [
+    {
+      "title" : "Atmosphere",
+      "url"   : "https://atmospherejs.com/",
+      "desc"  : "catalog for Meteor packages, resources and tools",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Audit",
+      "url"   : "http://audit.meteor.com",
+      "desc"  : "your meteor site analyzed",
+      "lang"  : "en"
+    }
+  ],
+  "Test": [
+    {
+      "title" : "RTD",
+      "url"   : "http://xolvio.github.io/rtd/",
+      "desc"  :  "The Meteor Test Runner",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Laika",
+      "url"   : "http://arunoda.github.io/laika/",
+      "desc"  :  "Testing Framework for Meteor",
+      "lang"  : "en"
+    }
+  ],
+  "Deployment": [
+    {
+      "title" : "Phusion Passenger: Meteor tutorial",
+      "url"   : "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial",
+      "lang"  : "en"
+    },
+    {
+      "title" : "How to deploy Meteor on Amazon EC2",
+      "url"   : "http://julien-c.fr/2012/10/meteor-amazon-ec2/",
+      "lang"  : "en"
+    }
+  ],
+  "SEO": [
+    {
+      "title" : "Meteor and SEO",
+      "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo",
+      "lang"  : "en"
+    }
+  ],
+  "Companies using Meteor": [
+    {
+      "title" : "Meteor",
+      "url"   : "https://www.meteor.com/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Differential",
+      "url"   : "http://differential.io/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Percolate Studio",
+      "url"   : "http://www.percolatestudio.com/",
+      "lang"  : "en"
+    }
+  ]
+}

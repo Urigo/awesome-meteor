@@ -43,7 +43,7 @@
 * [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 * [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
 * [Meteor is F***ing Awesome](https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d)
-* 
+
 ### French
 
 * [So what is Meteor?](http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/)
