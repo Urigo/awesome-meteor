@@ -32,6 +32,7 @@
 * [Fortnight](https://github.com/oliversong/fortnight) (a scoped, heatmapping, load-balancing todo list)
 * [Reaction](https://github.com/ongoworks/reaction) (e-commerce platform)
 * [Crowducate](https://github.com/Crowducate/crowducate.me) (open education platform)
+* [Repeeet](https://github.com/meteorhacks/repeeet) (making repeeet tweeting super simple)
 
 ## Boilerplates
 
