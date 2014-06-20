@@ -11,6 +11,10 @@
 
 * [The Meteor Podcast](http://www.meteorpodcast.com/)
 
+## Articles
+
+* [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
+
 ## Sources
 
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope)
