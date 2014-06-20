@@ -32,3 +32,4 @@
 ## Powered by Meteor
 
 * [dok.io](http://dok.io) (the easiest way to store, share & find your notes)
+* [MPS Organisation](http://moto-pyrenees-sport.fr)
