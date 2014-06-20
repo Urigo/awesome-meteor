@@ -8,6 +8,7 @@
 * [meteor-up](https://github.com/arunoda/meteor-up)
 * [Meteor Tips](http://meteortips.com/)
 * [Meteorpedia](http://www.meteorpedia.com/)
+* [Pro Meteor](http://meteorhacks.com/pro-meteor/) (Production Users' Guide To Meteor)
 
 ## News
 
