@@ -9,8 +9,9 @@
 * [Meteor Tips](http://meteortips.com/)
 * [Meteorpedia](http://www.meteorpedia.com/)
 
-## Podcasts
+## Videos & Podcasts
 
+* [Meteor YouTube Channel](https://www.youtube.com/user/MeteorVideos)
 * [The Meteor Podcast](http://www.meteorpodcast.com/)
 
 ## Articles
