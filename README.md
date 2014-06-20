@@ -47,6 +47,7 @@
 * [Builing an App in 45 Minutes with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 * [Creating a Multi-Page Site with Meteor](http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849)
 * [Building a Web App From Scratch in Meteor](https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor)
+* [Tutorial: Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 
 ## Cheatsheets
 
