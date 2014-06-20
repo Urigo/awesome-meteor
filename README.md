@@ -40,6 +40,14 @@
 * [Meteor vs Angular](http://differential.io/blog/meteor-vs-angular)
 * [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 
+## Tutorials
+
+* [What's This Meteor Thing?](http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426)
+* [Prototyping With Meteor](http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915)
+* [Builing an App in 45 Minutes with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+* [Creating a Multi-Page Site with Meteor](http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849)
+* 
+
 ## Cheatsheets
 
 * [Meteor Cheatsheets (Gentlenode Studio)](http://journal.gentlenode.com/meteor-5-cheatsheet/)
@@ -67,6 +75,11 @@
 
 * [Atmosphere](https://atmospherejs.com/) (catalog for Meteor packages, resources and tools)
 * [Audit](http://audit.meteor.com) (your meteor site analyzed)
+
+## Test
+
+* [RTD](http://xolvio.github.io/rtd/) (The Meteor Test Runner)
+* [Laika](http://arunoda.github.io/laika/) (Testing Framework for Meteor)
 
 ## Packages
 
