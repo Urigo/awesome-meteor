@@ -33,6 +33,7 @@
 * [Reaction](https://github.com/ongoworks/reaction) (e-commerce platform)
 * [Crowducate](https://github.com/Crowducate/crowducate.me) (open education platform)
 * [Repeeet](https://github.com/meteorhacks/repeeet) (making repeeet tweeting super simple)
+* [We Work Meteor](https://github.com/nate-strauser/wework) (a job board and expert listing for meteor specific work)
 
 ## Boilerplates
 
