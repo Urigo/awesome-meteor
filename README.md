@@ -93,6 +93,10 @@
 * [RTD](http://xolvio.github.io/rtd/) (The Meteor Test Runner)
 * [Laika](http://arunoda.github.io/laika/) (Testing Framework for Meteor)
 
+## Deployment
+
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
+
 ## Packages
 
 * [Houston](https://github.com/gterrono/houston) (a zero-config, Django Admin-like admin for Meteor)
