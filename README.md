@@ -58,6 +58,8 @@
 * [Iron-Router Tutorial](http://www.manuel-schoebel.com/blog/iron-router-tutorial)
 * [Realtime Maps With Meteor and Leaflet - Part One](http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/)
 * [Realtime Maps With Meteor and Leaflet - Part Two](http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/)
+* [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
+
 
 ### French
 
