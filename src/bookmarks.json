@@ -374,5 +374,18 @@
       "url"   : "http://www.percolatestudio.com/",
       "lang"  : "en"
     }
+  ],
+  "Powered by Meteor": [
+    {
+      "title" : "dok.io",
+      "url"   : "http://dok.io",
+      "desc"  : "the easiest way to store, share & find your notes",
+      "lang"  : "en"
+    },
+    {
+      "title" : "MPS Organisation",
+      "url"   : "http://moto-pyrenees-sport.fr",
+      "lang"  : "fr"
+    }
   ]
 }
