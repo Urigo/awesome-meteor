@@ -7,6 +7,10 @@
 * [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 * [meteor-up](https://github.com/arunoda/meteor-up)
 
+## Podcasts
+
+* [The Meteor Podcast](http://www.meteorpodcast.com/)
+
 ## Sources
 
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope)
