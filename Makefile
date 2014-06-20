@@ -13,4 +13,4 @@ serve: build
 publish: build
 	@ghp-import -p build
 
-.PHONY: install clean build serve
+.PHONY: install clean build serve publish
