@@ -32,6 +32,7 @@
 
 ## Tools
 
+* [Atmosphere](https://atmospherejs.com/)
 * [Audit](http://audit.meteor.com) (your meteor site analyzed)
 
 ## Packages
