@@ -1,8 +1,4 @@
-venv:
-	virtualenv -p python2.7 `pwd`/.venv
-	. .venv/bin/activate && pip install -r requirements.pip
-
-install: venv
+install:
 	@npm install
 
 clean:
@@ -17,4 +13,4 @@ serve: build
 publish: build
 	@ghp-import -p build
 
-.PHONY: venv install clean build serve publish
+.PHONY: install clean build serve publish
