@@ -1,4 +1,9 @@
-install:
+.PHONY: venv
+venv:
+	virtualenv -p python2.7 `pwd`/.venv
+	. .venv/bin/activate && pip install -r requirements.pip
+
+install: venv
 	@npm install
 
 clean:
