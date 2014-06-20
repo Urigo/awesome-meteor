@@ -1,8 +1,8 @@
-# Meteor Bookmarks
+## Meteor Bookmarks
 
 Source of [Meteor Bookmarks](http://gillesfabio.github.io/meteor-bookmarks/).
 
-## Installation
+### Installation
 
 ```
 $ make install
@@ -10,7 +10,7 @@ $ make serve
 $ open http://localhost:3000
 ```
 
-## Contributing
+### Contributing
 
 * Fork
 * Edit `src/bookmarks.json`
