@@ -48,6 +48,7 @@
 * [Creating a Multi-Page Site with Meteor](http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849)
 * [Building a Web App From Scratch in Meteor](https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor)
 * [Tutorial: Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+* [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika)
 
 ## Cheatsheets
 
