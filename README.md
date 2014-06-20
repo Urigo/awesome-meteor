@@ -40,7 +40,7 @@
 
 ## Tools
 
-* [Atmosphere](https://atmospherejs.com/)
+* [Atmosphere](https://atmospherejs.com/) (catalog for Meteor packages, resources and tools)
 * [Audit](http://audit.meteor.com) (your meteor site analyzed)
 
 ## Packages
