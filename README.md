@@ -35,6 +35,10 @@
 * [Meteor vs Angular](http://differential.io/blog/meteor-vs-angular)
 * [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 
+## Cheatsheets
+
+* [Meteor Cheatsheets (Gentlenode Studio)](http://journal.gentlenode.com/meteor-5-cheatsheet/)
+
 ## Sources
 
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope) (HN clone)
