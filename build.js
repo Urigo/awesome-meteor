@@ -12,5 +12,4 @@ metalsmith(__dirname)
   .use(templates({engine: 'swig', directory: 'templates'}))
   .build(function(err) {
     if (err) console.log(chalk.red('Error: %s'), err.message);
-    console.log(chalk.green('Done.'));
   });

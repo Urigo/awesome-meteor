@@ -10,4 +10,7 @@ build: clean
 serve: build
 	@./node_modules/.bin/nodemon --watch build server.js
 
+publish: build
+	@ghp-import -p build
+
 .PHONY: install clean build serve
