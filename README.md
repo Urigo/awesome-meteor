@@ -42,7 +42,8 @@
 * [Meteor vs Angular](http://differential.io/blog/meteor-vs-angular)
 * [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 * [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
-
+* [Meteor is F***ing Awesome](https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d)
+* 
 ### French
 
 * [So what is Meteor?](http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/)
@@ -66,6 +67,7 @@
 * [Realtime Maps With Meteor and Leaflet - Part Two](http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/)
 * [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
 * [My first meteor.js application, a LinkedIn crawler](http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/)
+* [Set Up Navigation With Iron Router and Bootstrap](http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/)
 
 ### French
 
@@ -109,6 +111,10 @@
 
 * [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
 * [How to deploy Meteor on Amazon EC2](http://julien-c.fr/2012/10/meteor-amazon-ec2/)
+
+## SEO
+
+* [Meteor and SEO](http://www.manuel-schoebel.com/blog/meteor-and-seo)
 
 ## Packages
 
