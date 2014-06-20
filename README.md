@@ -16,6 +16,7 @@
 
 * [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
 * [Meteor vs Angular](http://differential.io/blog/meteor-vs-angular)
+* [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 
 ## Sources
 
