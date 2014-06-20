@@ -35,10 +35,13 @@
 
 ## Articles
 
+### English
+
 * [Best Learning Resources for Meteor.js](http://yauh.de/best-learning-resources-for-meteorjs/)
 * [The (not so) real problems of meteor.js](http://differential.io/blog/the-not-so-real-problems-of-meteorjs)
 * [Meteor vs Angular](http://differential.io/blog/meteor-vs-angular)
 * [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
+* [Confessions of a Meteor Newb](http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/)
 
 ## Tutorials
 
@@ -55,6 +58,8 @@
 * [Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo](http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/)
 * [Real-Time Messaging for Meteor With Meteor Streams](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 * [Iron-Router Tutorial](http://www.manuel-schoebel.com/blog/iron-router-tutorial)
+* [Realtime Maps With Meteor and Leaflet - Part One](http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/)
+* [Realtime Maps With Meteor and Leaflet - Part Two](http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/)
 
 ### French
 
