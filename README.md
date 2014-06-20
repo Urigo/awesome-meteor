@@ -37,6 +37,12 @@
 * [Houston](https://github.com/gterrono/houston) (a zero-config, Django Admin-like admin for Meteor)
 * [meteor-roles](https://github.com/alanning/meteor-roles)
 
+## Companies using Meteor
+
+* [Meteor](https://www.meteor.com/)
+* [Differential](http://differential.io/)
+* [Percolate Studio](http://www.percolatestudio.com/)
+
 ## Powered by Meteor
 
 * [dok.io](http://dok.io) (the easiest way to store, share & find your notes)
