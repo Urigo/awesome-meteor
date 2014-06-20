@@ -7,6 +7,7 @@
 * [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 * [meteor-up](https://github.com/arunoda/meteor-up)
 * [Meteor Tips](http://meteortips.com/)
+* [Meteorpedia](http://www.meteorpedia.com/)
 
 ## Podcasts
 
