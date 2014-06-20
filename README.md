@@ -20,6 +20,10 @@
 * [matteodem/meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 * [Differential/meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
 
+## Tools
+
+* [Audit](http://audit.meteor.com) (your meteor site analyzed)
+
 ## Packages
 
 * [Houston](https://github.com/gterrono/houston) (a zero-config, Django Admin-like admin for Meteor)
