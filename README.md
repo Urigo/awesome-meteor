@@ -24,3 +24,7 @@
 
 * [Houston](https://github.com/gterrono/houston) (a zero-config, Django Admin-like admin for Meteor)
 * [meteor-roles](https://github.com/alanning/meteor-roles)
+
+## Powered by Meteor
+
+* [dok.io](http://dok.io) (the easiest way to store, share & find your notes)
