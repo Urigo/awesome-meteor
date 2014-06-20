@@ -49,3 +49,6 @@
 * [MPS Organisation](http://moto-pyrenees-sport.fr)
 * [Care Notebook](https://thecarenotebook.com/) ([story](https://kadira.io/blog/user-stories-chris-doe/))
 * [Dominus](http://dominusgame.net/) (game)
+* [Movienr](http://www.movienr.com/)
+
+**More on [Made with Meteor](http://madewith.meteor.com/).**
