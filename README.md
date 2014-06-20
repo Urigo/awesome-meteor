@@ -33,3 +33,5 @@
 
 * [dok.io](http://dok.io) (the easiest way to store, share & find your notes)
 * [MPS Organisation](http://moto-pyrenees-sport.fr)
+* [Care Notebook](https://thecarenotebook.com/) ([story](https://kadira.io/blog/user-stories-chris-doe/))
+* [Dominus](http://dominusgame.net/) (game)
