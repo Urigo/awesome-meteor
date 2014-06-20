@@ -23,10 +23,10 @@
 
 ## Sources
 
-* [TelescopeJS](https://github.com/TelescopeJS/Telescope)
-* [Microscope](https://github.com/DiscoverMeteor/Microscope)
-* [Azimuth](https://github.com/mcrider/azimuth)
-* [Atmosphere](https://github.com/oortcloud/atmosphere)
+* [TelescopeJS](https://github.com/TelescopeJS/Telescope) (HN clone)
+* [Microscope](https://github.com/DiscoverMeteor/Microscope) (The Discover Meteor book's example app)
+* [Azimuth](https://github.com/mcrider/azimuth) (a simple, elegant, and fast CMS)
+* [Atmosphere](https://github.com/oortcloud/atmosphere) (Atmosphere Smart Package Database for Meteor)
 * [Ground Control](https://github.com/percolatestudio/ground-control) (a next generation blog, built in Meteor)
 * [Browpie](https://github.com/alanshaw/meteor-browpie) (live updated pie charts of browser usage share)
 * [Fortnight](https://github.com/oliversong/fortnight) (a scoped, heatmapping, load-balancing todo list)
