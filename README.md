@@ -15,6 +15,10 @@
 * [MeteorHacks](http://meteorhacks.com/)
 * [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 
+## Jobs
+
+* [@meteorjobs](https://twitter.com/meteorjobs) (Twitter)
+
 ## Videos & Podcasts
 
 * [Meteor YouTube Channel](https://www.youtube.com/user/MeteorVideos)
