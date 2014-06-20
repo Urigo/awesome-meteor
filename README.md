@@ -12,7 +12,7 @@
 * [TelescopeJS](https://github.com/TelescopeJS/Telescope)
 * [Microscope](https://github.com/DiscoverMeteor/Microscope)
 * [Azimuth](https://github.com/mcrider/azimuth)
-* [Atomsphere](https://github.com/oortcloud/atmosphere)
+* [Atmosphere](https://github.com/oortcloud/atmosphere)
 * [Ground Control](https://github.com/percolatestudio/ground-control) (a next generation blog, built in Meteor)
 
 ## Boilerplates
