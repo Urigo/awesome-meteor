@@ -50,6 +50,8 @@
 * [Tutorial: Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 * [Meteor.js in Action: Create an App, Test With Laika](http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika)
 * [Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo](http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/)
+* [Real-Time Messaging for Meteor With Meteor Streams](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
+* [Iron-Router Tutorial](http://www.manuel-schoebel.com/blog/iron-router-tutorial)
 
 ## Cheatsheets
 
