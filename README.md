@@ -9,6 +9,12 @@
 * [Meteor Tips](http://meteortips.com/)
 * [Meteorpedia](http://www.meteorpedia.com/)
 
+## News
+
+* [Crater.io](http://crater.io/)
+* [MeteorHacks](http://meteorhacks.com/)
+* [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
+
 ## Videos & Podcasts
 
 * [Meteor YouTube Channel](https://www.youtube.com/user/MeteorVideos)
