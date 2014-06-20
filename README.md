@@ -6,6 +6,7 @@
 * [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
 * [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 * [meteor-up](https://github.com/arunoda/meteor-up)
+* [Meteor Tips](http://meteortips.com/)
 
 ## Podcasts
 
