@@ -189,6 +189,11 @@
       "title" : "EventedMind",
       "url"   : "https://www.eventedmind.com",
       "lang"  : "en"
+    },
+    {
+      "title" : "30 days with Meteor",
+      "url"   : "http://30dayswithmeteor.ghost.io/",
+      "lang"  : "en"
     }
   ],
   "Articles": [
@@ -508,6 +513,11 @@
     {
       "title" : "Meteor and SEO",
       "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo",
+      "lang"  : "en"
+    },
+    {
+      "title" : "The Complete Guide to SEO",
+      "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/",
       "lang"  : "en"
     }
   ],
