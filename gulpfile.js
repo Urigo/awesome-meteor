@@ -27,7 +27,7 @@ gulp.task('images', function() {
 });
 
 gulp.task('lint:json', function() {
-  gulp.src(['src/bookmarks.json'])
+  return gulp.src(['src/bookmarks.json'])
     .pipe(jsonlint())
     .pipe(jsonlint.reporter());
 });
