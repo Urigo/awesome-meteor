@@ -3,7 +3,7 @@ install:
 	@bower install
 
 clean:
-	@rm -rf build/**
+	@rm -rf build public
 
 build: clean
 	@gulp build
