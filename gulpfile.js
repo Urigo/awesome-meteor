@@ -1,12 +1,13 @@
 'use strict';
 
-var path    = require('path');
-var express = require('express');
-var gulp    = require('gulp');
-var concat  = require('gulp-concat');
-var minify  = require('gulp-minify-css');
-var swig    = require('swig');
-var build   = require('./build');
+var path     = require('path');
+var express  = require('express');
+var gulp     = require('gulp');
+var concat   = require('gulp-concat');
+var minify   = require('gulp-minify-css');
+var jsonlint = require("gulp-jsonlint");
+var swig     = require('swig');
+var build    = require('./build');
 
 gulp.task('css', function() {
   return gulp.src([
@@ -25,7 +26,13 @@ gulp.task('images', function() {
   .pipe(gulp.dest('build'));
 });
 
-gulp.task('build:metalsmith', function(done) {
+gulp.task('lint:json', function() {
+  gulp.src(['src/bookmarks.json'])
+    .pipe(jsonlint())
+    .pipe(jsonlint.reporter());
+});
+
+gulp.task('build:metalsmith', ['lint:json'], function(done) {
   build(function(err){
     if (err) return err;
     console.log('Metalsmith building... Done.');

@@ -5,6 +5,7 @@
     "express": "^4.4.3",
     "gulp": "^3.8.1",
     "gulp-concat": "^2.2.0",
+    "gulp-jsonlint": "0.0.3",
     "gulp-minify-css": "^0.3.5",
     "metalsmith": "^0.8.0",
     "metalsmith-markdown": "^0.2.1",
