@@ -377,6 +377,11 @@
   ],
   "Powered by Meteor": [
     {
+      "title" : "Made with Meteor",
+      "url"   : "http://madewith.meteor.com/",
+      "lang"  : "en"
+    },
+    {
       "title" : "dok.io",
       "url"   : "http://dok.io",
       "desc"  : "the easiest way to store, share & find your notes",
