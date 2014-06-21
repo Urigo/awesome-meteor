@@ -5,10 +5,10 @@ clean:
 	@rm -rf build/**
 
 build: clean
-	@node build.js
+	@gulp build
 
 serve: build
-	@./node_modules/.bin/nodemon --watch build server.js
+	@gulp serve
 
 publish: build
 	@ghp-import -p build
