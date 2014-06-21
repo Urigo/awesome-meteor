@@ -1,0 +1,100 @@
+/* General
+----------------------------------------------------------------------------- */
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: url('universe.png');
+  padding: 20px 20px 0 20px;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  background: yellow;
+}
+
+sup {
+  color: #909090;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 26px;
+  border-bottom: 1px solid #eee;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+/* Layout
+----------------------------------------------------------------------------- */
+#content, #footer {
+  width: 920px;
+  margin: auto;
+  background: #fff;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  border: 1px solid #000;
+}
+
+.container {
+  padding: 10px;
+}
+
+#content {
+  padding: 0 20px 20px 20px;
+}
+
+/* Bookmarks
+----------------------------------------------------------------------------- */
+.desc {
+  color: #777;
+  font-size: 14px;
+}
+
+/* Footer
+----------------------------------------------------------------------------- */
+#footer {
+  width: 820px;
+  margin-top: 20px;
+  text-align: center;
+  border: none;
+  -webkit-border-bottom-left-radius: 0;
+  -webkit-border-bottom-right-radius: 0;
+  -moz-border-radius-bottomleft: 0;
+  -moz-border-radius-bottomright: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  font-size: 16px;
+  letter-spacing: -1px;
+}
+
+#footer .container {
+  padding: 20px 0 20px 0;
+}
+
+#footer ul {
+  margin: 0;
+  padding: 0;
+}
+
+#footer a {
+  font-weight: bold;
+}

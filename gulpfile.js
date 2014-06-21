@@ -5,6 +5,7 @@ var express = require('express');
 var gulp    = require('gulp');
 var concat  = require('gulp-concat');
 var minify  = require('gulp-minify-css');
+var swig    = require('swig');
 var build   = require('./build');
 
 gulp.task('css', function() {
@@ -17,6 +18,13 @@ gulp.task('css', function() {
     .pipe(gulp.dest('build'));
 });
 
+gulp.task('images', function() {
+  return gulp.src([
+    'static/*.png'
+  ])
+  .pipe(gulp.dest('build'));
+});
+
 gulp.task('build:metalsmith', function(done) {
   build(function(err){
     if (err) return err;
@@ -25,7 +33,7 @@ gulp.task('build:metalsmith', function(done) {
   });
 });
 
-gulp.task('build', ['build:metalsmith', 'css'], function() {
+gulp.task('build', ['build:metalsmith', 'css', 'images'], function() {
   return gulp.src(['build/**/*'])
     .pipe(gulp.dest('public'));
 });
@@ -33,13 +41,15 @@ gulp.task('build', ['build:metalsmith', 'css'], function() {
 gulp.task('serve', ['watch', 'build'], function() {
   var port = process.env.NODE_PORT || 3000;
   var app = express();
-  app.use(express.static(path.join(__dirname, 'build')));
+  app.set('view cache', false);
+  swig.setDefaults({cache: false});
+  app.use(express.static(path.join(__dirname, 'public')));
   app.listen(port);
   console.log('Server running on localhost:%d...', port);
 });
 
 gulp.task('watch', function() {
-  gulp.watch(['static/**/*', 'src/**/*'], ['build']);
+  gulp.watch(['static/**/*', 'src/**/*', 'templates/*.html'], ['build']);
 });
 
 gulp.task('default', ['serve']);
