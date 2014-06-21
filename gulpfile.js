@@ -10,22 +10,24 @@ var deploy   = require('gulp-gh-pages');
 var swig     = require('swig');
 var build    = require('./build');
 
-gulp.task('css', function() {
+gulp.task('assets:css', function() {
   return gulp.src([
       'bower_components/normalize-css/normalize.css',
-      'static/index.css'
+      'assets/css/**/*'
     ])
     .pipe(concat('bundle.css'))
     .pipe(minify())
     .pipe(gulp.dest('build'));
 });
 
-gulp.task('images', function() {
+gulp.task('assets:images', function() {
   return gulp.src([
-    'static/*.png'
+    'assets/images/**/*'
   ])
   .pipe(gulp.dest('build'));
 });
+
+gulp.task('assets', ['assets:css', 'assets:images']);
 
 gulp.task('lint:json', function() {
   return gulp.src(['src/bookmarks.json'])
@@ -41,7 +43,7 @@ gulp.task('build:metalsmith', ['lint:json'], function(done) {
   });
 });
 
-gulp.task('build', ['build:metalsmith', 'css', 'images'], function() {
+gulp.task('build', ['build:metalsmith', 'assets'], function() {
   return gulp.src(['build/**/*'])
     .pipe(gulp.dest('public'));
 });
@@ -62,7 +64,11 @@ gulp.task('serve', ['watch', 'build'], function() {
 });
 
 gulp.task('watch', function() {
-  gulp.watch(['static/**/*', 'src/**/*', 'templates/*.html'], ['build']);
+  gulp.watch([
+    'assets/**/*',
+    'src/**/*',
+    'templates/**/*'
+  ], ['build']);
 });
 
 gulp.task('default', ['serve']);
