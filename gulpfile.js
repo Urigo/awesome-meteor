@@ -6,6 +6,7 @@ var gulp     = require('gulp');
 var concat   = require('gulp-concat');
 var minify   = require('gulp-minify-css');
 var jsonlint = require("gulp-jsonlint");
+var deploy   = require('gulp-gh-pages');
 var swig     = require('swig');
 var build    = require('./build');
 
@@ -43,6 +44,11 @@ gulp.task('build:metalsmith', ['lint:json'], function(done) {
 gulp.task('build', ['build:metalsmith', 'css', 'images'], function() {
   return gulp.src(['build/**/*'])
     .pipe(gulp.dest('public'));
+});
+
+gulp.task('deploy', ['build'], function() {
+  return gulp.src('./public/**/*')
+    .pipe(deploy());
 });
 
 gulp.task('serve', ['watch', 'build'], function() {
