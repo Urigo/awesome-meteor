@@ -11,6 +11,6 @@ serve: build
 	@gulp serve
 
 publish: build
-	@ghp-import -p build
+	@ghp-import -p public
 
 .PHONY: install clean build serve publish
