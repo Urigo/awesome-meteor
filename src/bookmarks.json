@@ -24,6 +24,11 @@
       "title" : "Documentation",
       "url"   : "http://docs.meteor.com/",
       "lang"  : "en"
+    },
+    {
+      "title" : "Core Development Google Group",
+      "url"   : "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core",
+      "lang"  : "en"
     }
   ],
   "Community": [
