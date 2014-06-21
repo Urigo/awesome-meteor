@@ -147,6 +147,11 @@
       "title" : "Udemy — Meteor: Build a real-time web app using only JavaScript!",
       "url"   : "https://www.udemy.com/meteor-course/",
       "lang"  : "en"
+    },
+    {
+      "title" : "Tuts+ — Single Page Web Apps with Meteor",
+      "url"   : "http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor",
+      "lang"  : "en"
     }
   ],
   "Useful Resources": [
