@@ -58,6 +58,11 @@
       "lang"  : "en"
     },
     {
+      "title" : "YouTube",
+      "url"   : "https://www.youtube.com/user/MeteorVideos",
+      "lang"  : "en"
+    },
+    {
       "title" : "Made with Meteor",
       "url"   : "http://madewith.meteor.com/",
       "lang"  : "en"
@@ -93,12 +98,7 @@
       "lang"  : "en"
     }
   ],
-  "Videos & Podcast": [
-    {
-      "title" : "Meteor YouTube Channel",
-      "url"   : "https://www.youtube.com/user/MeteorVideos",
-      "lang"  : "en"
-    },
+  "Media": [
     {
       "title" : "The Meteor Podcast",
       "url"   : "http://www.meteorpodcast.com/",
