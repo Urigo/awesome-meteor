@@ -1,5 +1,6 @@
 install:
 	@npm install
+	@bower install
 
 clean:
 	@rm -rf build/**
@@ -8,7 +9,7 @@ build: clean
 	@gulp build
 
 serve: build
-	@gulp serve
+	@gulp
 
 publish: build
 	@ghp-import -p public
