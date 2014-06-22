@@ -199,6 +199,11 @@
       "title" : "30 days with Meteor",
       "url"   : "http://30dayswithmeteor.ghost.io/",
       "lang"  : "en"
+    },
+    {
+      "title" : "Full stack guidelines for Meteor apps",
+      "url"   : "https://github.com/romanzolotarev/guidelines",
+      "lang"  : "en"
     }
   ],
   "Articles": [
@@ -408,21 +413,73 @@
       "url"   : "https://github.com/nate-strauser/wework",
       "desc"  : "a job board and expert listing for meteor specific work",
       "lang"  : "en"
+    },
+    {
+      "title" : "Lister",
+      "url"   : "https://github.com/Differential/lister",
+      "desc"  : "App for easy public sharable lists. Our meteor playground",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Supporter",
+      "url"   : "https://github.com/Differential/supporter",
+      "desc"  : "Support social communities in their effort to help each other resolve their needs",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Kvazar",
+      "url"   : "https://github.com/AristosGroup/kvazar",
+      "desc"  : "Next generation Project Management App built with Meteor",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Broadast",
+      "url"   : "https://github.com/seanrose/broadcast",
+      "desc"  : "a meteor app for sharing presentations and syncing them in realtime",
+      "lang"  : "en"
     }
   ],
   "Boilerplates": [
     {
-      "title" : "matteodem/meteor-boilerplate",
+      "title" : "Differential",
+      "url"   : "https://github.com/Differential/meteor-boilerplate",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Patrick Coffey",
+      "url"   : "https://github.com/patrickocoffeyo/meteor-boilerplate",
+      "lang"  : "en"
+    },
+    {
+      "title" : "matteodem",
       "url"   : "https://github.com/matteodem/meteor-boilerplate",
       "lang"  : "en"
     },
     {
-      "title" : "Differential/meteor-boilerplate",
-      "url"   : "https://github.com/Differential/meteor-boilerplate",
+      "title" : "Liftoff",
+      "url"   : "https://github.com/jfols/liftoff",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Justin McCandless",
+      "url"   : "https://github.com/justinmc/meteor-backbone-boilerplate",
+      "lang"  : "en"
+    }
+  ],
+  "Reusable Apps": [
+    {
+      "title" : "meteor-blog",
+      "url"   : "http://github.differential.io/meteor-blog/",
       "lang"  : "en"
     }
   ],
   "Tools": [
+    {
+      "title" : "Meteorite",
+      "url"   : "http://oortcloud.github.io/meteorite/",
+      "desc"  : "Meteor version manager and package manager",
+      "lang"  : "en"
+    },
     {
       "title" : "Atmosphere",
       "url"   : "https://atmospherejs.com/",
@@ -484,6 +541,16 @@
     {
       "title" : "Deploying a Meteor App to Modulus",
       "url"   : "http://rywalker.com/deploying-a-meteor-app-to-modulus",
+      "lang"  : "en"
+    },
+    {
+      "title" : "aldeed/deploymeteor",
+      "url"   : "https://github.com/aldeed/deploymeteor",
+      "lang"  : "en"
+    },
+    {
+      "title" : "netmute/meteor.sh",
+      "url"   : "https://github.com/netmute/meteor.sh",
       "lang"  : "en"
     }
   ],
