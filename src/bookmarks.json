@@ -204,6 +204,11 @@
       "title" : "Full stack guidelines for Meteor apps",
       "url"   : "https://github.com/romanzolotarev/guidelines",
       "lang"  : "en"
+    },
+    {
+      "title" : "Manuel Schoebel's Blog",
+      "url"   : "http://www.manuel-schoebel.com/blog",
+      "lang"  : "en"
     }
   ],
   "Articles": [
