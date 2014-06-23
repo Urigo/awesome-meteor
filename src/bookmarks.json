@@ -29,6 +29,11 @@
       "title" : "Core Development Google Group",
       "url"   : "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core",
       "lang"  : "en"
+    },
+    {
+      "title" : "Coding Style Guide",
+      "url"   : "https://github.com/meteor/meteor/wiki/Meteor-Style-Guide",
+      "lang"  : "en"
     }
   ],
   "Community": [
