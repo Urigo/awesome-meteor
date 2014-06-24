@@ -143,7 +143,7 @@
     },
     {
       "title" : "Meteor: Criando aplicações web real-time com JavaScript",
-      "url"   : "http://www.casadocodigo.com.br/products/livro-meteor",
+      "url"   : "https://casadocodigo.refersion.com/l/d88.3525",
       "lang"  : "pt-br"
     }
   ],
@@ -214,6 +214,11 @@
       "title" : "Manuel Schoebel's Blog",
       "url"   : "http://www.manuel-schoebel.com/blog",
       "lang"  : "en"
+    },
+    {
+      "title" : "Underground WebDev - Meteor",
+      "url"   : "http://udgwebdev.com/meteor/"
+      "lang"  : "pt-br"
     }
   ],
   "Articles": [
@@ -246,6 +251,11 @@
       "title" : "So what is Meteor?",
       "url"   : "http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/",
       "lang"  : "fr"
+    },
+    {
+      "title" : "Introdução sobre Meteor",
+      "url"   : "http://udgwebdev.com/introducao-sobre-meteor"
+      "lang"  : "pt-br"
     }
   ],
   "Tutorials": [
@@ -348,6 +358,21 @@
       "title" : "Meteor : la plateforme Web temps réel qui accroît la productivité",
       "url"   : "http://soren-ohnmeiss.developpez.com/tutoriels/javascript/meteor/introduction-meteor/",
       "lang"  : "fr"
+    },
+    {
+      "title" : "Meteor PubSub",
+      "url"   : "http://udgwebdev.com/meteor-pubsub/"
+      "lang"  : "pt-br"
+    },
+    {
+      "title" : "Organizando um projeto Meteor",
+      "url"   : "http://udgwebdev.com/organizando-um-projeto-meteor"
+      "lang"  : "pt-br"
+    },
+    {
+      "title" : "Meteor Methods",
+      "url"   : "http://udgwebdev.com/meteor-methods/"
+      "lang"  : "pt-br"
     }
   ],
   "Cheatsheets": [
@@ -480,6 +505,11 @@
     {
       "title" : "meteor-blog",
       "url"   : "http://github.differential.io/meteor-blog/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "meteor-tictactoe",
+      "url"   : "https://github.com/caio-ribeiro-pereira/meteor-tictactoe",
       "lang"  : "en"
     }
   ],
@@ -631,6 +661,11 @@
       "title" : "MPS Organisation",
       "url"   : "http://moto-pyrenees-sport.fr",
       "lang"  : "fr"
+    },
+    {
+      "title" : "Coders TV",
+      "url"   : "http://coderstv.com/",
+      "lang"  : "en"
     }
   ]
 }
