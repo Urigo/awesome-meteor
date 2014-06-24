@@ -7,6 +7,7 @@
     "gulp-gh-pages": "^0.3.2",
     "gulp-jsonlint": "0.0.3",
     "gulp-minify-css": "^0.3.5",
+    "lodash": "^2.4.1",
     "metalsmith": "^0.8.0",
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-metadata": "0.0.1",
