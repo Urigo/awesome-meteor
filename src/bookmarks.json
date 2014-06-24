@@ -93,6 +93,11 @@
       "title" : "Meteor Weekly",
       "url"   : "http://meteorhacks.com/meteor-weekly/",
       "lang"  : "en"
+    },
+    {
+      "title" : "Underground WebDev Weekly",
+      "url"   : "http://weekly.udgwebdev.com/",
+      "lang"  : "pt-br"
     }
   ],
   "Jobs": [
