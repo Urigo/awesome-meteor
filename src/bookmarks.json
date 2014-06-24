@@ -217,7 +217,7 @@
     },
     {
       "title" : "Underground WebDev - Meteor",
-      "url"   : "http://udgwebdev.com/meteor/"
+      "url"   : "http://udgwebdev.com/meteor/",
       "lang"  : "pt-br"
     }
   ],
@@ -254,7 +254,7 @@
     },
     {
       "title" : "Introdução sobre Meteor",
-      "url"   : "http://udgwebdev.com/introducao-sobre-meteor"
+      "url"   : "http://udgwebdev.com/introducao-sobre-meteor",
       "lang"  : "pt-br"
     }
   ],
@@ -361,17 +361,17 @@
     },
     {
       "title" : "Meteor PubSub",
-      "url"   : "http://udgwebdev.com/meteor-pubsub/"
+      "url"   : "http://udgwebdev.com/meteor-pubsub/",
       "lang"  : "pt-br"
     },
     {
       "title" : "Organizando um projeto Meteor",
-      "url"   : "http://udgwebdev.com/organizando-um-projeto-meteor"
+      "url"   : "http://udgwebdev.com/organizando-um-projeto-meteor",
       "lang"  : "pt-br"
     },
     {
       "title" : "Meteor Methods",
-      "url"   : "http://udgwebdev.com/meteor-methods/"
+      "url"   : "http://udgwebdev.com/meteor-methods/",
       "lang"  : "pt-br"
     }
   ],
