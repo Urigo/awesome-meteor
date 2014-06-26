@@ -53,6 +53,11 @@
       "lang"  : "en"
     },
     {
+      "title" : "Reddit",
+      "url"   : "http://www.reddit.com/r/meteor",
+      "lang"  : "en"
+    },
+    {
       "title" : "Quora",
       "url"   : "https://www.quora.com/Meteor-web-framework",
       "lang"  : "en"
@@ -98,6 +103,13 @@
       "title" : "Underground WebDev Weekly",
       "url"   : "http://weekly.udgwebdev.com/",
       "lang"  : "pt-br"
+    }
+  ],
+  "Hackathons": [
+    {
+      "title" : "Meteor Challenge",
+      "url"   : "http://challenge.meteor.com/",
+      "lang"  : "en"
     }
   ],
   "Jobs": [
@@ -261,6 +273,18 @@
       "title" : "Introdução sobre Meteor",
       "url"   : "http://udgwebdev.com/introducao-sobre-meteor",
       "lang"  : "pt-br"
+    },
+    {
+      "title" : "Dynamic Template Includes With Blaze",
+      "url"   : "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/",
+      "lang"  : "en"
+    }
+  ],
+  "Discussions": [
+    {
+      "title" : "Is Meteor.js still relevant?",
+      "url"   : "http://www.reddit.com/r/javascript/comments/292jne/is_meteorjs_still_relevant/",
+      "lang"  : "en"
     }
   ],
   "Tutorials": [
@@ -378,6 +402,11 @@
       "title" : "Meteor Methods",
       "url"   : "http://udgwebdev.com/meteor-methods/",
       "lang"  : "pt-br"
+    },
+    {
+      "title" : "How To Add a Twitter Login System to Your Meteor Application with Smart Packages",
+      "url"   : "http://meteortips.com/twitter-account-login-system-tutorial/",
+      "lang"  : "en"
     }
   ],
   "Cheatsheets": [
