@@ -477,6 +477,12 @@
       "url"   : "https://github.com/seanrose/broadcast",
       "desc"  : "a meteor app for sharing presentations and syncing them in realtime",
       "lang"  : "en"
+    },
+    {
+      "title" : "Itinerary",
+      "url"   : "https://github.com/tomsabin/itinerary",
+      "desc"  : "Plan your days out",
+      "lang"  : "en"
     }
   ],
   "Boilerplates": [
