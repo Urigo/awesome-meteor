@@ -308,6 +308,11 @@
       "title" : "Building large, modular apps in Meteor",
       "url"   : "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
       "lang"  : "en"
+    },
+    {
+      "title" : "Using Node Modules with Meteor",
+      "url"   : "https://davidbeath.com/posts/using-node-modules-with-meteor.html",
+      "lang"  : "en"
     }
   ],
   "Discussions": [
