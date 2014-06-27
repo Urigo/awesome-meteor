@@ -91,6 +91,11 @@
       "title" : "Made with Meteor",
       "url"   : "http://madewith.meteor.com/",
       "lang"  : "en"
+    },
+    {
+      "title" : "LinuxFr.org",
+      "url"   : "http://linuxfr.org/tags/meteor/public",
+      "lang"  : "fr"
     }
   ],
   "News": [
