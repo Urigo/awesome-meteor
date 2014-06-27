@@ -63,6 +63,11 @@
       "lang"  : "en"
     },
     {
+      "title" : "Hackpad",
+      "url"   : "https://meteor.hackpad.com/",
+      "lang"  : "en"
+    },
+    {
       "title" : "Quora",
       "url"   : "https://www.quora.com/Meteor-web-framework",
       "lang"  : "en"
