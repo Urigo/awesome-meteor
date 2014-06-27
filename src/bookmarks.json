@@ -34,11 +34,6 @@
       "title" : "Coding Style Guide",
       "url"   : "https://github.com/meteor/meteor/wiki/Meteor-Style-Guide",
       "lang"  : "en"
-    },
-    {
-      "title" : "Getting Started With Unipackage",
-      "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ",
-      "lang"  : "en"
     }
   ],
   "Community": [
@@ -312,6 +307,11 @@
     {
       "title" : "Using Node Modules with Meteor",
       "url"   : "https://davidbeath.com/posts/using-node-modules-with-meteor.html",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Getting Started With Unipackage",
+      "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ",
       "lang"  : "en"
     }
   ],
