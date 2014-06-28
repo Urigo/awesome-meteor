@@ -313,6 +313,21 @@
       "title" : "Getting Started With Unipackage",
       "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ",
       "lang"  : "en"
+    },
+    {
+      "title" : "Meteor.js Package Only App Structure With Mediator Pattern",
+      "url"   : "http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Building large scale Meteor apps",
+      "url"   : "http://meteor.redandivory.com/#/",
+      "lang"  : "en"
+    },
+    {
+      "title" : "Meteor project structure — the way forward",
+      "url"   : "http://www.matb33.me/2013/09/05/meteor-project-structure.html",
+      "lang"  : "en"
     }
   ],
   "Discussions": [
@@ -694,11 +709,6 @@
     {
       "title" : "Scaling Meteor",
       "url"   : "http://fightingtheboss.github.io/scaling_meteor.html",
-      "lang"  : "en"
-    },
-    {
-      "title" : "Building Large Scale Meteor Apps",
-      "url"   : "http://meteor.redandivory.com/#/",
       "lang"  : "en"
     },
     {
