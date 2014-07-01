@@ -1,0 +1,33 @@
+{
+  "url": "http://www.youtube.com/watch?v=RWhbjQ7GeQw",
+  "parts": [
+    {
+      "title" : "Task Putty",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=18m"
+    },
+    {
+      "title" : "Meteor Packaging System",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=47m56s"
+    },
+    {
+      "title" : "DDP & Meteor as the Glue",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=1h18m10s"
+    },
+    {
+      "title" : "Roles based Accounts Management UI",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=1h22m47s"
+    },
+    {
+      "title" : "Sift",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=1h25m55s"
+    },
+    {
+      "title" : "Multiple Login Services per Account",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=1h31m4s"
+    },
+    {
+      "title" : "Proof: Design Collaboration",
+      "url"   : "http://www.youtube.com/watch?v=RWhbjQ7GeQw&feature=share&t=1h36m57s"
+    }
+  ]
+}

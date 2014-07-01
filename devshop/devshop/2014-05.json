@@ -1,0 +1,37 @@
+{
+  "url": "http://www.youtube.com/watch?v=ZWlL1dMoZp8",
+  "parts": [
+    {
+      "title" : "Tom Coleman - Two years with Meteor",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=9m20s"
+    },
+    {
+      "title" : "Geoff Schmidt - The Technology Behind Meteor",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=41m10s"
+    },
+    {
+      "title" : "Experimental Redis Support",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h13m10s"
+    },
+    {
+      "title" : "Sign Wave",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h20m43s"
+    },
+    {
+      "title" : "Respond.ly",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h29m20s"
+    },
+    {
+      "title" : "Josh Ovens",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h36m13s"
+    },
+    {
+      "title" : "StockBase & MyDateSpots",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h43m52s"
+    },
+    {
+      "title" : "Pegleg.it",
+      "url"   : "http://www.youtube.com/watch?v=ZWlL1dMoZp8&feature=share&t=1h48m17s"
+    }
+  ]
+}

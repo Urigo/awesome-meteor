@@ -1,0 +1,17 @@
+{
+  "url": "http://www.youtube.com/watch?v=zQhX5Tp6dcU",
+  "parts": [
+    {
+      "title" : "Introduction to Meteor with Sacha - Slides",
+      "url"   : "http://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=17m59s"
+    },
+    {
+      "title" : "Iron Router and the Meteor package ecosystem",
+      "url"   : "http://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=45m21s"
+    },
+    {
+      "title" : "Lightning Talks",
+      "url"   : "https://www.youtube.com/watch?v=zQhX5Tp6dcU&feature=share&t=1h36m25s"
+    }
+  ]
+}
