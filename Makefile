@@ -12,6 +12,6 @@ serve: build
 	@gulp
 
 publish:
-	BASE_URL='/meteor-bookmarks/' @gulp deploy
+	@BASE_URL='/meteor-bookmarks/' gulp deploy
 
 .PHONY: install clean build serve publish
