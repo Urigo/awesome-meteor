@@ -8,7 +8,7 @@
     <li>
       <a href="{{ link.url }}">{{ link.title }}</a>
       {% if link.desc %}<span class="desc">({{ link.desc }})</span>{% endif %}
-      <sup>[{{ link.lang }}]</sup>
+      <sup>[{% if link.lang %}{{ link.lang }}{% else %}en{% endif %}]</sup>
     </li>
     {% endfor %}
   </ul>
