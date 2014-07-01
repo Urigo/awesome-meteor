@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  <h2>Devshop</h2>
+  <ul>
+    {% for title, item in devshop %}
+    <li>
+      <h3><a href="{{ item.url }}">{{ title }}</a></h3>
+      <ul>
+        {% for part in item.parts %}
+        <li><a href="{{ part.url }}">{{ part.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+{% endblock %}

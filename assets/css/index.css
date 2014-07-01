@@ -62,6 +62,32 @@ ul {
   padding: 0 20px 20px 20px;
 }
 
+#menu ul {
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  padding: 0;
+}
+
+#menu li {
+  list-style: none;
+  display: inline-block;
+}
+
+#menu li a {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 200;
+}
+
+#menu li a:after {
+  content: ' | ';
+}
+
+#menu li:last-child a:after {
+  content: '';
+}
+
 /* Bookmarks
 ----------------------------------------------------------------------------- */
 .desc {

@@ -328,6 +328,22 @@
       "title" : "Meteor project structure — the way forward",
       "url"   : "http://www.matb33.me/2013/09/05/meteor-project-structure.html",
       "lang"  : "en"
+    },
+    {
+      "title": "New Begnning",
+      "url": "http://writings.danielfischer.com/new-beginning",
+      "lang": "en"
+    },
+    {
+      "title" : "Thoughts about Meteor",
+      "url"   : "https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c",
+      "lang"  : "en"
+    }
+  ],
+  "Slides": [
+    {
+      "title" : "Why Meteor?",
+      "url"   : "http://slides.com/rgoomar/why-meteor"
     }
   ],
   "Discussions": [
@@ -461,6 +477,11 @@
     {
       "title" : "Reactive Forms in Meteor JS",
       "url"   : "http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js",
+      "lang"  : "en"
+    },
+    {
+      "title" : "meteor: check a user's password",
+      "url"   : "https://dweldon.silvrback.com/check-password",
       "lang"  : "en"
     }
   ],
