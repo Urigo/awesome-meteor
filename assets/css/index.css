@@ -98,6 +98,12 @@ ul {
 
 /* Bookmarks
 ----------------------------------------------------------------------------- */
+.favicon {
+  margin-right: 5px;
+  width: 16px;
+  height: 16px;
+}
+
 .desc {
   color: #777;
   font-size: 14px;

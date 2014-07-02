@@ -4,6 +4,9 @@ var fs       = require('fs');
 var path     = require('path');
 var express  = require('express');
 var _        = require('lodash');
+var favicon  = require('favicon');
+var forEach  = require('async-foreach').forEach;
+var chalk    = require('chalk');
 var gulp     = require('gulp');
 var concat   = require('gulp-concat');
 var minify   = require('gulp-minify-css');
@@ -47,6 +50,30 @@ gulp.task('bookmarks:check:duplicates', ['bookmarks:check:json'], function() {
   var uniqs = _.uniq(items, function(b) { return b.url; });
   var dups  = _.filter(uniqs, function(b) { return _.filter(items, {url: b.url}).length >= 2; });
   if (dups.length) throw new Error('Found duplicated URLs: \n' + _.pluck(dups, 'url').join('\n'));
+});
+
+gulp.task('bookmarks:favicons', function(done) {
+  var data = [];
+  var bookmarks = JSON.parse(fs.readFileSync(path.join(__dirname, 'src', 'bookmarks.json')));
+  forEach(Object.keys(bookmarks), function(section) {
+    var linksDone = this.async();
+    var links = bookmarks[section];
+    forEach(links, function(link) {
+      var linkDone = this.async();
+      favicon(link.url, function(err, url) {
+        if (err) console.log(chalk.red(err));
+        console.log(chalk.gray('Fetching favicon for %s'), link.url);
+        url = url ? url : 'https://www.meteor.com/favicon.ico';
+        url = /^(?!http).*/i.test(url) ? 'http://' + url : url;
+        data.push({url: link.url, favicon: url});
+        linkDone();
+      });
+    }, linksDone);
+  }, function() {
+    fs.writeFileSync(path.join(__dirname, 'src', 'favicons.json'), JSON.stringify(data, null, 2));
+    done();
+  });
+
 });
 
 gulp.task('bookmarks', ['bookmarks:check:duplicates']);

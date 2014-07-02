@@ -3,8 +3,11 @@
 var fs         = require('fs');
 var path       = require('path');
 var util       = require('util');
+var parseURL   = require('url').parse;
 var _          = require('lodash');
 var moment     = require('moment');
+var async      = require('async');
+var forEach    = require('async-foreach').forEach;
 var Metalsmith = require('metalsmith');
 var permalinks = require('metalsmith-permalinks');
 var metadata   = require('metalsmith-metadata');
@@ -15,48 +18,81 @@ var buildDate  = require('metalsmith-build-date');
 module.exports = build;
 
 var BASE_URL = process.env.BASE_URL ? process.env.BASE_URL : '/';
+var DEVSHOP_DIR = path.join(__dirname, 'src', 'devshop');
+var FAVICONS_FILE = path.join(__dirname, 'src', 'favicons.json');
+var FAVICONS_PATCHES_FILES = path.join(__dirname, 'src', 'favicons-patches.json');
 
-var devshop      = {};
-var devshopDir   = path.join(__dirname, 'src', 'devshop');
-var devshopFiles = fs.readdirSync(devshopDir);
-devshopFiles.reverse();
+function getDevshopMetadata() {
+  var data = {};
+  var files = fs.readdirSync(DEVSHOP_DIR);
+  files.reverse();
+  files.forEach(function(file) {
+    var items  = JSON.parse(fs.readFileSync(path.join(DEVSHOP_DIR, file)));
+    var date   = path.basename(file, '.json').split('-');
+    date       = moment(new Date(util.format('%s-%s-01', date[0], date[1]))).format('YYYY MMMM');
+    data[date] = items;
+  });
+  return data;
+}
 
-devshopFiles.forEach(function(file) {
-  var items     = JSON.parse(fs.readFileSync(path.join(devshopDir, file)));
-  var date      = path.basename(file, '.json').split('-');
-  date          = moment(new Date(util.format('%s-%s-01', date[0], date[1]))).format('YYYY MMMM');
-  devshop[date] = items;
-});
+function setBookmarkDate(bookmark, cb) {
+  bookmark.date = moment(bookmark.added).toISOString();
+  cb();
+}
 
-function decorateBookmarks() {
+function setBookmarkDomain(bookmark, cb) {
+  bookmark.domain = parseURL(bookmark.url).hostname;
+  cb();
+}
+
+function setBookmarkFavicon(bookmark, favicons, cb) {
+  var favicon = _.find(favicons, {url: bookmark.url});
+  bookmark.favicon = favicon ? favicon.favicon : 'https://www.meteor.com/favicon.ico';
+  cb();
+}
+
+function getFavicons() {
+  if (!fs.existsSync(FAVICONS_FILE)) throw new Error('Please, run "gulp bookmarks:favicons"');
+  var favicons = JSON.parse(fs.readFileSync(FAVICONS_FILE));
+  var faviconsPatches = JSON.parse(fs.readFileSync(FAVICONS_PATCHES_FILES));
+  return _.union(faviconsPatches, favicons);
+}
+
+function addBookmarksMetadata() {
   return function(files, metalsmith, done) {
-    var metadata = metalsmith.metadata();
-    var bookmarks = metadata.bookmarks;
-    Object.keys(bookmarks).forEach(function(key) {
-      var links = bookmarks[key];
-      links.forEach(function(l) {
-        l.date = moment(l.added).toISOString();
-        l.domain = l.url.match(/:\/\/(www[0-9]?\.)?(.[^/:]+)/i)[2];
-      });
+    var bookmarks = metalsmith.metadata().bookmarks;
+    var favicons = getFavicons();
+    forEach(Object.keys(bookmarks), function(section) {
+      var links = bookmarks[section];
+      var linksDone = this.async();
+      forEach(links, function(link) {
+        var linkDone = this.async();
+        async.series([
+          setBookmarkDate.bind(null, link),
+          setBookmarkDomain.bind(null, link),
+          setBookmarkFavicon.bind(null, link, favicons)
+        ], linkDone);
+      }, linksDone);
+    }, function() {
+      done();
     });
-    done();
   };
 }
 
-var m = new Metalsmith(__dirname);
+var metalsmith = new Metalsmith(__dirname);
 
-m
+metalsmith
   .destination('./public')
-  .metadata(_.merge(m.metadata(), {BASE_URL: BASE_URL, devshop: devshop}))
+  .metadata(_.merge(metalsmith.metadata(), {BASE_URL: BASE_URL, devshop: getDevshopMetadata()}))
   .use(metadata({bookmarks: 'bookmarks.json'}))
-  .use(decorateBookmarks())
+  .use(addBookmarksMetadata())
   .use(markdown({smartypants: true, gfm: true, tables: true}))
   .use(buildDate())
   .use(permalinks({pattern: ':title'}))
   .use(templates({engine: 'swig', directory: 'templates'}));
 
 function build(done) {
-  m.build(function(err) {
+  metalsmith.build(function(err) {
     if (err) return done(err);
     done();
   });
