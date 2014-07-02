@@ -9,6 +9,7 @@
     "gulp-minify-css": "^0.3.5",
     "lodash": "^2.4.1",
     "metalsmith": "^0.8.0",
+    "metalsmith-build-date": "^0.1.0",
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-metadata": "0.0.1",
     "metalsmith-permalinks": "^0.3.2",

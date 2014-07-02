@@ -10,6 +10,7 @@ var permalinks = require('metalsmith-permalinks');
 var metadata   = require('metalsmith-metadata');
 var templates  = require('metalsmith-templates');
 var markdown   = require('metalsmith-markdown');
+var buildDate  = require('metalsmith-build-date');
 
 module.exports = build;
 
@@ -21,11 +22,26 @@ var devshopFiles = fs.readdirSync(devshopDir);
 devshopFiles.reverse();
 
 devshopFiles.forEach(function(file) {
-  var items = JSON.parse(fs.readFileSync(path.join(devshopDir, file)));
-  var date = path.basename(file, '.json').split('-');
-  date = moment(new Date(util.format('%s-%s-01', date[0], date[1]))).format('YYYY MMMM');
+  var items     = JSON.parse(fs.readFileSync(path.join(devshopDir, file)));
+  var date      = path.basename(file, '.json').split('-');
+  date          = moment(new Date(util.format('%s-%s-01', date[0], date[1]))).format('YYYY MMMM');
   devshop[date] = items;
 });
+
+function decorateBookmarks() {
+  return function(files, metalsmith, done) {
+    var metadata = metalsmith.metadata();
+    var bookmarks = metadata.bookmarks;
+    Object.keys(bookmarks).forEach(function(key) {
+      var links = bookmarks[key];
+      links.forEach(function(l) {
+        l.date = moment(l.added).toISOString();
+        l.domain = l.url.match(/:\/\/(www[0-9]?\.)?(.[^/:]+)/i)[2];
+      });
+    });
+    done();
+  };
+}
 
 var m = new Metalsmith(__dirname);
 
@@ -33,7 +49,9 @@ m
   .destination('./public')
   .metadata(_.merge(m.metadata(), {BASE_URL: BASE_URL, devshop: devshop}))
   .use(metadata({bookmarks: 'bookmarks.json'}))
+  .use(decorateBookmarks())
   .use(markdown({smartypants: true, gfm: true, tables: true}))
+  .use(buildDate())
   .use(permalinks({pattern: ':title'}))
   .use(templates({engine: 'swig', directory: 'templates'}));
 

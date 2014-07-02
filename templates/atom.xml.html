@@ -1,0 +1,17 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://gillesfabio.github.io/meteor-bookmarks/</id>
+  <title>Meteor Bookmarks</title>
+  <link href="{{ BASE_URL }}atom.xml" rel="self" type="application/atom+xml" />
+  <link href="{{ BASE_URL }}" rel="alternate" type="text/html" />
+  <updated>{{ date|date('c') }}</updated>
+  {% for title, links in bookmarks %}
+    {% for l in links %}
+    <entry xml:lang="{% if l.lang %}{{ l.lang }}{% else %}en{% endif %}">
+      <id>{{ l.url }}</id>
+      <title>{{ l.title }} ({{ l.domain }})</title>
+      <link rel="alternate" href="{{ l.url }}"/>
+      <updated>{{ l.date }}</updated>
+    </entry>
+    {% endfor %}
+  {% endfor %}
+</feed>

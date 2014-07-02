@@ -6,7 +6,7 @@
   <ul>
     {% for link in links %}
     <li>
-      <a href="{{ link.url }}">{{ link.title }}</a>
+      <a href="{{ link.url }}" title="{{ link.title }} ({{ link.domain }})">{{ link.title }}</a>
       {% if link.desc %}<span class="desc">({{ link.desc }})</span>{% endif %}
       {% if link.lang && link.lang !== 'en' %}<span class="lang">{{ link.lang }}</span>{% endif %}
       {% if link.tags %}

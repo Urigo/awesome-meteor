@@ -55,7 +55,7 @@ gulp.task('bookmarks', ['bookmarks:check:duplicates']);
 // -----------------------------------------------------------------------------
 gulp.task('build:metalsmith', ['bookmarks'], function(done) {
   build(function(err){
-    if (err) return err;
+    if (err) throw err;
     console.log('Metalsmith building... Done.');
     done();
   });

@@ -2,743 +2,897 @@
   "Meteor": [
     {
       "title" : "Blog",
-      "url"   : "https://www.meteor.com/blog/"
+      "url"   : "https://www.meteor.com/blog/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "IRC",
-      "url"   : "https://www.meteor.com/irc"
+      "url"   : "https://www.meteor.com/irc",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Twitter",
-      "url"   : "https://twitter.com/meteorjs"
+      "url"   : "https://twitter.com/meteorjs",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Roadmap",
-      "url"   : "https://trello.com/b/hjBDflxp/meteor-roadmap"
+      "url"   : "https://trello.com/b/hjBDflxp/meteor-roadmap",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Documentation",
-      "url"   : "http://docs.meteor.com/"
+      "url"   : "http://docs.meteor.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Core Development Google Group",
-      "url"   : "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core"
+      "url"   : "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Coding Style Guide",
-      "url"   : "https://github.com/meteor/meteor/wiki/Meteor-Style-Guide"
+      "url"   : "https://github.com/meteor/meteor/wiki/Meteor-Style-Guide",
+      "added" : "2014-07-02"
     }
   ],
   "Community": [
     {
       "title" : "Google Group",
-      "url"   : "https://groups.google.com/forum/?fromgroups#!forum/meteor-talk"
+      "url"   : "https://groups.google.com/forum/?fromgroups#!forum/meteor-talk",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meetup Groups",
-      "url"   : "http://meteor.meetup.com/"
+      "url"   : "http://meteor.meetup.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Stack Overflow",
-      "url"   : "http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15"
+      "url"   : "http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Reddit",
-      "url"   : "http://www.reddit.com/r/meteor"
+      "url"   : "http://www.reddit.com/r/meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Hackpad",
-      "url"   : "https://meteor.hackpad.com/"
+      "url"   : "https://meteor.hackpad.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Quora",
-      "url"   : "https://www.quora.com/Meteor-web-framework"
+      "url"   : "https://www.quora.com/Meteor-web-framework",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Google Plus",
-      "url"   : "https://plus.google.com/communities/116805089624721027440"
+      "url"   : "https://plus.google.com/communities/116805089624721027440",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Flickr",
-      "url"   : "https://www.flickr.com/photos/98640337@N05/with/12965522434/"
+      "url"   : "https://www.flickr.com/photos/98640337@N05/with/12965522434/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "YouTube",
-      "url"   : "https://www.youtube.com/user/MeteorVideos"
+      "url"   : "https://www.youtube.com/user/MeteorVideos",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Made with Meteor",
-      "url"   : "http://madewith.meteor.com/"
+      "url"   : "http://madewith.meteor.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "LinuxFr.org",
       "url"   : "http://linuxfr.org/tags/meteor/public",
-      "lang"  : "fr"
+      "lang"  : "fr",
+      "added" : "2014-07-02"
     }
   ],
   "News": [
     {
       "title" : "Crater.io",
-      "url"   : "http://crater.io/"
+      "url"   : "http://crater.io/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "MeteorHacks",
-      "url"   : "http://meteorhacks.com/"
+      "url"   : "http://meteorhacks.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Weekly",
-      "url"   : "http://meteorhacks.com/meteor-weekly/"
+      "url"   : "http://meteorhacks.com/meteor-weekly/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Underground WebDev Weekly",
       "url"   : "http://weekly.udgwebdev.com/",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "added" : "2014-07-02"
     }
   ],
   "Podcasts": [
     {
       "title" : "The Meteor Podcast",
-      "url"   : "http://www.meteorpodcast.com/"
+      "url"   : "http://www.meteorpodcast.com/",
+      "added" : "2014-07-02"
     }
   ],
   "Hackathons": [
     {
       "title" : "Meteor Challenge",
-      "url"   : "http://challenge.meteor.com/"
+      "url"   : "http://challenge.meteor.com/",
+      "added" : "2014-07-02"
     }
   ],
   "Jobs": [
     {
       "title" : "MeteorJS Jobs",
-      "url"   : "https://twitter.com/meteorjobs"
+      "url"   : "https://twitter.com/meteorjobs",
+      "added" : "2014-07-02"
     },
     {
       "title" : "We Work Meteor",
-      "url"   : "http://www.weworkmeteor.com/"
+      "url"   : "http://www.weworkmeteor.com/",
+      "added" : "2014-07-02"
     }
   ],
   "Books": [
     {
       "title" : "Discover Meteor",
-      "url"   : "http://www.discovermeteor.com/"
+      "url"   : "http://www.discovermeteor.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Cookbook",
-      "url"   : "http://meteorgitbook.harp.io/"
+      "url"   : "http://meteorgitbook.harp.io/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Getting Started with Meteor.js JavaScript Framework",
-      "url"   : "http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book"
+      "url"   : "http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Instant Meteor JavaScript Framework Starter",
-      "url"   : "http://www.packtpub.com/meteor-javascript-framework-starter/book"
+      "url"   : "http://www.packtpub.com/meteor-javascript-framework-starter/book",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Testing with Meteor",
       "url"   : "http://testingmeteor.com/",
-      "tags"  : ["testing"]
+      "tags"  : ["testing"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor: Criando aplicações web real-time com JavaScript",
       "url"   : "https://casadocodigo.refersion.com/l/d88.3525",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Explained - A Journey Into Meteor’s Reactivity",
-      "url"   : "https://gumroad.com/l/meteor-explained"
+      "url"   : "https://gumroad.com/l/meteor-explained",
+      "added" : "2014-07-02"
     }
   ],
   "Courses": [
     {
       "title" : "Udemy — Meteor: Build a real-time web app using only JavaScript!",
-      "url"   : "https://www.udemy.com/meteor-course/"
+      "url"   : "https://www.udemy.com/meteor-course/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Tuts+ — Single Page Web Apps with Meteor",
-      "url"   : "http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor"
+      "url"   : "http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor",
+      "added" : "2014-07-02"
     }
   ],
   "Useful Resources": [
     {
       "title" : "The Reactive Manifesto",
-      "url"   : "http://www.reactivemanifesto.org/"
+      "url"   : "http://www.reactivemanifesto.org/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Unofficial Meteor FAQ",
-      "url"   : "https://github.com/oortcloud/unofficial-meteor-faq"
+      "url"   : "https://github.com/oortcloud/unofficial-meteor-faq",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Cookbook",
-      "url"   : "https://github.com/awatson1978/meteor-cookbook"
+      "url"   : "https://github.com/awatson1978/meteor-cookbook",
+      "added" : "2014-07-02"
     },
     {
       "title" : "MeteorUp",
-      "url"   : "https://github.com/arunoda/meteor-up"
+      "url"   : "https://github.com/arunoda/meteor-up",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Tips",
-      "url"   : "http://meteortips.com/"
+      "url"   : "http://meteortips.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteorpedia",
-      "url"   : "http://www.meteorpedia.com/"
+      "url"   : "http://www.meteorpedia.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Pro Meteor",
-      "url"   : "http://meteorhacks.com/pro-meteor/"
+      "url"   : "http://meteorhacks.com/pro-meteor/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "EventedMind",
-      "url"   : "https://www.eventedmind.com"
+      "url"   : "https://www.eventedmind.com",
+      "added" : "2014-07-02"
     },
     {
       "title" : "30 days with Meteor",
-      "url"   : "http://30dayswithmeteor.ghost.io/"
+      "url"   : "http://30dayswithmeteor.ghost.io/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Full stack guidelines for Meteor apps",
-      "url"   : "https://github.com/romanzolotarev/guidelines"
+      "url"   : "https://github.com/romanzolotarev/guidelines",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Manuel Schoebel's Blog",
       "url"   : "http://www.manuel-schoebel.com/blog",
-      "lang"  : "en"
+      "added" : "2014-07-02"
     },
     {
       "title" : "Underground WebDev - Meteor",
       "url"   : "http://udgwebdev.com/meteor/",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Gentlenode Studio's Journal",
-      "url"   : "http://journal.gentlenode.com/"
+      "url"   : "http://journal.gentlenode.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Hello Meteor",
-      "url"   : "http://www.hellometeor.com/"
+      "url"   : "http://www.hellometeor.com/",
+      "added" : "2014-07-02"
     }
   ],
   "Articles": [
     {
       "title" : "Best Learning Resources for Meteor.js",
-      "url"   : "http://yauh.de/best-learning-resources-for-meteorjs/"
+      "url"   : "http://yauh.de/best-learning-resources-for-meteorjs/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "The (not so) real problems of meteor.js",
-      "url"   : "http://differential.io/blog/the-not-so-real-problems-of-meteorjs"
+      "url"   : "http://differential.io/blog/the-not-so-real-problems-of-meteorjs",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor vs Angular",
       "url"   : "http://differential.io/blog/meteor-vs-angular",
-      "tags"  : ["comparison"]
+      "tags"  : ["comparison"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Confessions of a Meteor Newb",
-      "url"   : "http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb"
+      "url"   : "http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor is F***ing Awesome",
-      "url"   : "https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d"
+      "url"   : "https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d",
+      "added" : "2014-07-02"
     },
     {
       "title" : "So what is Meteor?",
       "url"   : "http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/",
-      "lang"  : "fr"
+      "lang"  : "fr",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Introdução sobre Meteor",
       "url"   : "http://udgwebdev.com/introducao-sobre-meteor",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Dynamic Template Includes With Blaze",
       "url"   : "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/",
-      "tags"  : ["templating"]
+      "tags"  : ["templating"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Journey into Meteor's Reactivity",
-      "url"   : "http://meteorhacks.com/journey-into-meteors-reactivity.html"
+      "url"   : "http://meteorhacks.com/journey-into-meteors-reactivity.html",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Building large, modular apps in Meteor",
       "url"   : "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
-      "tags"  : ["architecture"]
+      "tags"  : ["architecture"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Using Node Modules with Meteor",
       "url"   : "https://davidbeath.com/posts/using-node-modules-with-meteor.html",
-      "tags"  : ["node", "npm"]
+      "tags"  : ["node", "npm"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Getting Started With Unipackage",
       "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ",
-      "tags"  : ["packaging"]
+      "tags"  : ["packaging"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor.js Package Only App Structure With Mediator Pattern",
       "url"   : "http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern",
-      "tags"  : ["architecture"]
+      "tags"  : ["architecture"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor project structure — the way forward",
       "url"   : "http://www.matb33.me/2013/09/05/meteor-project-structure.html",
-      "tags"  : ["architecture"]
+      "tags"  : ["architecture"],
+      "added" : "2014-07-02"
     },
     {
-      "title": "New Begnning",
-      "url": "http://writings.danielfischer.com/new-beginning"
+      "title" : "New Begnning",
+      "url"   : "http://writings.danielfischer.com/new-beginning",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Thoughts about Meteor",
-      "url"   : "https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c"
+      "url"   : "https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor and SEO",
       "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo",
-      "tags"  : ["seo"]
+      "tags"  : ["seo"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Does Meteor Scale?",
       "url"   : "http://meteorhacks.com/does-meteor-scale.html",
-      "tags"  : ["scaling"]
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "How to Scale Meteor?",
       "url"   : "http://meteorhacks.com/how-to-scale-meteor.html",
-      "tags"  : ["scaling"]
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Scaling Meteor",
       "url"   : "http://fightingtheboss.github.io/scaling_meteor.html",
-      "tags"  : ["scaling"]
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor, the Oplog and Elastic Deployments",
       "url"   : "http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Testing Tools Comparison",
       "url"   : "http://safety-harness.meteor.com/comparison",
-      "tags"  : ["testing"]
+      "tags"  : ["testing"],
+      "added" : "2014-07-02"
     }
   ],
   "Slides": [
     {
       "title" : "Why Meteor?",
-      "url"   : "http://slides.com/rgoomar/why-meteor"
+      "url"   : "http://slides.com/rgoomar/why-meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Building a Production-Ready Meteor App",
       "url"   : "http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app",
-      "tags"  : ["scaling"]
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Building large scale Meteor apps",
       "url"   : "http://meteor.redandivory.com/#/",
-      "tags"  : ["scaling", "architecture"]
+      "tags"  : ["scaling", "architecture"],
+      "added" : "2014-07-02"
     }
   ],
   "Discussions": [
     {
       "title" : "Is Meteor.js still relevant?",
-      "url"   : "http://www.reddit.com/r/javascript/comments/292jne/is_meteorjs_still_relevant/"
+      "url"   : "http://www.reddit.com/r/javascript/comments/292jne/is_meteorjs_still_relevant/",
+      "added" : "2014-07-02"
     }
   ],
   "Tutorials": [
     {
       "title" : "Diving into MeteorJS",
-      "url"   : "http://moduscreate.com/diving-into-meteorjs/"
+      "url"   : "http://moduscreate.com/diving-into-meteorjs/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "What's This Meteor Thing?",
-      "url"   : "http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426"
+      "url"   : "http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Prototyping With Meteor",
-      "url"   : "http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915"
+      "url"   : "http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Builing an App in 45 Minutes with Meteor",
-      "url"   : "http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/"
+      "url"   : "http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Creating a Multi-Page Site with Meteor",
-      "url"   : "http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849"
+      "url"   : "http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Building a Web App From Scratch in Meteor",
-      "url"   : "https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor"
+      "url"   : "https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Tutorial: Writing your first Meteor application",
-      "url"   : "http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/"
+      "url"   : "http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor.js in Action: Create an App, Test With Laika",
       "url"   : "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika",
-      "tags"  : ["testing"]
+      "tags"  : ["testing"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo",
-      "url"   : "http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/"
+      "url"   : "http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Real-Time Messaging for Meteor With Meteor Streams",
-      "url"   : "https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs"
+      "url"   : "https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Iron-Router Tutorial",
       "url"   : "http://www.manuel-schoebel.com/blog/iron-router-tutorial",
-      "tags"  : ["routing"]
+      "tags"  : ["routing"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Realtime Maps With Meteor and Leaflet - Part One",
       "url"   : "http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/",
-      "tags"  : ["geo"]
+      "tags"  : ["geo"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Realtime Maps With Meteor and Leaflet - Part Two",
       "url"   : "http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/",
-      "tags"  : ["geo"]
+      "tags"  : ["geo"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Design a Complete Authentication System with Meteor",
       "url"   : "https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/",
-      "tags"  : ["authentication"]
+      "tags"  : ["authentication"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "My first meteor.js application, a LinkedIn crawler",
-      "url"   : "http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/"
+      "url"   : "http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Set Up Navigation With Iron Router and Bootstrap",
       "url"   : "http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/",
-      "tags"  : ["routing"]
+      "tags"  : ["routing"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor JS : B.A. BA et bonnes pratiques",
       "url"   : "http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/",
       "lang"  : "fr",
-      "tags"  : ["best-practices"]
+      "tags"  : ["best-practices"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "CloudAtlas : une application pour tester Meteor.JS",
       "url"   : "http://tibomahe.github.io/cloudAtlas-Meteor-App/",
-      "lang"  : "fr"
+      "lang"  : "fr",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Understanding Deps",
       "url"   : "https://meteor.hackpad.com/DRAFT-Understanding-Deps-aAXG6T9lkf6",
-      "tags"  : ["core"]
+      "tags"  : ["core"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor : la plateforme Web temps réel qui accroît la productivité",
       "url"   : "http://soren-ohnmeiss.developpez.com/tutoriels/javascript/meteor/introduction-meteor/",
-      "lang"  : "fr"
+      "lang"  : "fr",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor PubSub",
       "url"   : "http://udgwebdev.com/meteor-pubsub/",
       "lang"  : "pt-br",
-      "tags"  : ["core"]
+      "tags"  : ["core"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Organizando um projeto Meteor",
       "url"   : "http://udgwebdev.com/organizando-um-projeto-meteor",
       "lang"  : "pt-br",
-      "tags"  : ["architecture"]
+      "tags"  : ["architecture"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor Methods",
       "url"   : "http://udgwebdev.com/meteor-methods/",
       "lang"  : "pt-br",
-      "tags"  : ["core"]
+      "tags"  : ["core"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "How To Add a Twitter Login System to Your Meteor Application with Smart Packages",
       "url"   : "http://meteortips.com/twitter-account-login-system-tutorial/",
-      "tags"  : ["authentication"]
+      "tags"  : ["authentication"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Reactive Forms in Meteor JS",
       "url"   : "http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js",
-      "tags"  : ["forms"]
+      "tags"  : ["forms"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "meteor: check a user's password",
       "url"   : "https://dweldon.silvrback.com/check-password",
-      "tags"  : ["authentication"]
+      "tags"  : ["authentication"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Phusion Passenger: Meteor tutorial",
       "url"   : "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "How to deploy Meteor on Amazon EC2",
       "url"   : "http://julien-c.fr/2012/10/meteor-amazon-ec2/",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #1: Deploy a Meteor application on Ubuntu with Nginx",
       "url"   : "http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #2: Build a complete registration system",
       "url"   : "http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/",
-      "tags"  : ["authentication"]
+      "tags"  : ["authentication"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #3: SMTP configuration",
       "url"   : "http://journal.gentlenode.com/meteor-3-smtp-configuration/",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #4: Best ressources to become a master",
-      "url"   : "http://journal.gentlenode.com/meteor-4-best-meteor-ressources/"
+      "url"   : "http://journal.gentlenode.com/meteor-4-best-meteor-ressources/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #5: Cheatsheet",
-      "url"   : "http://journal.gentlenode.com/meteor-5-cheatsheet/"
+      "url"   : "http://journal.gentlenode.com/meteor-5-cheatsheet/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #6: Reactive and non-reactive join with MongoDB",
       "url"   : "http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/",
-      "tags"  : ["database", "mongodb"]
+      "tags"  : ["database", "mongodb"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #7: Must-watch videos",
-      "url"   : "http://journal.gentlenode.com/meteor-7-must-watch-videos/"
+      "url"   : "http://journal.gentlenode.com/meteor-7-must-watch-videos/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #8: Create and execute a payment with Paypal REST API",
       "url"   : "http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/",
-      "tags"  : ["e-commerce"]
+      "tags"  : ["e-commerce"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #9: Internationalization (i18n)",
       "url"   : "http://journal.gentlenode.com/meteor-9-internationalization-i18n/",
-      "tags"  : ["i18n"]
+      "tags"  : ["i18n"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #10: Set up Oplog tailing on Ubuntu",
       "url"   : "http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/",
-      "tags"  : ["deployment", "database", "mongodb"]
+      "tags"  : ["deployment", "database", "mongodb"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #11: Iron Router cheatsheet",
       "url"   : "http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/",
-      "tags"  : ["routing"]
+      "tags"  : ["routing"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #12: The complete guide to SEO",
       "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/",
-      "tags"  : ["seo"]
+      "tags"  : ["seo"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteor #13: Managing User Roles",
       "url"   : "http://journal.gentlenode.com/meteor-13-managing-user-roles/",
-      "tags"  : ["authentication"]
+      "tags"  : ["authentication"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Running your meteor.js application on your own server",
       "url"   : "http://ox86.tumblr.com/post/45184656062/running-your-meteor-js-application-on-your-own-server",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Pushing Your Meteor Project to Heroku",
       "url"   : "http://bytesofpi.com/post/20898722298/pushing-your-meteor-project-to-heroku",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     },
     {
       "title" : "Deploying a Meteor App to Modulus",
       "url"   : "http://rywalker.com/deploying-a-meteor-app-to-modulus",
-      "tags"  : ["deployment"]
+      "tags"  : ["deployment"],
+      "added" : "2014-07-02"
     }
   ],
   "Sources": [
     {
       "title" : "TelescopeJS",
       "url"   : "https://github.com/TelescopeJS/Telescope",
-      "desc"  : "HN clone"
+      "desc"  : "HN clone",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Microscope",
       "url"   : "https://github.com/DiscoverMeteor/Microscope",
-      "desc"  : "The Discover Meteor book's example app"
+      "desc"  : "The Discover Meteor book's example app",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Azimuth",
       "url"   : "https://github.com/mcrider/azimuth",
-      "desc"  :  "a simple, elegant, and fast CMS"
+      "desc"  :  "a simple, elegant, and fast CMS",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Atmosphere",
       "url"   : "https://github.com/oortcloud/atmosphere",
-      "desc"  : "Atmosphere Smart Package Database for Meteor"
+      "desc"  : "Atmosphere Smart Package Database for Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Ground Control",
       "url"   : "https://github.com/percolatestudio/ground-control",
-      "desc"  : "a next generation blog"
+      "desc"  : "a next generation blog",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Browpie",
       "url"   : "https://github.com/alanshaw/meteor-browpie",
-      "desc"  : "live updated pie charts of browser usage share"
+      "desc"  : "live updated pie charts of browser usage share",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Fortnight",
       "url"   : "https://github.com/oliversong/fortnight",
-      "desc"  : "a scoped, heatmapping, load-balancing todo list"
+      "desc"  : "a scoped, heatmapping, load-balancing todo list",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Reaction",
       "url"   : "https://github.com/ongoworks/reaction",
-      "desc"  : "e-commerce platform"
+      "desc"  : "e-commerce platform",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Crowducate",
       "url"   : "https://github.com/Crowducate/crowducate.me",
-      "desc"  : "open education platform"
+      "desc"  : "open education platform",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Repeeet",
       "url"   : "https://github.com/meteorhacks/repeeet",
-      "desc"  : "making repeeet tweeting super simple"
+      "desc"  : "making repeeet tweeting super simple",
+      "added" : "2014-07-02"
     },
     {
       "title" : "We Work Meteor",
       "url"   : "https://github.com/nate-strauser/wework",
-      "desc"  : "a job board and expert listing for meteor specific work"
+      "desc"  : "a job board and expert listing for meteor specific work",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Lister",
       "url"   : "https://github.com/Differential/lister",
-      "desc"  : "App for easy public sharable lists. Our meteor playground"
+      "desc"  : "App for easy public sharable lists. Our meteor playground",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Supporter",
       "url"   : "https://github.com/Differential/supporter",
-      "desc"  : "Support social communities in their effort to help each other resolve their needs"
+      "desc"  : "Support social communities in their effort to help each other resolve their needs",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Kvazar",
       "url"   : "https://github.com/AristosGroup/kvazar",
-      "desc"  : "Next generation Project Management App built with Meteor"
+      "desc"  : "Next generation Project Management App built with Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Broadast",
       "url"   : "https://github.com/seanrose/broadcast",
-      "desc"  : "a meteor app for sharing presentations and syncing them in realtime"
+      "desc"  : "a meteor app for sharing presentations and syncing them in realtime",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Itinerary",
       "url"   : "https://github.com/tomsabin/itinerary",
-      "desc"  : "Plan your days out"
+      "desc"  : "Plan your days out",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Socialite",
       "url"   : "https://github.com/eprochasson/socialite",
-      "desc"  : "A simple facebook-like app made with Meteor"
+      "desc"  : "A simple facebook-like app made with Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "TicTacToe",
       "url"   : "https://github.com/caio-ribeiro-pereira/meteor-tictactoe",
-      "desc"  : "This is a classic tictactoe multiplayer game"
+      "desc"  : "This is a classic tictactoe multiplayer game",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Faraona",
       "url"   : "https://github.com/Fenicio/Faraona",
-      "desc"  : "Yet another blogging platform in Meteor"
+      "desc"  : "Yet another blogging platform in Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Meteoritter",
       "url"   : "https://github.com/Fenicio/Meteoritter",
-      "desc"  : "Twitter clone made in Meteor"
+      "desc"  : "Twitter clone made in Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Padawan",
       "url"   : "https://github.com/Fenicio/padawan",
-      "desc"  : "Stack overflow clone in Meteor for academia"
+      "desc"  : "Stack overflow clone in Meteor for academia",
+      "added" : "2014-07-02"
     }
   ],
   "Boilerplates": [
     {
       "title" : "Differential",
-      "url"   : "https://github.com/Differential/meteor-boilerplate"
+      "url"   : "https://github.com/Differential/meteor-boilerplate",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Patrick Coffey",
-      "url"   : "https://github.com/patrickocoffeyo/meteor-boilerplate"
+      "url"   : "https://github.com/patrickocoffeyo/meteor-boilerplate",
+      "added" : "2014-07-02"
     },
     {
       "title" : "matteodem",
-      "url"   : "https://github.com/matteodem/meteor-boilerplate"
+      "url"   : "https://github.com/matteodem/meteor-boilerplate",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Liftoff",
-      "url"   : "https://github.com/jfols/liftoff"
+      "url"   : "https://github.com/jfols/liftoff",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Justin McCandless",
-      "url"   : "https://github.com/justinmc/meteor-backbone-boilerplate"
+      "url"   : "https://github.com/justinmc/meteor-backbone-boilerplate",
+      "added" : "2014-07-02"
     }
   ],
   "Reusable Apps": [
     {
       "title" : "meteor-blog",
-      "url"   : "http://github.differential.io/meteor-blog/"
+      "url"   : "http://github.differential.io/meteor-blog/",
+      "added" : "2014-07-02"
     }
   ],
   "Tools": [
     {
       "title" : "Meteorite",
       "url"   : "http://oortcloud.github.io/meteorite/",
-      "desc"  : "Meteor version manager and package manager"
+      "desc"  : "Meteor version manager and package manager",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Atmosphere",
       "url"   : "https://atmospherejs.com/",
-      "desc"  : "catalog for Meteor packages, resources and tools"
+      "desc"  : "catalog for Meteor packages, resources and tools",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Audit",
       "url"   : "http://audit.meteor.com",
-      "desc"  : "your meteor site analyzed"
+      "desc"  : "your meteor site analyzed",
+      "added" : "2014-07-02"
     }
   ],
   "Testing Packages": [
     {
       "title" : "RTD",
       "url"   : "http://xolvio.github.io/rtd/",
-      "desc"  :  "The Meteor Test Runner"
+      "desc"  :  "The Meteor Test Runner",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Laika",
       "url"   : "http://arunoda.github.io/laika/",
-      "desc"  :  "Testing Framework for Meteor"
+      "desc"  :  "Testing Framework for Meteor",
+      "added" : "2014-07-02"
     },
     {
       "title": "selenium-nightwatch",
-      "url": "https://github.com/awatson1978/selenium-nightwatch"
+      "url": "https://github.com/awatson1978/selenium-nightwatch",
+      "added" : "2014-07-02"
     }
   ],
   "Work with Meteor": [
     {
       "title" : "Meteor",
-      "url"   : "https://www.meteor.com/"
+      "url"   : "https://www.meteor.com/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Differential",
-      "url"   : "http://differential.io/"
+      "url"   : "http://differential.io/",
+      "added" : "2014-07-02"
     },
     {
       "title" : "Percolate Studio",
-      "url"   : "http://www.percolatestudio.com/"
+      "url"   : "http://www.percolatestudio.com/",
+      "added" : "2014-07-02"
     }
   ]
 }

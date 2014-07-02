@@ -103,7 +103,7 @@ ul {
   font-size: 14px;
 }
 
-.lang, .tag {
+.lang, .tag, .domain {
   color: #909090;
   font-weight: bold;
   font-size: 12px;
