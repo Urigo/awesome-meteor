@@ -102,7 +102,7 @@ ul {
 .lang, .tag {
   color: #909090;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
   padding: 3px;
   text-transform: uppercase;
   vertical-align: middle;
@@ -112,7 +112,7 @@ ul {
 }
 
 .tag {
-  background: #ececec;
+  background: #ddd;
 }
 
 .lang {
