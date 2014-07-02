@@ -75,20 +75,24 @@ ul {
 
 #menu li {
   list-style: none;
-  display: inline-block;
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
 
 #menu li a {
   text-align: center;
   font-size: 22px;
   font-weight: 200;
+  text-transform: uppercase;
+  padding: 0 5px;
 }
 
-#menu li a:after {
-  content: ' | ';
+#menu li:after {
+  content: ' ●';
 }
 
-#menu li:last-child a:after {
+#menu li:last-child:after {
   content: '';
 }
 
