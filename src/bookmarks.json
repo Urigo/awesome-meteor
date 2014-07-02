@@ -184,6 +184,11 @@
   ],
   "Courses": [
     {
+      "title" : "EventedMind",
+      "url"   : "https://www.eventedmind.com",
+      "added" : "2014-07-02"
+    },
+    {
       "title" : "Udemy — Meteor: Build a real-time web app using only JavaScript!",
       "url"   : "https://www.udemy.com/meteor-course/",
       "added" : "2014-07-02"
@@ -228,11 +233,6 @@
     {
       "title" : "Pro Meteor",
       "url"   : "http://meteorhacks.com/pro-meteor/",
-      "added" : "2014-07-02"
-    },
-    {
-      "title" : "EventedMind",
-      "url"   : "https://www.eventedmind.com",
       "added" : "2014-07-02"
     },
     {
