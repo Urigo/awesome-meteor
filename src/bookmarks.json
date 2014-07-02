@@ -649,6 +649,21 @@
       "title" : "TicTacToe",
       "url"   : "https://github.com/caio-ribeiro-pereira/meteor-tictactoe",
       "desc"  : "This is a classic tictactoe multiplayer game"
+    },
+    {
+      "title" : "Faraona",
+      "url"   : "https://github.com/Fenicio/Faraona",
+      "desc"  : "Yet another blogging platform in Meteor"
+    },
+    {
+      "title" : "Meteoritter",
+      "url"   : "https://github.com/Fenicio/Meteoritter",
+      "desc"  : "Twitter clone made in Meteor"
+    },
+    {
+      "title" : "Padawan",
+      "url"   : "https://github.com/Fenicio/padawan",
+      "desc"  : "Stack overflow clone in Meteor for academia"
     }
   ],
   "Boilerplates": [
