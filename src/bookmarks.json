@@ -95,6 +95,12 @@
       "lang"  : "pt-br"
     }
   ],
+  "Podcasts": [
+    {
+      "title" : "The Meteor Podcast",
+      "url"   : "http://www.meteorpodcast.com/"
+    }
+  ],
   "Hackathons": [
     {
       "title" : "Meteor Challenge",
@@ -104,18 +110,11 @@
   "Jobs": [
     {
       "title" : "MeteorJS Jobs",
-      "url"   : "https://twitter.com/meteorjobs",
-      "desc"  : "Twitter"
+      "url"   : "https://twitter.com/meteorjobs"
     },
     {
       "title" : "We Work Meteor",
       "url"   : "http://www.weworkmeteor.com/"
-    }
-  ],
-  "Podcasts": [
-    {
-      "title" : "The Meteor Podcast",
-      "url"   : "http://www.meteorpodcast.com/"
     }
   ],
   "Books": [
@@ -137,7 +136,8 @@
     },
     {
       "title" : "Testing with Meteor",
-      "url"   : "http://testingmeteor.com/"
+      "url"   : "http://testingmeteor.com/",
+      "tags"  : ["testing"]
     },
     {
       "title" : "Meteor: Criando aplicações web real-time com JavaScript",
@@ -226,7 +226,8 @@
     },
     {
       "title" : "Meteor vs Angular",
-      "url"   : "http://differential.io/blog/meteor-vs-angular"
+      "url"   : "http://differential.io/blog/meteor-vs-angular",
+      "tags"  : ["comparison"]
     },
     {
       "title" : "Confessions of a Meteor Newb",
@@ -248,7 +249,8 @@
     },
     {
       "title" : "Dynamic Template Includes With Blaze",
-      "url"   : "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/"
+      "url"   : "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/",
+      "tags"  : ["templating"]
     },
     {
       "title" : "Journey into Meteor's Reactivity",
@@ -256,27 +258,28 @@
     },
     {
       "title" : "Building large, modular apps in Meteor",
-      "url"   : "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/"
+      "url"   : "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
+      "tags"  : ["architecture"]
     },
     {
       "title" : "Using Node Modules with Meteor",
-      "url"   : "https://davidbeath.com/posts/using-node-modules-with-meteor.html"
+      "url"   : "https://davidbeath.com/posts/using-node-modules-with-meteor.html",
+      "tags"  : ["node", "npm"]
     },
     {
       "title" : "Getting Started With Unipackage",
-      "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ"
+      "url"   : "https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ",
+      "tags"  : ["packaging"]
     },
     {
       "title" : "Meteor.js Package Only App Structure With Mediator Pattern",
-      "url"   : "http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern"
-    },
-    {
-      "title" : "Building large scale Meteor apps",
-      "url"   : "http://meteor.redandivory.com/#/"
+      "url"   : "http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern",
+      "tags"  : ["architecture"]
     },
     {
       "title" : "Meteor project structure — the way forward",
-      "url"   : "http://www.matb33.me/2013/09/05/meteor-project-structure.html"
+      "url"   : "http://www.matb33.me/2013/09/05/meteor-project-structure.html",
+      "tags"  : ["architecture"]
     },
     {
       "title": "New Begnning",
@@ -288,13 +291,49 @@
     },
     {
       "title" : "Meteor and SEO",
-      "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo"
+      "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo",
+      "tags"  : ["seo"]
+    },
+    {
+      "title" : "Does Meteor Scale?",
+      "url"   : "http://meteorhacks.com/does-meteor-scale.html",
+      "tags"  : ["scaling"]
+    },
+    {
+      "title" : "How to Scale Meteor?",
+      "url"   : "http://meteorhacks.com/how-to-scale-meteor.html",
+      "tags"  : ["scaling"]
+    },
+    {
+      "title" : "Scaling Meteor",
+      "url"   : "http://fightingtheboss.github.io/scaling_meteor.html",
+      "tags"  : ["scaling"]
+    },
+    {
+      "title" : "Meteor, the Oplog and Elastic Deployments",
+      "url"   : "http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/",
+      "tags"  : ["deployment"]
+    },
+    {
+      "title" : "Testing Tools Comparison",
+      "url"   : "http://safety-harness.meteor.com/comparison",
+      "tags"  : ["testing"]
     }
   ],
   "Slides": [
     {
       "title" : "Why Meteor?",
       "url"   : "http://slides.com/rgoomar/why-meteor"
+    },
+    {
+      "title" : "Building a Production-Ready Meteor App",
+      "url"   : "http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app",
+      "tags"  : ["scaling"]
+    },
+    {
+      "title" : "Building large scale Meteor apps",
+      "url"   : "http://meteor.redandivory.com/#/",
+      "tags"  : ["scaling", "architecture"]
     }
   ],
   "Discussions": [
@@ -334,7 +373,8 @@
     },
     {
       "title" : "Meteor.js in Action: Create an App, Test With Laika",
-      "url"   : "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika"
+      "url"   : "http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika",
+      "tags"  : ["testing"]
     },
     {
       "title" : "Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo",
@@ -346,19 +386,23 @@
     },
     {
       "title" : "Iron-Router Tutorial",
-      "url"   : "http://www.manuel-schoebel.com/blog/iron-router-tutorial"
+      "url"   : "http://www.manuel-schoebel.com/blog/iron-router-tutorial",
+      "tags"  : ["routing"]
     },
     {
       "title" : "Realtime Maps With Meteor and Leaflet - Part One",
-      "url"   : "http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/"
+      "url"   : "http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/",
+      "tags"  : ["geo"]
     },
     {
       "title" : "Realtime Maps With Meteor and Leaflet - Part Two",
-      "url"   : "http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/"
+      "url"   : "http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/",
+      "tags"  : ["geo"]
     },
     {
       "title" : "Design a Complete Authentication System with Meteor",
-      "url"   : "https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/"
+      "url"   : "https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/",
+      "tags"  : ["authentication"]
     },
     {
       "title" : "My first meteor.js application, a LinkedIn crawler",
@@ -366,12 +410,14 @@
     },
     {
       "title" : "Set Up Navigation With Iron Router and Bootstrap",
-      "url"   : "http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/"
+      "url"   : "http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/",
+      "tags"  : ["routing"]
     },
     {
       "title" : "Meteor JS : B.A. BA et bonnes pratiques",
       "url"   : "http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/",
-      "lang"  : "fr"
+      "lang"  : "fr",
+      "tags"  : ["best-practices"]
     },
     {
       "title" : "CloudAtlas : une application pour tester Meteor.JS",
@@ -380,7 +426,8 @@
     },
     {
       "title" : "Understanding Deps",
-      "url"   : "https://meteor.hackpad.com/DRAFT-Understanding-Deps-aAXG6T9lkf6"
+      "url"   : "https://meteor.hackpad.com/DRAFT-Understanding-Deps-aAXG6T9lkf6",
+      "tags"  : ["core"]
     },
     {
       "title" : "Meteor : la plateforme Web temps réel qui accroît la productivité",
@@ -390,41 +437,60 @@
     {
       "title" : "Meteor PubSub",
       "url"   : "http://udgwebdev.com/meteor-pubsub/",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "tags"  : ["core"]
     },
     {
       "title" : "Organizando um projeto Meteor",
       "url"   : "http://udgwebdev.com/organizando-um-projeto-meteor",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "tags"  : ["architecture"]
     },
     {
       "title" : "Meteor Methods",
       "url"   : "http://udgwebdev.com/meteor-methods/",
-      "lang"  : "pt-br"
+      "lang"  : "pt-br",
+      "tags"  : ["core"]
     },
     {
       "title" : "How To Add a Twitter Login System to Your Meteor Application with Smart Packages",
-      "url"   : "http://meteortips.com/twitter-account-login-system-tutorial/"
+      "url"   : "http://meteortips.com/twitter-account-login-system-tutorial/",
+      "tags"  : ["authentication"]
     },
     {
       "title" : "Reactive Forms in Meteor JS",
-      "url"   : "http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js"
+      "url"   : "http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js",
+      "tags"  : ["forms"]
     },
     {
       "title" : "meteor: check a user's password",
-      "url"   : "https://dweldon.silvrback.com/check-password"
+      "url"   : "https://dweldon.silvrback.com/check-password",
+      "tags"  : ["authentication"]
+    },
+    {
+      "title" : "Phusion Passenger: Meteor tutorial",
+      "url"   : "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial",
+      "tags"  : ["deployment"]
+    },
+    {
+      "title" : "How to deploy Meteor on Amazon EC2",
+      "url"   : "http://julien-c.fr/2012/10/meteor-amazon-ec2/",
+      "tags"  : ["deployment"]
     },
     {
       "title" : "Meteor #1: Deploy a Meteor application on Ubuntu with Nginx",
-      "url"   : "http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/"
+      "url"   : "http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/",
+      "tags"  : ["deployment"]
     },
     {
       "title" : "Meteor #2: Build a complete registration system",
-      "url"   : "http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/"
+      "url"   : "http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/",
+      "tags"  : ["authentication"]
     },
     {
       "title" : "Meteor #3: SMTP configuration",
-      "url"   : "http://journal.gentlenode.com/meteor-3-smtp-configuration/"
+      "url"   : "http://journal.gentlenode.com/meteor-3-smtp-configuration/",
+      "tags"  : ["deployment"]
     },
     {
       "title" : "Meteor #4: Best ressources to become a master",
@@ -436,7 +502,8 @@
     },
     {
       "title" : "Meteor #6: Reactive and non-reactive join with MongoDB",
-      "url"   : "http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/"
+      "url"   : "http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/",
+      "tags"  : ["database", "mongodb"]
     },
     {
       "title" : "Meteor #7: Must-watch videos",
@@ -444,27 +511,48 @@
     },
     {
       "title" : "Meteor #8: Create and execute a payment with Paypal REST API",
-      "url"   : "http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/"
+      "url"   : "http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/",
+      "tags"  : ["e-commerce"]
     },
     {
       "title" : "Meteor #9: Internationalization (i18n)",
-      "url"   : "http://journal.gentlenode.com/meteor-9-internationalization-i18n/"
+      "url"   : "http://journal.gentlenode.com/meteor-9-internationalization-i18n/",
+      "tags"  : ["i18n"]
     },
     {
       "title" : "Meteor #10: Set up Oplog tailing on Ubuntu",
-      "url"   : "http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/"
+      "url"   : "http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/",
+      "tags"  : ["deployment", "database", "mongodb"]
     },
     {
       "title" : "Meteor #11: Iron Router cheatsheet",
-      "url"   : "http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/"
+      "url"   : "http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/",
+      "tags"  : ["routing"]
     },
     {
       "title" : "Meteor #12: The complete guide to SEO",
-      "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/"
+      "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/",
+      "tags"  : ["seo"]
     },
     {
-      "title": "Meteor #13: Managing User Roles",
-      "url": "http://journal.gentlenode.com/meteor-13-managing-user-roles/"
+      "title" : "Meteor #13: Managing User Roles",
+      "url"   : "http://journal.gentlenode.com/meteor-13-managing-user-roles/",
+      "tags"  : ["authentication"]
+    },
+    {
+      "title" : "Running your meteor.js application on your own server",
+      "url"   : "http://ox86.tumblr.com/post/45184656062/running-your-meteor-js-application-on-your-own-server",
+      "tags"  : ["deployment"]
+    },
+    {
+      "title" : "Pushing Your Meteor Project to Heroku",
+      "url"   : "http://bytesofpi.com/post/20898722298/pushing-your-meteor-project-to-heroku",
+      "tags"  : ["deployment"]
+    },
+    {
+      "title" : "Deploying a Meteor App to Modulus",
+      "url"   : "http://rywalker.com/deploying-a-meteor-app-to-modulus",
+      "tags"  : ["deployment"]
     }
   ],
   "Sources": [
@@ -604,7 +692,7 @@
       "desc"  : "your meteor site analyzed"
     }
   ],
-  "Test": [
+  "Testing Packages": [
     {
       "title" : "RTD",
       "url"   : "http://xolvio.github.io/rtd/",
@@ -616,64 +704,8 @@
       "desc"  :  "Testing Framework for Meteor"
     },
     {
-      "title" : "Testing Tools Comparison",
-      "url"   : "http://safety-harness.meteor.com/comparison"
-    },
-    {
       "title": "selenium-nightwatch",
       "url": "https://github.com/awatson1978/selenium-nightwatch"
-    }
-  ],
-  "Deployment": [
-    {
-      "title" : "Phusion Passenger: Meteor tutorial",
-      "url"   : "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial"
-    },
-    {
-      "title" : "How to deploy Meteor on Amazon EC2",
-      "url"   : "http://julien-c.fr/2012/10/meteor-amazon-ec2/"
-    },
-    {
-      "title" : "Meteor, the Oplog and Elastic Deployments",
-      "url"   : "http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/"
-    },
-    {
-      "title" : "Running your meteor.js application on your own server",
-      "url"   : "http://ox86.tumblr.com/post/45184656062/running-your-meteor-js-application-on-your-own-server"
-    },
-    {
-      "title" : "Pushing Your Meteor Project to Heroku",
-      "url"   : "http://bytesofpi.com/post/20898722298/pushing-your-meteor-project-to-heroku"
-    },
-    {
-      "title" : "Deploying a Meteor App to Modulus",
-      "url"   : "http://rywalker.com/deploying-a-meteor-app-to-modulus"
-    },
-    {
-      "title" : "aldeed/deploymeteor",
-      "url"   : "https://github.com/aldeed/deploymeteor"
-    },
-    {
-      "title" : "netmute/meteor.sh",
-      "url"   : "https://github.com/netmute/meteor.sh"
-    }
-  ],
-  "Scaling": [
-    {
-      "title" : "Does Meteor Scale?",
-      "url"   : "http://meteorhacks.com/does-meteor-scale.html"
-    },
-    {
-      "title" : "How to Scale Meteor?",
-      "url"   : "http://meteorhacks.com/how-to-scale-meteor.html"
-    },
-    {
-      "title" : "Scaling Meteor",
-      "url"   : "http://fightingtheboss.github.io/scaling_meteor.html"
-    },
-    {
-      "title" : "Building a Production-Ready Meteor App",
-      "url"   : "http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app"
     }
   ],
   "Work with Meteor": [

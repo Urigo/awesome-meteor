@@ -13,15 +13,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #000;
+  color: #333;
 }
 
 a:hover {
   background: yellow;
-}
-
-sup {
-  color: #909090;
 }
 
 h1 {
@@ -39,7 +35,8 @@ h2 {
 ul {
   list-style-type: none;
   font-size: 18px;
-  font-weight: 200;
+  font-weight: normal;
+  color: #333;
 }
 
 /* Layout
@@ -93,6 +90,26 @@ ul {
 .desc {
   color: #777;
   font-size: 14px;
+}
+
+.lang, .tag {
+  color: #909090;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 3px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.tag {
+  background: #ececec;
+}
+
+.lang {
+  background: #e5d2ff;
 }
 
 /* Footer
