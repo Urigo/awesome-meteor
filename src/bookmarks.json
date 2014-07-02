@@ -209,6 +209,10 @@
       "title" : "Underground WebDev - Meteor",
       "url"   : "http://udgwebdev.com/meteor/",
       "lang"  : "pt-br"
+    },
+    {
+      "title" : "Gentlenode Studio's Journal",
+      "url"   : "http://journal.gentlenode.com/"
     }
   ],
   "Articles": [
@@ -281,6 +285,10 @@
     {
       "title" : "Thoughts about Meteor",
       "url"   : "https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c"
+    },
+    {
+      "title" : "Meteor and SEO",
+      "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo"
     }
   ],
   "Slides": [
@@ -405,12 +413,58 @@
     {
       "title" : "meteor: check a user's password",
       "url"   : "https://dweldon.silvrback.com/check-password"
-    }
-  ],
-  "Cheatsheets": [
+    },
     {
-      "title" : "Meteor Cheatsheets (Gentlenode Studio)",
+      "title" : "Meteor #1: Deploy a Meteor application on Ubuntu with Nginx",
+      "url"   : "http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/"
+    },
+    {
+      "title" : "Meteor #2: Build a complete registration system",
+      "url"   : "http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/"
+    },
+    {
+      "title" : "Meteor #3: SMTP configuration",
+      "url"   : "http://journal.gentlenode.com/meteor-3-smtp-configuration/"
+    },
+    {
+      "title" : "Meteor #4: Best ressources to become a master",
+      "url"   : "http://journal.gentlenode.com/meteor-4-best-meteor-ressources/"
+    },
+    {
+      "title" : "Meteor #5: Cheatsheet",
       "url"   : "http://journal.gentlenode.com/meteor-5-cheatsheet/"
+    },
+    {
+      "title" : "Meteor #6: Reactive and non-reactive join with MongoDB",
+      "url"   : "http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/"
+    },
+    {
+      "title" : "Meteor #7: Must-watch videos",
+      "url"   : "http://journal.gentlenode.com/meteor-7-must-watch-videos/"
+    },
+    {
+      "title" : "Meteor #8: Create and execute a payment with Paypal REST API",
+      "url"   : "http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/"
+    },
+    {
+      "title" : "Meteor #9: Internationalization (i18n)",
+      "url"   : "http://journal.gentlenode.com/meteor-9-internationalization-i18n/"
+    },
+    {
+      "title" : "Meteor #10: Set up Oplog tailing on Ubuntu",
+      "url"   : "http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/"
+    },
+    {
+      "title" : "Meteor #11: Iron Router cheatsheet",
+      "url"   : "http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/"
+    },
+    {
+      "title" : "Meteor #12: The complete guide to SEO",
+      "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/"
+    },
+    {
+      "title": "Meteor #13: Managing User Roles",
+      "url": "http://journal.gentlenode.com/meteor-13-managing-user-roles/"
     }
   ],
   "Sources": [
@@ -564,6 +618,10 @@
     {
       "title" : "Testing Tools Comparison",
       "url"   : "http://safety-harness.meteor.com/comparison"
+    },
+    {
+      "title": "selenium-nightwatch",
+      "url": "https://github.com/awatson1978/selenium-nightwatch"
     }
   ],
   "Deployment": [
@@ -616,16 +674,6 @@
     {
       "title" : "Building a Production-Ready Meteor App",
       "url"   : "http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app"
-    }
-  ],
-  "SEO": [
-    {
-      "title" : "Meteor and SEO",
-      "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo"
-    },
-    {
-      "title" : "The Complete Guide to SEO",
-      "url"   : "http://journal.gentlenode.com/meteor-12-seo-guide/"
     }
   ],
   "Work with Meteor": [
