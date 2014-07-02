@@ -3,7 +3,7 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-02T15:07:56.949Z</updated>
+  <updated>2014-07-02T15:31:10.998Z</updated>
   
     
     <entry xml:lang="en">
@@ -252,6 +252,13 @@
   
     
     <entry xml:lang="en">
+      <id>https://www.eventedmind.com</id>
+      <title>EventedMind (www.eventedmind.com)</title>
+      <link rel="alternate" href="https://www.eventedmind.com"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
       <id>https://www.udemy.com/meteor-course/</id>
       <title>Udemy — Meteor: Build a real-time web app using only JavaScript! (www.udemy.com)</title>
       <link rel="alternate" href="https://www.udemy.com/meteor-course/"/>
@@ -313,13 +320,6 @@
       <id>http://meteorhacks.com/pro-meteor/</id>
       <title>Pro Meteor (meteorhacks.com)</title>
       <link rel="alternate" href="http://meteorhacks.com/pro-meteor/"/>
-      <updated>2014-07-01T22:00:00.000Z</updated>
-    </entry>
-    
-    <entry xml:lang="en">
-      <id>https://www.eventedmind.com</id>
-      <title>EventedMind (www.eventedmind.com)</title>
-      <link rel="alternate" href="https://www.eventedmind.com"/>
       <updated>2014-07-01T22:00:00.000Z</updated>
     </entry>
     
