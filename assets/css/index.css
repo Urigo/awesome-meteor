@@ -5,10 +5,11 @@ html {
 }
 
 body {
-  background: url('universe.png');
+  background: url('universe.png') fixed;
   padding: 20px 20px 0 20px;
   font-size: 14px;
   line-height: 28px;
+  color: #333;
 }
 
 a {
@@ -32,11 +33,15 @@ h2 {
   font-weight: bold;
 }
 
+h1, h2 {
+  font-family: 'Changa One', 'Sans-serif';
+  font-weight: 200;
+}
+
 ul {
   list-style-type: none;
   font-size: 18px;
   font-weight: normal;
-  color: #333;
 }
 
 /* Layout
@@ -49,6 +54,8 @@ ul {
   -moz-border-radius: 25px;
   border-radius: 25px;
   border: 1px solid #000;
+  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.95);
 }
 
 .container {
