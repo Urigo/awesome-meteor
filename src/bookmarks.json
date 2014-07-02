@@ -213,6 +213,10 @@
     {
       "title" : "Gentlenode Studio's Journal",
       "url"   : "http://journal.gentlenode.com/"
+    },
+    {
+      "title" : "Hello Meteor",
+      "url"   : "http://www.hellometeor.com/"
     }
   ],
   "Articles": [
