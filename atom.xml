@@ -1,0 +1,1131 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://gillesfabio.github.io/meteor-bookmarks/</id>
+  <title>Meteor Bookmarks</title>
+  <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
+  <updated>2014-07-02T15:07:56.949Z</updated>
+  
+    
+    <entry xml:lang="en">
+      <id>https://www.meteor.com/blog/</id>
+      <title>Blog (www.meteor.com)</title>
+      <link rel="alternate" href="https://www.meteor.com/blog/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.meteor.com/irc</id>
+      <title>IRC (www.meteor.com)</title>
+      <link rel="alternate" href="https://www.meteor.com/irc"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://twitter.com/meteorjs</id>
+      <title>Twitter (twitter.com)</title>
+      <link rel="alternate" href="https://twitter.com/meteorjs"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://trello.com/b/hjBDflxp/meteor-roadmap</id>
+      <title>Roadmap (trello.com)</title>
+      <link rel="alternate" href="https://trello.com/b/hjBDflxp/meteor-roadmap"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://docs.meteor.com/</id>
+      <title>Documentation (docs.meteor.com)</title>
+      <link rel="alternate" href="http://docs.meteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://groups.google.com/forum/?hl=en&amp;fromgroups=#!forum/meteor-core</id>
+      <title>Core Development Google Group (groups.google.com)</title>
+      <link rel="alternate" href="https://groups.google.com/forum/?hl=en&amp;fromgroups=#!forum/meteor-core"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/meteor/meteor/wiki/Meteor-Style-Guide</id>
+      <title>Coding Style Guide (github.com)</title>
+      <link rel="alternate" href="https://github.com/meteor/meteor/wiki/Meteor-Style-Guide"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://groups.google.com/forum/?fromgroups#!forum/meteor-talk</id>
+      <title>Google Group (groups.google.com)</title>
+      <link rel="alternate" href="https://groups.google.com/forum/?fromgroups#!forum/meteor-talk"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteor.meetup.com/</id>
+      <title>Meetup Groups (meteor.meetup.com)</title>
+      <link rel="alternate" href="http://meteor.meetup.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://stackoverflow.com/questions/tagged/meteor?sort=newest&amp;pagesize=15</id>
+      <title>Stack Overflow (stackoverflow.com)</title>
+      <link rel="alternate" href="http://stackoverflow.com/questions/tagged/meteor?sort=newest&amp;pagesize=15"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.reddit.com/r/meteor</id>
+      <title>Reddit (www.reddit.com)</title>
+      <link rel="alternate" href="http://www.reddit.com/r/meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://meteor.hackpad.com/</id>
+      <title>Hackpad (meteor.hackpad.com)</title>
+      <link rel="alternate" href="https://meteor.hackpad.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.quora.com/Meteor-web-framework</id>
+      <title>Quora (www.quora.com)</title>
+      <link rel="alternate" href="https://www.quora.com/Meteor-web-framework"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://plus.google.com/communities/116805089624721027440</id>
+      <title>Google Plus (plus.google.com)</title>
+      <link rel="alternate" href="https://plus.google.com/communities/116805089624721027440"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.flickr.com/photos/98640337@N05/with/12965522434/</id>
+      <title>Flickr (www.flickr.com)</title>
+      <link rel="alternate" href="https://www.flickr.com/photos/98640337@N05/with/12965522434/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.youtube.com/user/MeteorVideos</id>
+      <title>YouTube (www.youtube.com)</title>
+      <link rel="alternate" href="https://www.youtube.com/user/MeteorVideos"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://madewith.meteor.com/</id>
+      <title>Made with Meteor (madewith.meteor.com)</title>
+      <link rel="alternate" href="http://madewith.meteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="fr">
+      <id>http://linuxfr.org/tags/meteor/public</id>
+      <title>LinuxFr.org (linuxfr.org)</title>
+      <link rel="alternate" href="http://linuxfr.org/tags/meteor/public"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://crater.io/</id>
+      <title>Crater.io (crater.io)</title>
+      <link rel="alternate" href="http://crater.io/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/</id>
+      <title>MeteorHacks (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/meteor-weekly/</id>
+      <title>Meteor Weekly (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/meteor-weekly/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://weekly.udgwebdev.com/</id>
+      <title>Underground WebDev Weekly (weekly.udgwebdev.com)</title>
+      <link rel="alternate" href="http://weekly.udgwebdev.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://www.meteorpodcast.com/</id>
+      <title>The Meteor Podcast (www.meteorpodcast.com)</title>
+      <link rel="alternate" href="http://www.meteorpodcast.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://challenge.meteor.com/</id>
+      <title>Meteor Challenge (challenge.meteor.com)</title>
+      <link rel="alternate" href="http://challenge.meteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://twitter.com/meteorjobs</id>
+      <title>MeteorJS Jobs (twitter.com)</title>
+      <link rel="alternate" href="https://twitter.com/meteorjobs"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.weworkmeteor.com/</id>
+      <title>We Work Meteor (www.weworkmeteor.com)</title>
+      <link rel="alternate" href="http://www.weworkmeteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://www.discovermeteor.com/</id>
+      <title>Discover Meteor (www.discovermeteor.com)</title>
+      <link rel="alternate" href="http://www.discovermeteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorgitbook.harp.io/</id>
+      <title>Meteor Cookbook (meteorgitbook.harp.io)</title>
+      <link rel="alternate" href="http://meteorgitbook.harp.io/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book</id>
+      <title>Getting Started with Meteor.js JavaScript Framework (www.packtpub.com)</title>
+      <link rel="alternate" href="http://www.packtpub.com/getting-started-with-meteor-javascript-framework/book"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.packtpub.com/meteor-javascript-framework-starter/book</id>
+      <title>Instant Meteor JavaScript Framework Starter (www.packtpub.com)</title>
+      <link rel="alternate" href="http://www.packtpub.com/meteor-javascript-framework-starter/book"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://testingmeteor.com/</id>
+      <title>Testing with Meteor (testingmeteor.com)</title>
+      <link rel="alternate" href="http://testingmeteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>https://casadocodigo.refersion.com/l/d88.3525</id>
+      <title>Meteor: Criando aplicações web real-time com JavaScript (casadocodigo.refersion.com)</title>
+      <link rel="alternate" href="https://casadocodigo.refersion.com/l/d88.3525"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://gumroad.com/l/meteor-explained</id>
+      <title>Meteor Explained - A Journey Into Meteor’s Reactivity (gumroad.com)</title>
+      <link rel="alternate" href="https://gumroad.com/l/meteor-explained"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://www.udemy.com/meteor-course/</id>
+      <title>Udemy — Meteor: Build a real-time web app using only JavaScript! (www.udemy.com)</title>
+      <link rel="alternate" href="https://www.udemy.com/meteor-course/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor</id>
+      <title>Tuts+ — Single Page Web Apps with Meteor (courses.tutsplus.com)</title>
+      <link rel="alternate" href="http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://www.reactivemanifesto.org/</id>
+      <title>The Reactive Manifesto (www.reactivemanifesto.org)</title>
+      <link rel="alternate" href="http://www.reactivemanifesto.org/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/oortcloud/unofficial-meteor-faq</id>
+      <title>Unofficial Meteor FAQ (github.com)</title>
+      <link rel="alternate" href="https://github.com/oortcloud/unofficial-meteor-faq"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/awatson1978/meteor-cookbook</id>
+      <title>Meteor Cookbook (github.com)</title>
+      <link rel="alternate" href="https://github.com/awatson1978/meteor-cookbook"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/arunoda/meteor-up</id>
+      <title>MeteorUp (github.com)</title>
+      <link rel="alternate" href="https://github.com/arunoda/meteor-up"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteortips.com/</id>
+      <title>Meteor Tips (meteortips.com)</title>
+      <link rel="alternate" href="http://meteortips.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.meteorpedia.com/</id>
+      <title>Meteorpedia (www.meteorpedia.com)</title>
+      <link rel="alternate" href="http://www.meteorpedia.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/pro-meteor/</id>
+      <title>Pro Meteor (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/pro-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.eventedmind.com</id>
+      <title>EventedMind (www.eventedmind.com)</title>
+      <link rel="alternate" href="https://www.eventedmind.com"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://30dayswithmeteor.ghost.io/</id>
+      <title>30 days with Meteor (30dayswithmeteor.ghost.io)</title>
+      <link rel="alternate" href="http://30dayswithmeteor.ghost.io/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/romanzolotarev/guidelines</id>
+      <title>Full stack guidelines for Meteor apps (github.com)</title>
+      <link rel="alternate" href="https://github.com/romanzolotarev/guidelines"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.manuel-schoebel.com/blog</id>
+      <title>Manuel Schoebel&#39;s Blog (www.manuel-schoebel.com)</title>
+      <link rel="alternate" href="http://www.manuel-schoebel.com/blog"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://udgwebdev.com/meteor/</id>
+      <title>Underground WebDev - Meteor (udgwebdev.com)</title>
+      <link rel="alternate" href="http://udgwebdev.com/meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/</id>
+      <title>Gentlenode Studio&#39;s Journal (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.hellometeor.com/</id>
+      <title>Hello Meteor (www.hellometeor.com)</title>
+      <link rel="alternate" href="http://www.hellometeor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://yauh.de/best-learning-resources-for-meteorjs/</id>
+      <title>Best Learning Resources for Meteor.js (yauh.de)</title>
+      <link rel="alternate" href="http://yauh.de/best-learning-resources-for-meteorjs/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://differential.io/blog/the-not-so-real-problems-of-meteorjs</id>
+      <title>The (not so) real problems of meteor.js (differential.io)</title>
+      <link rel="alternate" href="http://differential.io/blog/the-not-so-real-problems-of-meteorjs"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://differential.io/blog/meteor-vs-angular</id>
+      <title>Meteor vs Angular (differential.io)</title>
+      <link rel="alternate" href="http://differential.io/blog/meteor-vs-angular"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb</id>
+      <title>Confessions of a Meteor Newb (blog.jerodsanto.net)</title>
+      <link rel="alternate" href="http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d</id>
+      <title>Meteor is F***ing Awesome (medium.com)</title>
+      <link rel="alternate" href="https://medium.com/@marbemac/meteor-is-f-ing-awesome-a28ac7d30e2d"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="fr">
+      <id>http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/</id>
+      <title>So what is Meteor? (hypedrivendev.wordpress.com)</title>
+      <link rel="alternate" href="http://hypedrivendev.wordpress.com/2012/04/23/so-what-is-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://udgwebdev.com/introducao-sobre-meteor</id>
+      <title>Introdução sobre Meteor (udgwebdev.com)</title>
+      <link rel="alternate" href="http://udgwebdev.com/introducao-sobre-meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/</id>
+      <title>Dynamic Template Includes With Blaze (www.discovermeteor.com)</title>
+      <link rel="alternate" href="https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/journey-into-meteors-reactivity.html</id>
+      <title>Journey into Meteor&#39;s Reactivity (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/journey-into-meteors-reactivity.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://tech.exponential.io/meteor/building-large-modular-apps-meteor/</id>
+      <title>Building large, modular apps in Meteor (tech.exponential.io)</title>
+      <link rel="alternate" href="http://tech.exponential.io/meteor/building-large-modular-apps-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://davidbeath.com/posts/using-node-modules-with-meteor.html</id>
+      <title>Using Node Modules with Meteor (davidbeath.com)</title>
+      <link rel="alternate" href="https://davidbeath.com/posts/using-node-modules-with-meteor.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ</id>
+      <title>Getting Started With Unipackage (meteor.hackpad.com)</title>
+      <link rel="alternate" href="https://meteor.hackpad.com/Getting-Started-With-Unipackage-IOckQBQgXaQ"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern</id>
+      <title>Meteor.js Package Only App Structure With Mediator Pattern (www.manuel-schoebel.com)</title>
+      <link rel="alternate" href="http://www.manuel-schoebel.com/blog/meteorjs-package-only-app-structure-with-mediator-pattern"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.matb33.me/2013/09/05/meteor-project-structure.html</id>
+      <title>Meteor project structure — the way forward (www.matb33.me)</title>
+      <link rel="alternate" href="http://www.matb33.me/2013/09/05/meteor-project-structure.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://writings.danielfischer.com/new-beginning</id>
+      <title>New Begnning (writings.danielfischer.com)</title>
+      <link rel="alternate" href="http://writings.danielfischer.com/new-beginning"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c</id>
+      <title>Thoughts about Meteor (medium.com)</title>
+      <link rel="alternate" href="https://medium.com/@rldm_/thoughts-about-meteor-e8f7f9c4080c"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.manuel-schoebel.com/blog/meteor-and-seo</id>
+      <title>Meteor and SEO (www.manuel-schoebel.com)</title>
+      <link rel="alternate" href="http://www.manuel-schoebel.com/blog/meteor-and-seo"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/does-meteor-scale.html</id>
+      <title>Does Meteor Scale? (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/does-meteor-scale.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteorhacks.com/how-to-scale-meteor.html</id>
+      <title>How to Scale Meteor? (meteorhacks.com)</title>
+      <link rel="alternate" href="http://meteorhacks.com/how-to-scale-meteor.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://fightingtheboss.github.io/scaling_meteor.html</id>
+      <title>Scaling Meteor (fightingtheboss.github.io)</title>
+      <link rel="alternate" href="http://fightingtheboss.github.io/scaling_meteor.html"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/</id>
+      <title>Meteor, the Oplog and Elastic Deployments (blog.mongohq.com)</title>
+      <link rel="alternate" href="http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://safety-harness.meteor.com/comparison</id>
+      <title>Testing Tools Comparison (safety-harness.meteor.com)</title>
+      <link rel="alternate" href="http://safety-harness.meteor.com/comparison"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://slides.com/rgoomar/why-meteor</id>
+      <title>Why Meteor? (slides.com)</title>
+      <link rel="alternate" href="http://slides.com/rgoomar/why-meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app</id>
+      <title>Building a Production-Ready Meteor App (www.slideshare.net)</title>
+      <link rel="alternate" href="http://www.slideshare.net/RitikM/building-a-production-ready-meteor-app"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteor.redandivory.com/#/</id>
+      <title>Building large scale Meteor apps (meteor.redandivory.com)</title>
+      <link rel="alternate" href="http://meteor.redandivory.com/#/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://www.reddit.com/r/javascript/comments/292jne/is_meteorjs_still_relevant/</id>
+      <title>Is Meteor.js still relevant? (www.reddit.com)</title>
+      <link rel="alternate" href="http://www.reddit.com/r/javascript/comments/292jne/is_meteorjs_still_relevant/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://moduscreate.com/diving-into-meteorjs/</id>
+      <title>Diving into MeteorJS (moduscreate.com)</title>
+      <link rel="alternate" href="http://moduscreate.com/diving-into-meteorjs/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426</id>
+      <title>What&#39;s This Meteor Thing? (code.tutsplus.com)</title>
+      <link rel="alternate" href="http://code.tutsplus.com/tutorials/whats-this-meteor-thing--net-25426"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915</id>
+      <title>Prototyping With Meteor (code.tutsplus.com)</title>
+      <link rel="alternate" href="http://code.tutsplus.com/tutorials/prototyping-with-meteor--net-30915"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/</id>
+      <title>Builing an App in 45 Minutes with Meteor (www.smashingmagazine.com)</title>
+      <link rel="alternate" href="http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849</id>
+      <title>Creating a Multi-Page Site with Meteor (code.tutsplus.com)</title>
+      <link rel="alternate" href="http://code.tutsplus.com/tutorials/creating-a-multi-page-site-with-meteor--net-31849"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor</id>
+      <title>Building a Web App From Scratch in Meteor (www.openshift.com)</title>
+      <link rel="alternate" href="https://www.openshift.com/blogs/day-15-meteor-building-a-web-app-from-scratch-in-meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/</id>
+      <title>Tutorial: Writing your first Meteor application (sebastiandahlgren.se)</title>
+      <link rel="alternate" href="http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika</id>
+      <title>Meteor.js in Action: Create an App, Test With Laika (mherman.org)</title>
+      <link rel="alternate" href="http://mherman.org/blog/2014/01/29/meteor-dot-js-in-action-create-an-app-test-with-laika"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/</id>
+      <title>Meteor tutorial for fellow noobs: Adding features to the Leaderboard demo (www.danneu.com)</title>
+      <link rel="alternate" href="http://www.danneu.com/posts/6-meteor-tutorial-for-fellow-noobs-adding-features-to-the-leaderboard-demo/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs</id>
+      <title>Real-Time Messaging for Meteor With Meteor Streams (www.andrewmunsell.com)</title>
+      <link rel="alternate" href="https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.manuel-schoebel.com/blog/iron-router-tutorial</id>
+      <title>Iron-Router Tutorial (www.manuel-schoebel.com)</title>
+      <link rel="alternate" href="http://www.manuel-schoebel.com/blog/iron-router-tutorial"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/</id>
+      <title>Realtime Maps With Meteor and Leaflet - Part One (asynchrotron.com)</title>
+      <link rel="alternate" href="http://asynchrotron.com/blog/2013/12/27/realtime-maps-with-meteor-and-leaflet/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/</id>
+      <title>Realtime Maps With Meteor and Leaflet - Part Two (asynchrotron.com)</title>
+      <link rel="alternate" href="http://asynchrotron.com/blog/2013/12/28/realtime-maps-with-meteor-and-leaflet-part-2/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/</id>
+      <title>Design a Complete Authentication System with Meteor (waaave.com)</title>
+      <link rel="alternate" href="https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/</id>
+      <title>My first meteor.js application, a LinkedIn crawler (jb.demonte.fr)</title>
+      <link rel="alternate" href="http://jb.demonte.fr/blog/my-first-meteor-js-application-a-linkedin-crawler/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/</id>
+      <title>Set Up Navigation With Iron Router and Bootstrap (robertdickert.com)</title>
+      <link rel="alternate" href="http://robertdickert.com/blog/2014/05/09/set-up-navigation-with-iron-router-and-bootstrap/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="fr">
+      <id>http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/</id>
+      <title>Meteor JS : B.A. BA et bonnes pratiques (www.etiennebalit.com)</title>
+      <link rel="alternate" href="http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="fr">
+      <id>http://tibomahe.github.io/cloudAtlas-Meteor-App/</id>
+      <title>CloudAtlas : une application pour tester Meteor.JS (tibomahe.github.io)</title>
+      <link rel="alternate" href="http://tibomahe.github.io/cloudAtlas-Meteor-App/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://meteor.hackpad.com/DRAFT-Understanding-Deps-aAXG6T9lkf6</id>
+      <title>Understanding Deps (meteor.hackpad.com)</title>
+      <link rel="alternate" href="https://meteor.hackpad.com/DRAFT-Understanding-Deps-aAXG6T9lkf6"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="fr">
+      <id>http://soren-ohnmeiss.developpez.com/tutoriels/javascript/meteor/introduction-meteor/</id>
+      <title>Meteor : la plateforme Web temps réel qui accroît la productivité (soren-ohnmeiss.developpez.com)</title>
+      <link rel="alternate" href="http://soren-ohnmeiss.developpez.com/tutoriels/javascript/meteor/introduction-meteor/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://udgwebdev.com/meteor-pubsub/</id>
+      <title>Meteor PubSub (udgwebdev.com)</title>
+      <link rel="alternate" href="http://udgwebdev.com/meteor-pubsub/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://udgwebdev.com/organizando-um-projeto-meteor</id>
+      <title>Organizando um projeto Meteor (udgwebdev.com)</title>
+      <link rel="alternate" href="http://udgwebdev.com/organizando-um-projeto-meteor"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="pt-br">
+      <id>http://udgwebdev.com/meteor-methods/</id>
+      <title>Meteor Methods (udgwebdev.com)</title>
+      <link rel="alternate" href="http://udgwebdev.com/meteor-methods/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteortips.com/twitter-account-login-system-tutorial/</id>
+      <title>How To Add a Twitter Login System to Your Meteor Application with Smart Packages (meteortips.com)</title>
+      <link rel="alternate" href="http://meteortips.com/twitter-account-login-system-tutorial/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js</id>
+      <title>Reactive Forms in Meteor JS (www.neo.com)</title>
+      <link rel="alternate" href="http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://dweldon.silvrback.com/check-password</id>
+      <title>meteor: check a user&#39;s password (dweldon.silvrback.com)</title>
+      <link rel="alternate" href="https://dweldon.silvrback.com/check-password"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial</id>
+      <title>Phusion Passenger: Meteor tutorial (github.com)</title>
+      <link rel="alternate" href="https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://julien-c.fr/2012/10/meteor-amazon-ec2/</id>
+      <title>How to deploy Meteor on Amazon EC2 (julien-c.fr)</title>
+      <link rel="alternate" href="http://julien-c.fr/2012/10/meteor-amazon-ec2/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/</id>
+      <title>Meteor #1: Deploy a Meteor application on Ubuntu with Nginx (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-1-deploy-a-meteor-application-on-ubuntu-with-nginx/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/</id>
+      <title>Meteor #2: Build a complete registration system (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-2-build-a-complete-registration-system/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-3-smtp-configuration/</id>
+      <title>Meteor #3: SMTP configuration (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-3-smtp-configuration/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-4-best-meteor-ressources/</id>
+      <title>Meteor #4: Best ressources to become a master (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-4-best-meteor-ressources/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-5-cheatsheet/</id>
+      <title>Meteor #5: Cheatsheet (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-5-cheatsheet/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/</id>
+      <title>Meteor #6: Reactive and non-reactive join with MongoDB (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-6-reactive-and-nonreactive-join-with-mongodb/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-7-must-watch-videos/</id>
+      <title>Meteor #7: Must-watch videos (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-7-must-watch-videos/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/</id>
+      <title>Meteor #8: Create and execute a payment with Paypal REST API (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-8-create-and-execute-a-payment-with-paypal-rest-api/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-9-internationalization-i18n/</id>
+      <title>Meteor #9: Internationalization (i18n) (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-9-internationalization-i18n/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/</id>
+      <title>Meteor #10: Set up Oplog tailing on Ubuntu (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-10-set-up-oplog-tailing-on-ubuntu/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/</id>
+      <title>Meteor #11: Iron Router cheatsheet (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-11-iron-router-cheatsheet/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-12-seo-guide/</id>
+      <title>Meteor #12: The complete guide to SEO (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-12-seo-guide/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://journal.gentlenode.com/meteor-13-managing-user-roles/</id>
+      <title>Meteor #13: Managing User Roles (journal.gentlenode.com)</title>
+      <link rel="alternate" href="http://journal.gentlenode.com/meteor-13-managing-user-roles/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://ox86.tumblr.com/post/45184656062/running-your-meteor-js-application-on-your-own-server</id>
+      <title>Running your meteor.js application on your own server (ox86.tumblr.com)</title>
+      <link rel="alternate" href="http://ox86.tumblr.com/post/45184656062/running-your-meteor-js-application-on-your-own-server"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://bytesofpi.com/post/20898722298/pushing-your-meteor-project-to-heroku</id>
+      <title>Pushing Your Meteor Project to Heroku (bytesofpi.com)</title>
+      <link rel="alternate" href="http://bytesofpi.com/post/20898722298/pushing-your-meteor-project-to-heroku"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://rywalker.com/deploying-a-meteor-app-to-modulus</id>
+      <title>Deploying a Meteor App to Modulus (rywalker.com)</title>
+      <link rel="alternate" href="http://rywalker.com/deploying-a-meteor-app-to-modulus"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://github.com/TelescopeJS/Telescope</id>
+      <title>TelescopeJS (github.com)</title>
+      <link rel="alternate" href="https://github.com/TelescopeJS/Telescope"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/DiscoverMeteor/Microscope</id>
+      <title>Microscope (github.com)</title>
+      <link rel="alternate" href="https://github.com/DiscoverMeteor/Microscope"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/mcrider/azimuth</id>
+      <title>Azimuth (github.com)</title>
+      <link rel="alternate" href="https://github.com/mcrider/azimuth"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/oortcloud/atmosphere</id>
+      <title>Atmosphere (github.com)</title>
+      <link rel="alternate" href="https://github.com/oortcloud/atmosphere"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/percolatestudio/ground-control</id>
+      <title>Ground Control (github.com)</title>
+      <link rel="alternate" href="https://github.com/percolatestudio/ground-control"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/alanshaw/meteor-browpie</id>
+      <title>Browpie (github.com)</title>
+      <link rel="alternate" href="https://github.com/alanshaw/meteor-browpie"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/oliversong/fortnight</id>
+      <title>Fortnight (github.com)</title>
+      <link rel="alternate" href="https://github.com/oliversong/fortnight"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/ongoworks/reaction</id>
+      <title>Reaction (github.com)</title>
+      <link rel="alternate" href="https://github.com/ongoworks/reaction"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Crowducate/crowducate.me</id>
+      <title>Crowducate (github.com)</title>
+      <link rel="alternate" href="https://github.com/Crowducate/crowducate.me"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/meteorhacks/repeeet</id>
+      <title>Repeeet (github.com)</title>
+      <link rel="alternate" href="https://github.com/meteorhacks/repeeet"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/nate-strauser/wework</id>
+      <title>We Work Meteor (github.com)</title>
+      <link rel="alternate" href="https://github.com/nate-strauser/wework"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/lister</id>
+      <title>Lister (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/lister"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/supporter</id>
+      <title>Supporter (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/supporter"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/AristosGroup/kvazar</id>
+      <title>Kvazar (github.com)</title>
+      <link rel="alternate" href="https://github.com/AristosGroup/kvazar"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/seanrose/broadcast</id>
+      <title>Broadast (github.com)</title>
+      <link rel="alternate" href="https://github.com/seanrose/broadcast"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/tomsabin/itinerary</id>
+      <title>Itinerary (github.com)</title>
+      <link rel="alternate" href="https://github.com/tomsabin/itinerary"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/eprochasson/socialite</id>
+      <title>Socialite (github.com)</title>
+      <link rel="alternate" href="https://github.com/eprochasson/socialite"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/caio-ribeiro-pereira/meteor-tictactoe</id>
+      <title>TicTacToe (github.com)</title>
+      <link rel="alternate" href="https://github.com/caio-ribeiro-pereira/meteor-tictactoe"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Fenicio/Faraona</id>
+      <title>Faraona (github.com)</title>
+      <link rel="alternate" href="https://github.com/Fenicio/Faraona"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Fenicio/Meteoritter</id>
+      <title>Meteoritter (github.com)</title>
+      <link rel="alternate" href="https://github.com/Fenicio/Meteoritter"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Fenicio/padawan</id>
+      <title>Padawan (github.com)</title>
+      <link rel="alternate" href="https://github.com/Fenicio/padawan"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/meteor-boilerplate</id>
+      <title>Differential (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/meteor-boilerplate"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/patrickocoffeyo/meteor-boilerplate</id>
+      <title>Patrick Coffey (github.com)</title>
+      <link rel="alternate" href="https://github.com/patrickocoffeyo/meteor-boilerplate"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/matteodem/meteor-boilerplate</id>
+      <title>matteodem (github.com)</title>
+      <link rel="alternate" href="https://github.com/matteodem/meteor-boilerplate"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/jfols/liftoff</id>
+      <title>Liftoff (github.com)</title>
+      <link rel="alternate" href="https://github.com/jfols/liftoff"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/justinmc/meteor-backbone-boilerplate</id>
+      <title>Justin McCandless (github.com)</title>
+      <link rel="alternate" href="https://github.com/justinmc/meteor-backbone-boilerplate"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://github.differential.io/meteor-blog/</id>
+      <title>meteor-blog (github.differential.io)</title>
+      <link rel="alternate" href="http://github.differential.io/meteor-blog/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://oortcloud.github.io/meteorite/</id>
+      <title>Meteorite (oortcloud.github.io)</title>
+      <link rel="alternate" href="http://oortcloud.github.io/meteorite/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://atmospherejs.com/</id>
+      <title>Atmosphere (atmospherejs.com)</title>
+      <link rel="alternate" href="https://atmospherejs.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://audit.meteor.com</id>
+      <title>Audit (audit.meteor.com)</title>
+      <link rel="alternate" href="http://audit.meteor.com"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>http://xolvio.github.io/rtd/</id>
+      <title>RTD (xolvio.github.io)</title>
+      <link rel="alternate" href="http://xolvio.github.io/rtd/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://arunoda.github.io/laika/</id>
+      <title>Laika (arunoda.github.io)</title>
+      <link rel="alternate" href="http://arunoda.github.io/laika/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/awatson1978/selenium-nightwatch</id>
+      <title>selenium-nightwatch (github.com)</title>
+      <link rel="alternate" href="https://github.com/awatson1978/selenium-nightwatch"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+    
+    <entry xml:lang="en">
+      <id>https://www.meteor.com/</id>
+      <title>Meteor (www.meteor.com)</title>
+      <link rel="alternate" href="https://www.meteor.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://differential.io/</id>
+      <title>Differential (differential.io)</title>
+      <link rel="alternate" href="http://differential.io/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://www.percolatestudio.com/</id>
+      <title>Percolate Studio (www.percolatestudio.com)</title>
+      <link rel="alternate" href="http://www.percolatestudio.com/"/>
+      <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+  
+</feed>

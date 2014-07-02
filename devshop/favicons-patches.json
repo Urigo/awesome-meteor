@@ -1,0 +1,54 @@
+[
+  {
+    "url": "http://meteorgitbook.harp.io/",
+    "favicon": "http://meteorgitbook.harp.io/gitbook/images/favicon.ico"
+  },
+  {
+    "url": "http://testingmeteor.com/",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
+    "url": "http://meteortips.com/",
+    "favicon": "http://meteortips.com/wp-content/themes/thesis/lib/images/favicon.ico"
+  },
+  {
+    "url": "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
+    "favicon": "http://tech.exponential.io/wp-content/themes/author/images/favicon.png"
+  },
+  {
+    "url": "http://blog.mongohq.com/meteor-the-oplog-and-elastic-deployment/",
+    "favicon": "http://blog.mongohq.com/wp-content/themes/mongohq/favicon.ico"
+  },
+  {
+    "url": "http://moduscreate.com/diving-into-meteorjs/",
+    "favicon": "http://moduscreate.com/wp-content/themes/moduscreate-web/images/favicon.ico"
+  },
+  {
+    "url": "http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/",
+    "favicon": "http://www.smashingmagazine.com/wp-content/themes/smashing-magazine/images/favicon.ico"
+  },
+  {
+    "url": "https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
+    "url": "http://www.etiennebalit.com/2013/04/meteor-b-a-ba-et-bonnes-pratiques/",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
+    "url": "http://meteortips.com/twitter-account-login-system-tutorial/",
+    "favicon": "http://meteortips.com/wp-content/themes/thesis/lib/images/favicon.ico"
+  },
+  {
+    "url": "http://www.neo.com/2014/05/23/reactive-forms-in-meteor-js",
+    "favicon": "http://www.neo.com/assets/favicon-1f3e8f240c797b95058e0c60bb27e3f0.png"
+  },
+  {
+    "url": "http://julien-c.fr/2012/10/meteor-amazon-ec2/",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
+    "url": "http://rywalker.com/deploying-a-meteor-app-to-modulus",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  }
+]
