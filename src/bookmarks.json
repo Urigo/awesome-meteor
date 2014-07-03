@@ -265,6 +265,11 @@
       "title" : "Hello Meteor",
       "url"   : "http://www.hellometeor.com/",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Meteor Learning!",
+      "url"   : "https://github.com/ericdouglas/Meteor-Learning",
+      "added" : "2014-07-03"
     }
   ],
   "Articles": [
@@ -392,6 +397,18 @@
       "url"   : "http://safety-harness.meteor.com/comparison",
       "tags"  : ["testing"],
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Meteor & Security: Setting the Record Straight",
+      "url"   : "https://www.discovermeteor.com/blog/meteor-and-security/",
+      "tags"  : ["security"],
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "Lookback: Confessions of a startup: all our numbers, insights, everything",
+      "url"   : "https://lookback.io/blog/confessions-of-a-startup",
+      "tags"  : ["feedback", "startup"],
+      "added" : "2014-07-03"
     }
   ],
   "Slides": [
@@ -675,6 +692,12 @@
       "url"   : "http://rywalker.com/deploying-a-meteor-app-to-modulus",
       "tags"  : ["deployment"],
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "A Beginner's Guide to Publish, Subscribe, and the \"autopublish\" Package in Meteor",
+      "url"   : "http://meteortips.com/autopublish-tutorial/",
+      "tags"  : ["pubsub"],
+      "added" : "2014-07-03"
     }
   ],
   "Sources": [
