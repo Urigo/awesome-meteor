@@ -3,7 +3,7 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-02T16:05:51.075Z</updated>
+  <updated>2014-07-03T16:17:01.467Z</updated>
   
     
     <entry xml:lang="en">
@@ -365,6 +365,13 @@
       <updated>2014-07-01T22:00:00.000Z</updated>
     </entry>
     
+    <entry xml:lang="en">
+      <id>https://github.com/ericdouglas/Meteor-Learning</id>
+      <title>Meteor Learning! (github.com)</title>
+      <link rel="alternate" href="https://github.com/ericdouglas/Meteor-Learning"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
   
     
     <entry xml:lang="en">
@@ -519,6 +526,20 @@
       <title>Testing Tools Comparison (safety-harness.meteor.com)</title>
       <link rel="alternate" href="http://safety-harness.meteor.com/comparison"/>
       <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://www.discovermeteor.com/blog/meteor-and-security/</id>
+      <title>Meteor &amp; Security: Setting the Record Straight (www.discovermeteor.com)</title>
+      <link rel="alternate" href="https://www.discovermeteor.com/blog/meteor-and-security/"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://lookback.io/blog/confessions-of-a-startup</id>
+      <title>Lookback: Confessions of a startup: all our numbers, insights, everything (lookback.io)</title>
+      <link rel="alternate" href="https://lookback.io/blog/confessions-of-a-startup"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
     </entry>
     
   
@@ -861,6 +882,13 @@
       <title>Deploying a Meteor App to Modulus (rywalker.com)</title>
       <link rel="alternate" href="http://rywalker.com/deploying-a-meteor-app-to-modulus"/>
       <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteortips.com/autopublish-tutorial/</id>
+      <title>A Beginner&#39;s Guide to Publish, Subscribe, and the &quot;autopublish&quot; Package in Meteor (meteortips.com)</title>
+      <link rel="alternate" href="http://meteortips.com/autopublish-tutorial/"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
     </entry>
     
   
