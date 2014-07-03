@@ -17,9 +17,10 @@ var buildDate  = require('metalsmith-build-date');
 
 module.exports = build;
 
-var BASE_URL = process.env.BASE_URL ? process.env.BASE_URL : '/';
-var DEVSHOP_DIR = path.join(__dirname, 'src', 'devshop');
-var FAVICONS_FILE = path.join(__dirname, 'src', 'favicons.json');
+var BASE_URL               = process.env.BASE_URL ? process.env.BASE_URL : '/';
+var BOOKMARKS_FILE         = path.join(__dirname, 'src', 'bookmarks.json');
+var DEVSHOP_DIR            = path.join(__dirname, 'src', 'devshop');
+var FAVICONS_FILE          = path.join(__dirname, 'src', 'favicons.json');
 var FAVICONS_PATCHES_FILES = path.join(__dirname, 'src', 'favicons-patches.json');
 
 function getDevshopMetadata() {
@@ -33,6 +34,14 @@ function getDevshopMetadata() {
     data[date] = items;
   });
   return data;
+}
+
+function getLatestBookmarks() {
+  if (!fs.existsSync(BOOKMARKS_FILE)) throw new Error('src/bookmarks.json does not exist.');
+  var data = JSON.parse(fs.readFileSync(BOOKMARKS_FILE));
+  var bookmarks = [];
+  Object.keys(data).forEach(function(s) { bookmarks = bookmarks.concat(_.values(data[s])); });
+  return _.first(_.sortBy(bookmarks, function(b) { return b.added; }).reverse(), 20);
 }
 
 function setBookmarkDate(bookmark, cb) {
@@ -83,7 +92,11 @@ var metalsmith = new Metalsmith(__dirname);
 
 metalsmith
   .destination('./public')
-  .metadata(_.merge(metalsmith.metadata(), {BASE_URL: BASE_URL, devshop: getDevshopMetadata()}))
+  .metadata(_.merge(metalsmith.metadata(), {
+    BASE_URL        : BASE_URL,
+    devshop         : getDevshopMetadata(),
+    latestBookmarks : getLatestBookmarks()
+  }))
   .use(metadata({bookmarks: 'bookmarks.json'}))
   .use(addBookmarksMetadata())
   .use(markdown({smartypants: true, gfm: true, tables: true}))

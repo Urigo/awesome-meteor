@@ -4,14 +4,12 @@
   <link href="{{ BASE_URL }}atom.xml" rel="self" type="application/atom+xml" />
   <link href="{{ BASE_URL }}" rel="alternate" type="text/html" />
   <updated>{{ date|date('c') }}</updated>
-  {% for title, links in bookmarks %}
-    {% for l in links %}
-    <entry xml:lang="{% if l.lang %}{{ l.lang }}{% else %}en{% endif %}">
-      <id>{{ l.url }}</id>
-      <title>{{ l.title }} ({{ l.domain }})</title>
-      <link rel="alternate" href="{{ l.url }}"/>
-      <updated>{{ l.date }}</updated>
-    </entry>
-    {% endfor %}
+  {% for b in latestBookmarks %}
+  <entry xml:lang="{% if b.lang %}{{ b.lang }}{% else %}en{% endif %}">
+    <id>{{ b.url }}</id>
+    <title>{{ b.title }}</title>
+    <link rel="alternate" href="{{ b.url }}"/>
+    <updated>{{ b.date }}</updated>
+  </entry>
   {% endfor %}
 </feed>
