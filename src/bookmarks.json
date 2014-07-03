@@ -270,6 +270,11 @@
       "title" : "Meteor Learning!",
       "url"   : "https://github.com/ericdouglas/Meteor-Learning",
       "added" : "2014-07-03"
+    },
+    {
+      "title" : "Meteortalks",
+      "url"   : "http://meteortalks.com/",
+      "added" : "2014-07-03"
     }
   ],
   "Articles": [
@@ -826,6 +831,12 @@
       "url"   : "https://github.com/Fenicio/padawan",
       "desc"  : "Stack overflow clone in Meteor for academia",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Microphone",
+      "url"   : "https://github.com/Differential/microphone",
+      "desc"  : "A podcasting platform built using Meteor.js",
+      "added" : "2014-07-03"
     }
   ],
   "Boilerplates": [
@@ -857,9 +868,46 @@
   ],
   "Reusable Apps": [
     {
-      "title" : "meteor-blog",
+      "title" : "Blog",
       "url"   : "http://github.differential.io/meteor-blog/",
+      "desc"  : "Gives you a basic, out-of-the-box blog at /blog",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Accounts-Entry",
+      "url"   : "http://github.differential.io/accounts-entry/",
+      "desc"  : "Meteor sign up and sign in pages",
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "Billing",
+      "url"   : "http://github.differential.io/meteor-billing/",
+      "desc"  : "Package for common billing functionality",
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "Profile",
+      "url"   : "https://github.com/Differential/meteor-profile",
+      "desc"  : "Gives you a basic, out-of-the-box user profile page",
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "Voltage",
+      "url"   : "http://github.differential.io/meteor-voltage/",
+      "desc"  : "Provides easy, editable, static pages in Meteor. Editable in Markdown.",
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "Comments",
+      "url"   : "https://github.com/Differential/meteor-comments",
+      "desc"  : "Add comments to any document with optional notifications.",
+      "added" : "2014-07-03"
+    },
+    {
+      "title" : "CMS",
+      "url"   : "https://github.com/Differential/meteor-cms",
+      "desc"  : "Easily add pages your clients can manage at '/admin/cms'",
+      "added" : "2014-07-03"
     }
   ],
   "Tools": [
