@@ -3,7 +3,7 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-03T16:17:01.467Z</updated>
+  <updated>2014-07-03T21:18:32.126Z</updated>
   
     
     <entry xml:lang="en">
@@ -369,6 +369,13 @@
       <id>https://github.com/ericdouglas/Meteor-Learning</id>
       <title>Meteor Learning! (github.com)</title>
       <link rel="alternate" href="https://github.com/ericdouglas/Meteor-Learning"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://meteortalks.com/</id>
+      <title>Meteortalks (meteortalks.com)</title>
+      <link rel="alternate" href="http://meteortalks.com/"/>
       <updated>2014-07-02T22:00:00.000Z</updated>
     </entry>
     
@@ -1040,6 +1047,13 @@
       <updated>2014-07-01T22:00:00.000Z</updated>
     </entry>
     
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/microphone</id>
+      <title>Microphone (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/microphone"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
   
     
     <entry xml:lang="en">
@@ -1081,9 +1095,51 @@
     
     <entry xml:lang="en">
       <id>http://github.differential.io/meteor-blog/</id>
-      <title>meteor-blog (github.differential.io)</title>
+      <title>Blog (github.differential.io)</title>
       <link rel="alternate" href="http://github.differential.io/meteor-blog/"/>
       <updated>2014-07-01T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://github.differential.io/accounts-entry/</id>
+      <title>Accounts-Entry (github.differential.io)</title>
+      <link rel="alternate" href="http://github.differential.io/accounts-entry/"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://github.differential.io/meteor-billing/</id>
+      <title>Billing (github.differential.io)</title>
+      <link rel="alternate" href="http://github.differential.io/meteor-billing/"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/meteor-profile</id>
+      <title>Profile (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/meteor-profile"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>http://github.differential.io/meteor-voltage/</id>
+      <title>Voltage (github.differential.io)</title>
+      <link rel="alternate" href="http://github.differential.io/meteor-voltage/"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/meteor-comments</id>
+      <title>Comments (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/meteor-comments"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
+    </entry>
+    
+    <entry xml:lang="en">
+      <id>https://github.com/Differential/meteor-cms</id>
+      <title>CMS (github.com)</title>
+      <link rel="alternate" href="https://github.com/Differential/meteor-cms"/>
+      <updated>2014-07-02T22:00:00.000Z</updated>
     </entry>
     
   
