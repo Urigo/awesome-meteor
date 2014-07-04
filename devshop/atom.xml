@@ -3,7 +3,7 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-04T17:48:17.386Z</updated>
+  <updated>2014-07-04T18:24:17.893Z</updated>
   
   <entry xml:lang="en">
     <id>https://kadira.io/</id>
@@ -13,9 +13,37 @@
   </entry>
   
   <entry xml:lang="en">
+    <id>http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/</id>
+    <title>10 Reasons why you should not even consider using Meteor</title>
+    <link rel="alternate" href="http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
     <id>http://meteorhacks.com/discover-meteor-ddp-in-realtime.html</id>
     <title>Discover Meteor DDP in Realtime</title>
     <link rel="alternate" href="http://meteorhacks.com/discover-meteor-ddp-in-realtime.html"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://meteorhacks.com/how-blaze-works.html</id>
+    <title>How Blaze Works - Meteor&#39;s Reactive Templating UI</title>
+    <link rel="alternate" href="http://meteorhacks.com/how-blaze-works.html"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://meteor-js.zeef.com/rene.schneider</id>
+    <title>Meteor Resources (Rene Schneider&#39;s Zeef)</title>
+    <link rel="alternate" href="https://meteor-js.zeef.com/rene.schneider"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://leanpub.com/meteortutorial/read</id>
+    <title>Your First Meteor Application</title>
+    <link rel="alternate" href="https://leanpub.com/meteortutorial/read"/>
     <updated></updated>
   </entry>
   
@@ -114,34 +142,6 @@
     <id>http://differential.io/</id>
     <title>Differential</title>
     <link rel="alternate" href="http://differential.io/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://www.meteor.com/</id>
-    <title>Meteor</title>
-    <link rel="alternate" href="https://www.meteor.com/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/awatson1978/selenium-nightwatch</id>
-    <title>selenium-nightwatch</title>
-    <link rel="alternate" href="https://github.com/awatson1978/selenium-nightwatch"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://arunoda.github.io/laika/</id>
-    <title>Laika</title>
-    <link rel="alternate" href="http://arunoda.github.io/laika/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://xolvio.github.io/rtd/</id>
-    <title>RTD</title>
-    <link rel="alternate" href="http://xolvio.github.io/rtd/"/>
     <updated></updated>
   </entry>
   
