@@ -132,6 +132,10 @@
     "favicon": "https://gumroad.com/favicon.ico"
   },
   {
+    "url": "https://leanpub.com/meteortutorial/read",
+    "favicon": "https://leanpub.com/favicon.ico"
+  },
+  {
     "url": "https://www.eventedmind.com",
     "favicon": "https://www.eventedmind.com/images/favicon.png"
   },
@@ -204,6 +208,10 @@
     "favicon": "http://meteortalks.com/favicon.ico"
   },
   {
+    "url": "https://meteor-js.zeef.com/rene.schneider",
+    "favicon": "https://meteor-js.zeef.com/favicon.ico"
+  },
+  {
     "url": "http://yauh.de/best-learning-resources-for-meteorjs/",
     "favicon": "http://yauh.de/favicon.ico"
   },
@@ -234,6 +242,10 @@
   {
     "url": "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/",
     "favicon": "https://www.discovermeteor.com/images/favicon.ico"
+  },
+  {
+    "url": "http://meteorhacks.com/how-blaze-works.html",
+    "favicon": "http://meteorhacks.com/favicon.ico"
   },
   {
     "url": "http://meteorhacks.com/journey-into-meteors-reactivity.html",
@@ -302,6 +314,10 @@
   {
     "url": "https://lookback.io/blog/confessions-of-a-startup",
     "favicon": "https://lookback.io/images/favicon.ico"
+  },
+  {
+    "url": "http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/",
+    "favicon": "http://yauh.de/favicon.ico"
   },
   {
     "url": "http://slides.com/rgoomar/why-meteor",

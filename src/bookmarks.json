@@ -180,6 +180,11 @@
       "title" : "Meteor Explained - A Journey Into Meteor’s Reactivity",
       "url"   : "https://gumroad.com/l/meteor-explained",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Your First Meteor Application",
+      "url"   : "https://leanpub.com/meteortutorial/read",
+      "added" : "2014-07-04"
     }
   ],
   "Courses": [
@@ -275,6 +280,11 @@
       "title" : "Meteortalks",
       "url"   : "http://meteortalks.com/",
       "added" : "2014-07-03"
+    },
+    {
+      "title" : "Meteor Resources (Rene Schneider's Zeef)",
+      "url"   : "https://meteor-js.zeef.com/rene.schneider",
+      "added" : "2014-07-04"
     }
   ],
   "Articles": [
@@ -321,6 +331,12 @@
       "url"   : "https://www.discovermeteor.com/blog/blaze-dynamic-template-includes/",
       "tags"  : ["templating"],
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "How Blaze Works - Meteor's Reactive Templating UI",
+      "url"   : "http://meteorhacks.com/how-blaze-works.html",
+      "tags"  : ["blaze", "templating", "ui"],
+      "added" : "2014-07-04"
     },
     {
       "title" : "Journey into Meteor's Reactivity",
@@ -420,6 +436,11 @@
       "url"   : "https://lookback.io/blog/confessions-of-a-startup",
       "tags"  : ["feedback", "startup"],
       "added" : "2014-07-03"
+    },
+    {
+      "title" : "10 Reasons why you should not even consider using Meteor",
+      "url"   : "http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/",
+      "added" : "2014-07-04"
     }
   ],
   "Slides": [
