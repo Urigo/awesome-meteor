@@ -891,6 +891,11 @@
       "title" : "Justin McCandless",
       "url"   : "https://github.com/justinmc/meteor-backbone-boilerplate",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Juan David Pastas",
+      "url"   : "https://github.com/juanpastas/meteor-bootstrap",
+      "added" : "2014-07-04"
     }
   ],
   "Reusable Apps": [
