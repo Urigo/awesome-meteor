@@ -3,7 +3,21 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-03T21:52:53.845Z</updated>
+  <updated>2014-07-04T17:48:17.386Z</updated>
+  
+  <entry xml:lang="en">
+    <id>https://kadira.io/</id>
+    <title>Kadira</title>
+    <link rel="alternate" href="https://kadira.io/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://meteorhacks.com/discover-meteor-ddp-in-realtime.html</id>
+    <title>Discover Meteor DDP in Realtime</title>
+    <link rel="alternate" href="http://meteorhacks.com/discover-meteor-ddp-in-realtime.html"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://github.com/Differential/meteor-cms</id>
@@ -128,20 +142,6 @@
     <id>http://xolvio.github.io/rtd/</id>
     <title>RTD</title>
     <link rel="alternate" href="http://xolvio.github.io/rtd/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://audit.meteor.com</id>
-    <title>Audit</title>
-    <link rel="alternate" href="http://audit.meteor.com"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://atmospherejs.com/</id>
-    <title>Atmosphere</title>
-    <link rel="alternate" href="https://atmospherejs.com/"/>
     <updated></updated>
   </entry>
   
