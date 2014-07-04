@@ -328,6 +328,24 @@
       "added" : "2014-07-02"
     },
     {
+      "title" : "Discover Meteor DDP in Realtime",
+      "url"   : "http://meteorhacks.com/discover-meteor-ddp-in-realtime.html",
+      "tags"  : ["core", "ddp"],
+      "added" : "2014-07-04"
+    },
+    {
+      "title" : "Does Meteor Scale?",
+      "url"   : "http://meteorhacks.com/does-meteor-scale.html",
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
+    },
+    {
+      "title" : "How to Scale Meteor?",
+      "url"   : "http://meteorhacks.com/how-to-scale-meteor.html",
+      "tags"  : ["scaling"],
+      "added" : "2014-07-02"
+    },
+    {
       "title" : "Building large, modular apps in Meteor",
       "url"   : "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
       "tags"  : ["architecture"],
@@ -371,18 +389,6 @@
       "title" : "Meteor and SEO",
       "url"   : "http://www.manuel-schoebel.com/blog/meteor-and-seo",
       "tags"  : ["seo"],
-      "added" : "2014-07-02"
-    },
-    {
-      "title" : "Does Meteor Scale?",
-      "url"   : "http://meteorhacks.com/does-meteor-scale.html",
-      "tags"  : ["scaling"],
-      "added" : "2014-07-02"
-    },
-    {
-      "title" : "How to Scale Meteor?",
-      "url"   : "http://meteorhacks.com/how-to-scale-meteor.html",
-      "tags"  : ["scaling"],
       "added" : "2014-07-02"
     },
     {
@@ -922,6 +928,12 @@
       "url"   : "https://atmospherejs.com/",
       "desc"  : "catalog for Meteor packages, resources and tools",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Kadira",
+      "url"   : "https://kadira.io/",
+      "desc"  : "See what's happening in your Meteor app in realtime",
+      "added" : "2014-07-04"
     },
     {
       "title" : "Audit",

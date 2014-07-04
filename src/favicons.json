@@ -132,6 +132,10 @@
     "favicon": "https://gumroad.com/favicon.ico"
   },
   {
+    "url": "https://www.eventedmind.com",
+    "favicon": "https://www.eventedmind.com/images/favicon.png"
+  },
+  {
     "url": "https://www.udemy.com/meteor-course/",
     "favicon": "https://www.udemy.com/favicon.ico"
   },
@@ -168,10 +172,6 @@
     "favicon": "http://meteorhacks.com/favicon.ico"
   },
   {
-    "url": "https://www.eventedmind.com",
-    "favicon": "https://www.eventedmind.com/images/favicon.png"
-  },
-  {
     "url": "http://30dayswithmeteor.ghost.io/",
     "favicon": "http://30dayswithmeteor.ghost.io/favicon.ico"
   },
@@ -194,6 +194,14 @@
   {
     "url": "http://www.hellometeor.com/",
     "favicon": "http://www.hellometeor.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/ericdouglas/Meteor-Learning",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "http://meteortalks.com/",
+    "favicon": "http://meteortalks.com/favicon.ico"
   },
   {
     "url": "http://yauh.de/best-learning-resources-for-meteorjs/",
@@ -232,6 +240,18 @@
     "favicon": "http://meteorhacks.com/favicon.ico"
   },
   {
+    "url": "http://meteorhacks.com/discover-meteor-ddp-in-realtime.html",
+    "favicon": "http://meteorhacks.com/favicon.ico"
+  },
+  {
+    "url": "http://meteorhacks.com/does-meteor-scale.html",
+    "favicon": "http://meteorhacks.com/favicon.ico"
+  },
+  {
+    "url": "http://meteorhacks.com/how-to-scale-meteor.html",
+    "favicon": "http://meteorhacks.com/favicon.ico"
+  },
+  {
     "url": "http://tech.exponential.io/meteor/building-large-modular-apps-meteor/",
     "favicon": "http://tech.exponential.io/favicon.ico"
   },
@@ -264,14 +284,6 @@
     "favicon": "http://www.manuel-schoebel.com/favicon.ico"
   },
   {
-    "url": "http://meteorhacks.com/does-meteor-scale.html",
-    "favicon": "http://meteorhacks.com/favicon.ico"
-  },
-  {
-    "url": "http://meteorhacks.com/how-to-scale-meteor.html",
-    "favicon": "http://meteorhacks.com/favicon.ico"
-  },
-  {
     "url": "http://fightingtheboss.github.io/scaling_meteor.html",
     "favicon": "https://www.meteor.com/favicon.ico"
   },
@@ -282,6 +294,14 @@
   {
     "url": "http://safety-harness.meteor.com/comparison",
     "favicon": "http://safety-harness.meteor.com/favicon.ico"
+  },
+  {
+    "url": "https://www.discovermeteor.com/blog/meteor-and-security/",
+    "favicon": "https://www.discovermeteor.com/images/favicon.ico"
+  },
+  {
+    "url": "https://lookback.io/blog/confessions-of-a-startup",
+    "favicon": "https://lookback.io/images/favicon.ico"
   },
   {
     "url": "http://slides.com/rgoomar/why-meteor",
@@ -476,6 +496,10 @@
     "favicon": "http://rywalker.com/favicon.ico"
   },
   {
+    "url": "http://meteortips.com/autopublish-tutorial/",
+    "favicon": "http://meteortips.com/favicon.ico"
+  },
+  {
     "url": "https://github.com/TelescopeJS/Telescope",
     "favicon": "https://github.com/favicon.ico"
   },
@@ -560,6 +584,10 @@
     "favicon": "https://github.com/favicon.ico"
   },
   {
+    "url": "https://github.com/Differential/microphone",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
     "url": "https://github.com/Differential/meteor-boilerplate",
     "favicon": "https://github.com/favicon.ico"
   },
@@ -584,12 +612,40 @@
     "favicon": "http://github.differential.io/favicon.ico"
   },
   {
+    "url": "http://github.differential.io/accounts-entry/",
+    "favicon": "http://github.differential.io/favicon.ico"
+  },
+  {
+    "url": "http://github.differential.io/meteor-billing/",
+    "favicon": "http://github.differential.io/favicon.ico"
+  },
+  {
+    "url": "https://github.com/Differential/meteor-profile",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "http://github.differential.io/meteor-voltage/",
+    "favicon": "http://github.differential.io/favicon.ico"
+  },
+  {
+    "url": "https://github.com/Differential/meteor-comments",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/Differential/meteor-cms",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
     "url": "http://oortcloud.github.io/meteorite/",
     "favicon": "https://www.meteor.com/favicon.ico"
   },
   {
     "url": "https://atmospherejs.com/",
     "favicon": "https://atmospherejs.com/favicon.png?v=3"
+  },
+  {
+    "url": "https://kadira.io/",
+    "favicon": "https://kadira.io/favicon.ico"
   },
   {
     "url": "http://audit.meteor.com",
