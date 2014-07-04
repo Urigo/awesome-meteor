@@ -3,12 +3,19 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-04T18:24:17.893Z</updated>
+  <updated>2014-07-04T21:26:32.043Z</updated>
   
   <entry xml:lang="en">
     <id>https://kadira.io/</id>
     <title>Kadira</title>
     <link rel="alternate" href="https://kadira.io/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/juanpastas/meteor-bootstrap</id>
+    <title>Juan David Pastas</title>
+    <link rel="alternate" href="https://github.com/juanpastas/meteor-bootstrap"/>
     <updated></updated>
   </entry>
   
@@ -135,13 +142,6 @@
     <id>http://www.percolatestudio.com/</id>
     <title>Percolate Studio</title>
     <link rel="alternate" href="http://www.percolatestudio.com/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://differential.io/</id>
-    <title>Differential</title>
-    <link rel="alternate" href="http://differential.io/"/>
     <updated></updated>
   </entry>
   
