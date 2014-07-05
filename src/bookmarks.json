@@ -868,34 +868,44 @@
   ],
   "Boilerplates": [
     {
-      "title" : "Differential",
+      "title" : "Differential/meteor-boilerplate",
       "url"   : "https://github.com/Differential/meteor-boilerplate",
       "added" : "2014-07-02"
     },
     {
-      "title" : "Patrick Coffey",
+      "title" : "patrickocoffeyo/meteor-boilerplate",
       "url"   : "https://github.com/patrickocoffeyo/meteor-boilerplate",
       "added" : "2014-07-02"
     },
     {
-      "title" : "matteodem",
+      "title" : "matteodem/meteor-boilerplate",
       "url"   : "https://github.com/matteodem/meteor-boilerplate",
       "added" : "2014-07-02"
     },
     {
-      "title" : "Liftoff",
-      "url"   : "https://github.com/jfols/liftoff",
-      "added" : "2014-07-02"
-    },
-    {
-      "title" : "Justin McCandless",
+      "title" : "justinmc/meteor-backbone-boilerplate",
       "url"   : "https://github.com/justinmc/meteor-backbone-boilerplate",
       "added" : "2014-07-02"
     },
     {
-      "title" : "Juan David Pastas",
+      "title" : "juanpastas/meteor-bootstrap",
       "url"   : "https://github.com/juanpastas/meteor-bootstrap",
       "added" : "2014-07-04"
+    },
+    {
+      "title" : "CiaraBurkett/meteor-base",
+      "url"   : "https://github.com/CiaraBurkett/meteor-base",
+      "added" : "2014-07-05"
+    },
+    {
+      "title" : "Gentlenode/hackathon-meteor",
+      "url"   : "https://github.com/Gentlenode/hackathon-meteor",
+      "added" : "2014-07-05"
+    },
+    {
+      "title" : "jfols/liftoff",
+      "url"   : "https://github.com/jfols/liftoff",
+      "added" : "2014-07-02"
     }
   ],
   "Reusable Apps": [
@@ -940,6 +950,12 @@
       "url"   : "https://github.com/Differential/meteor-cms",
       "desc"  : "Easily add pages your clients can manage at '/admin/cms'",
       "added" : "2014-07-03"
+    },
+    {
+      "title" : "Azimuth",
+      "url"   : "http://azimuthc.ms/",
+      "desc"  : "simple + speedy CMS that harnesses the power of Meteor.js",
+      "added" : "2014-07-05"
     }
   ],
   "Tools": [
@@ -970,6 +986,12 @@
   ],
   "Testing Packages": [
     {
+      "title" : "Velocity",
+      "url"   : "https://github.com/xolvio/velocity",
+      "desc"  : "Test runner (and community) for Meteor apps",
+      "added" : "2014-07-05"
+    },
+    {
       "title" : "RTD",
       "url"   : "http://xolvio.github.io/rtd/",
       "desc"  :  "The Meteor Test Runner",
@@ -978,13 +1000,32 @@
     {
       "title" : "Laika",
       "url"   : "http://arunoda.github.io/laika/",
-      "desc"  :  "Testing Framework for Meteor",
+      "desc"  : "Testing Framework for Meteor",
       "added" : "2014-07-02"
     },
     {
-      "title": "selenium-nightwatch",
-      "url": "https://github.com/awatson1978/selenium-nightwatch",
+      "title" : "selenium-nightwatch",
+      "url"   : "https://github.com/awatson1978/selenium-nightwatch",
+      "desc"  : "Nightwatch framework to clone into your Meteor application",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "meteor-mocha-web",
+      "url"   : "https://github.com/mad-eye/meteor-mocha-web",
+      "desc"  : "easily and safely run mocha tests within the Meteor framework",
+      "added" : "2014-07-05"
+    },
+    {
+      "title" : "Meteor Jasmine",
+      "url"   : "https://github.com/Sanjo/meteor-jasmine",
+      "desc"  : "Easily and securely use Jasmine within client side Meteor",
+      "added" : "2014-07-05"
+    },
+    {
+      "title" : "Meteor Cucumber",
+      "url"   : "https://github.com/xdissent/meteor-cucumber",
+      "desc"  : "CucumberJS test runner and Velocity reporter with Selenium Webdriver and Zombie support",
+      "added" : "2014-07-05"
     }
   ],
   "Work with Meteor": [
@@ -1002,6 +1043,16 @@
       "title" : "Percolate Studio",
       "url"   : "http://www.percolatestudio.com/",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Gentlenode Studio",
+      "url"   : "https://gentlenode.com/",
+      "added" : "2014-07-05"
+    },
+    {
+      "title" : "dok.io",
+      "url"   : "http://dok.io/",
+      "added" : "2014-07-05"
     }
   ]
 }
