@@ -3,7 +3,70 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-04T21:26:32.043Z</updated>
+  <updated>2014-07-05T15:42:30.846Z</updated>
+  
+  <entry xml:lang="en">
+    <id>http://dok.io/</id>
+    <title>dok.io</title>
+    <link rel="alternate" href="http://dok.io/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://gentlenode.com/</id>
+    <title>Gentlenode Studio</title>
+    <link rel="alternate" href="https://gentlenode.com/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/xdissent/meteor-cucumber</id>
+    <title>Meteor Cucumber</title>
+    <link rel="alternate" href="https://github.com/xdissent/meteor-cucumber"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/Sanjo/meteor-jasmine</id>
+    <title>Meteor Jasmine</title>
+    <link rel="alternate" href="https://github.com/Sanjo/meteor-jasmine"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/mad-eye/meteor-mocha-web</id>
+    <title>meteor-mocha-web</title>
+    <link rel="alternate" href="https://github.com/mad-eye/meteor-mocha-web"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/xolvio/velocity</id>
+    <title>Velocity</title>
+    <link rel="alternate" href="https://github.com/xolvio/velocity"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://azimuthc.ms/</id>
+    <title>Azimuth</title>
+    <link rel="alternate" href="http://azimuthc.ms/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/Gentlenode/hackathon-meteor</id>
+    <title>Gentlenode/hackathon-meteor</title>
+    <link rel="alternate" href="https://github.com/Gentlenode/hackathon-meteor"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/CiaraBurkett/meteor-base</id>
+    <title>CiaraBurkett/meteor-base</title>
+    <link rel="alternate" href="https://github.com/CiaraBurkett/meteor-base"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://kadira.io/</id>
@@ -14,7 +77,7 @@
   
   <entry xml:lang="en">
     <id>https://github.com/juanpastas/meteor-bootstrap</id>
-    <title>Juan David Pastas</title>
+    <title>juanpastas/meteor-bootstrap</title>
     <link rel="alternate" href="https://github.com/juanpastas/meteor-bootstrap"/>
     <updated></updated>
   </entry>
@@ -79,69 +142,6 @@
     <id>https://github.com/Differential/meteor-profile</id>
     <title>Profile</title>
     <link rel="alternate" href="https://github.com/Differential/meteor-profile"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://github.differential.io/meteor-billing/</id>
-    <title>Billing</title>
-    <link rel="alternate" href="http://github.differential.io/meteor-billing/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://github.differential.io/accounts-entry/</id>
-    <title>Accounts-Entry</title>
-    <link rel="alternate" href="http://github.differential.io/accounts-entry/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/Differential/microphone</id>
-    <title>Microphone</title>
-    <link rel="alternate" href="https://github.com/Differential/microphone"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://meteortips.com/autopublish-tutorial/</id>
-    <title>A Beginner&#39;s Guide to Publish, Subscribe, and the &quot;autopublish&quot; Package in Meteor</title>
-    <link rel="alternate" href="http://meteortips.com/autopublish-tutorial/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://lookback.io/blog/confessions-of-a-startup</id>
-    <title>Lookback: Confessions of a startup: all our numbers, insights, everything</title>
-    <link rel="alternate" href="https://lookback.io/blog/confessions-of-a-startup"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://www.discovermeteor.com/blog/meteor-and-security/</id>
-    <title>Meteor &amp; Security: Setting the Record Straight</title>
-    <link rel="alternate" href="https://www.discovermeteor.com/blog/meteor-and-security/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://meteortalks.com/</id>
-    <title>Meteortalks</title>
-    <link rel="alternate" href="http://meteortalks.com/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/ericdouglas/Meteor-Learning</id>
-    <title>Meteor Learning!</title>
-    <link rel="alternate" href="https://github.com/ericdouglas/Meteor-Learning"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://www.percolatestudio.com/</id>
-    <title>Percolate Studio</title>
-    <link rel="alternate" href="http://www.percolatestudio.com/"/>
     <updated></updated>
   </entry>
   

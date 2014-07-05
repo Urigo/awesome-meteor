@@ -616,15 +616,23 @@
     "favicon": "https://github.com/favicon.ico"
   },
   {
-    "url": "https://github.com/jfols/liftoff",
-    "favicon": "https://github.com/favicon.ico"
-  },
-  {
     "url": "https://github.com/justinmc/meteor-backbone-boilerplate",
     "favicon": "https://github.com/favicon.ico"
   },
   {
     "url": "https://github.com/juanpastas/meteor-bootstrap",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/CiaraBurkett/meteor-base",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/Gentlenode/hackathon-meteor",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/jfols/liftoff",
     "favicon": "https://github.com/favicon.ico"
   },
   {
@@ -656,6 +664,10 @@
     "favicon": "https://github.com/favicon.ico"
   },
   {
+    "url": "http://azimuthc.ms/",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
     "url": "http://oortcloud.github.io/meteorite/",
     "favicon": "https://www.meteor.com/favicon.ico"
   },
@@ -672,6 +684,10 @@
     "favicon": "https://www.meteor.com/favicon.ico"
   },
   {
+    "url": "https://github.com/xolvio/velocity",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
     "url": "http://xolvio.github.io/rtd/",
     "favicon": "https://www.meteor.com/favicon.ico"
   },
@@ -681,6 +697,18 @@
   },
   {
     "url": "https://github.com/awatson1978/selenium-nightwatch",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/mad-eye/meteor-mocha-web",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/Sanjo/meteor-jasmine",
+    "favicon": "https://github.com/favicon.ico"
+  },
+  {
+    "url": "https://github.com/xdissent/meteor-cucumber",
     "favicon": "https://github.com/favicon.ico"
   },
   {
@@ -694,5 +722,13 @@
   {
     "url": "http://www.percolatestudio.com/",
     "favicon": "http://www.percolatestudio.com/favicon.ico"
+  },
+  {
+    "url": "https://gentlenode.com/",
+    "favicon": "https://gentlenode.com/favicon.ico"
+  },
+  {
+    "url": "http://dok.io/",
+    "favicon": "http://dok.io/favicon.ico"
   }
 ]
