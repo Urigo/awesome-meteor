@@ -3,7 +3,35 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-05T15:42:30.846Z</updated>
+  <updated>2014-07-11T05:58:22.986Z</updated>
+  
+  <entry xml:lang="en">
+    <id>http://meteortips.com/iron-router-beginner-tutorial-part-1/</id>
+    <title>A Beginner&#39;s Guide to Iron Router, Part 1</title>
+    <link rel="alternate" href="http://meteortips.com/iron-router-beginner-tutorial-part-1/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://lemur.ro/does-meteor-deliver/</id>
+    <title>Does Meteor deliver?</title>
+    <link rel="alternate" href="http://lemur.ro/does-meteor-deliver/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://www.discovermeteor.com/encyclopedia</id>
+    <title>Discover Meteor: The Encyclopedia</title>
+    <link rel="alternate" href="https://www.discovermeteor.com/encyclopedia"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://manual.meteor.com/</id>
+    <title>Manual</title>
+    <link rel="alternate" href="http://manual.meteor.com/"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>http://dok.io/</id>
@@ -114,34 +142,6 @@
     <id>https://leanpub.com/meteortutorial/read</id>
     <title>Your First Meteor Application</title>
     <link rel="alternate" href="https://leanpub.com/meteortutorial/read"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/Differential/meteor-cms</id>
-    <title>CMS</title>
-    <link rel="alternate" href="https://github.com/Differential/meteor-cms"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/Differential/meteor-comments</id>
-    <title>Comments</title>
-    <link rel="alternate" href="https://github.com/Differential/meteor-comments"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://github.differential.io/meteor-voltage/</id>
-    <title>Voltage</title>
-    <link rel="alternate" href="http://github.differential.io/meteor-voltage/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/Differential/meteor-profile</id>
-    <title>Profile</title>
-    <link rel="alternate" href="https://github.com/Differential/meteor-profile"/>
     <updated></updated>
   </entry>
   

@@ -20,6 +20,10 @@
     "favicon": "http://docs.meteor.com/favicon.ico"
   },
   {
+    "url": "http://manual.meteor.com/",
+    "favicon": "https://www.meteor.com/favicon.ico"
+  },
+  {
     "url": "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core",
     "favicon": "https://groups.google.com/favicon.ico"
   },
@@ -172,6 +176,10 @@
     "favicon": "https://www.meteor.com/favicon.ico"
   },
   {
+    "url": "https://www.discovermeteor.com/encyclopedia",
+    "favicon": "https://www.discovermeteor.com/images/favicon.ico"
+  },
+  {
     "url": "http://meteorhacks.com/pro-meteor/",
     "favicon": "http://meteorhacks.com/favicon.ico"
   },
@@ -318,6 +326,10 @@
   {
     "url": "http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/",
     "favicon": "http://yauh.de/favicon.ico"
+  },
+  {
+    "url": "http://lemur.ro/does-meteor-deliver/",
+    "favicon": "http://lemur.ro/favicon.ico"
   },
   {
     "url": "http://slides.com/rgoomar/why-meteor",
@@ -513,6 +525,10 @@
   },
   {
     "url": "http://meteortips.com/autopublish-tutorial/",
+    "favicon": "http://meteortips.com/favicon.ico"
+  },
+  {
+    "url": "http://meteortips.com/iron-router-beginner-tutorial-part-1/",
     "favicon": "http://meteortips.com/favicon.ico"
   },
   {
