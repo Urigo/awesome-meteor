@@ -26,6 +26,11 @@
       "added" : "2014-07-02"
     },
     {
+      "title" : "Manual",
+      "url"   : "http://manual.meteor.com/",
+      "added" : "2014-07-11"
+    },
+    {
       "title" : "Core Development Google Group",
       "url"   : "https://groups.google.com/forum/?hl=en&fromgroups=#!forum/meteor-core",
       "added" : "2014-07-02"
@@ -236,6 +241,11 @@
       "added" : "2014-07-02"
     },
     {
+      "title" : "Discover Meteor: The Encyclopedia",
+      "url"   : "https://www.discovermeteor.com/encyclopedia",
+      "added" : "2014-07-11"
+    },
+    {
       "title" : "Pro Meteor",
       "url"   : "http://meteorhacks.com/pro-meteor/",
       "added" : "2014-07-02"
@@ -441,6 +451,11 @@
       "title" : "10 Reasons why you should not even consider using Meteor",
       "url"   : "http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/",
       "added" : "2014-07-04"
+    },
+    {
+      "title" : "Does Meteor deliver?",
+      "url"   : "http://lemur.ro/does-meteor-deliver/",
+      "added" : "2014-07-11"
     }
   ],
   "Slides": [
@@ -730,6 +745,12 @@
       "url"   : "http://meteortips.com/autopublish-tutorial/",
       "tags"  : ["pubsub"],
       "added" : "2014-07-03"
+    },
+    {
+      "title" : "A Beginner's Guide to Iron Router, Part 1",
+      "url"   : "http://meteortips.com/iron-router-beginner-tutorial-part-1/",
+      "tags"  : ["routing", "iron-router"],
+      "added" : "2014-07-11"
     }
   ],
   "Sources": [
