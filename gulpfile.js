@@ -2,9 +2,11 @@
 
 var fs       = require('fs');
 var path     = require('path');
+var parseURL = require('url').parse;
 var express  = require('express');
 var _        = require('lodash');
 var favicon  = require('favicon');
+var async    = require('async');
 var forEach  = require('async-foreach').forEach;
 var chalk    = require('chalk');
 var gulp     = require('gulp');
@@ -14,6 +16,9 @@ var jsonlint = require("gulp-jsonlint");
 var deploy   = require('gulp-gh-pages');
 var swig     = require('swig');
 var build    = require('./build');
+
+var FAVICONS_FILE  = path.join(__dirname, 'src', 'favicons.json');
+var BOOKMARKS_FILE = path.join(__dirname, 'src', 'bookmarks.json');
 
 // Assets
 // -----------------------------------------------------------------------------
@@ -45,7 +50,7 @@ gulp.task('bookmarks:check:json', function() {
 });
 
 gulp.task('bookmarks:check:duplicates', ['bookmarks:check:json'], function() {
-  var json  = JSON.parse(fs.readFileSync(path.join(__dirname, 'src', 'bookmarks.json')));
+  var json  = JSON.parse(fs.readFileSync(BOOKMARKS_FILE));
   var items = _.flatten(_.values(json));
   var uniqs = _.uniq(items, function(b) { return b.url; });
   var dups  = _.filter(uniqs, function(b) { return _.filter(items, {url: b.url}).length >= 2; });
@@ -53,27 +58,29 @@ gulp.task('bookmarks:check:duplicates', ['bookmarks:check:json'], function() {
 });
 
 gulp.task('bookmarks:favicons', function(done) {
-  var data = [];
-  var bookmarks = JSON.parse(fs.readFileSync(path.join(__dirname, 'src', 'bookmarks.json')));
-  forEach(Object.keys(bookmarks), function(section) {
-    var linksDone = this.async();
-    var links = bookmarks[section];
-    forEach(links, function(link) {
-      var linkDone = this.async();
+  var data      = [];
+  var favicons  = JSON.parse(fs.readFileSync(FAVICONS_FILE));
+  var bookmarks = JSON.parse(fs.readFileSync(BOOKMARKS_FILE));
+  async.each(Object.keys(bookmarks), function(section, sectioncb) {
+    async.each(bookmarks[section], function(link, linkcb) {
+      var host = parseURL(link.url).hostname;
+      if (_.find(favicons, {host: host})) return linkcb();
       favicon(link.url, function(err, url) {
-        if (err) console.log(chalk.red(err));
         console.log(chalk.gray('Fetching favicon for %s'), link.url);
         url = url ? url : 'https://www.meteor.com/favicon.ico';
         url = /^(?!http).*/i.test(url) ? 'http://' + url : url;
-        data.push({url: link.url, favicon: url});
-        linkDone();
+        data.push({host: host, favicon: url});
+        linkcb(err);
       });
-    }, linksDone);
-  }, function() {
-    fs.writeFileSync(path.join(__dirname, 'src', 'favicons.json'), JSON.stringify(data, null, 2));
+    }, function(err) {
+      favicons = favicons.concat(data);
+      sectioncb(err);
+    });
+  }, function(err) {
+    if (err) console.log(chalk.red(err));
+    fs.writeFileSync(FAVICONS_FILE, JSON.stringify(favicons, null, 2));
     done();
   });
-
 });
 
 gulp.task('bookmarks', ['bookmarks:check:duplicates']);

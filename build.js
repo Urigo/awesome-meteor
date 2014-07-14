@@ -17,11 +17,11 @@ var buildDate  = require('metalsmith-build-date');
 
 module.exports = build;
 
-var BASE_URL               = process.env.BASE_URL ? process.env.BASE_URL : '/';
-var BOOKMARKS_FILE         = path.join(__dirname, 'src', 'bookmarks.json');
-var DEVSHOP_DIR            = path.join(__dirname, 'src', 'devshop');
-var FAVICONS_FILE          = path.join(__dirname, 'src', 'favicons.json');
-var FAVICONS_PATCHES_FILES = path.join(__dirname, 'src', 'favicons-patches.json');
+var BASE_URL              = process.env.BASE_URL ? process.env.BASE_URL : '/';
+var BOOKMARKS_FILE        = path.join(__dirname, 'src', 'bookmarks.json');
+var DEVSHOP_DIR           = path.join(__dirname, 'src', 'devshop');
+var FAVICONS_FILE         = path.join(__dirname, 'src', 'favicons.json');
+var FAVICONS_PATCHES_FILE = path.join(__dirname, 'src', 'favicons-patches.json');
 
 function getDevshopMetadata() {
   var data = {};
@@ -55,7 +55,7 @@ function setBookmarkDomain(bookmark, cb) {
 }
 
 function setBookmarkFavicon(bookmark, favicons, cb) {
-  var favicon = _.find(favicons, {url: bookmark.url});
+  var favicon = _.find(favicons, {host: parseURL(bookmark.url).hostname});
   bookmark.favicon = favicon ? favicon.favicon : 'https://www.meteor.com/favicon.ico';
   cb();
 }
@@ -63,7 +63,7 @@ function setBookmarkFavicon(bookmark, favicons, cb) {
 function getFavicons() {
   if (!fs.existsSync(FAVICONS_FILE)) throw new Error('Please, run "gulp bookmarks:favicons"');
   var favicons = JSON.parse(fs.readFileSync(FAVICONS_FILE));
-  var faviconsPatches = JSON.parse(fs.readFileSync(FAVICONS_PATCHES_FILES));
+  var faviconsPatches = JSON.parse(fs.readFileSync(FAVICONS_PATCHES_FILE));
   return _.union(faviconsPatches, favicons);
 }
 
