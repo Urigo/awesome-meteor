@@ -3,12 +3,12 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-14T17:14:50.078Z</updated>
+  <updated>2014-07-14T17:16:59.634Z</updated>
   
   <entry xml:lang="en">
-    <id>http://www.okgrow.com/meteor/</id>
+    <id>http://www.okgrow.com/</id>
     <title>OK GROW!</title>
-    <link rel="alternate" href="http://www.okgrow.com/meteor/"/>
+    <link rel="alternate" href="http://www.okgrow.com/"/>
     <updated></updated>
   </entry>
   
