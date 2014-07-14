@@ -3,7 +3,14 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-11T05:58:22.986Z</updated>
+  <updated>2014-07-14T17:14:50.078Z</updated>
+  
+  <entry xml:lang="en">
+    <id>http://www.okgrow.com/meteor/</id>
+    <title>OK GROW!</title>
+    <link rel="alternate" href="http://www.okgrow.com/meteor/"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>http://meteortips.com/iron-router-beginner-tutorial-part-1/</id>
@@ -135,13 +142,6 @@
     <id>https://meteor-js.zeef.com/rene.schneider</id>
     <title>Meteor Resources (Rene Schneider&#39;s Zeef)</title>
     <link rel="alternate" href="https://meteor-js.zeef.com/rene.schneider"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://leanpub.com/meteortutorial/read</id>
-    <title>Your First Meteor Application</title>
-    <link rel="alternate" href="https://leanpub.com/meteortutorial/read"/>
     <updated></updated>
   </entry>
   
