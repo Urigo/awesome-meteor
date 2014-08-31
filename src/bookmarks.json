@@ -48,6 +48,12 @@
       "added" : "2014-07-02"
     },
     {
+      "title" : "Google Group - Meteor Brasil",
+      "url"   : "https://groups.google.com/forum/#!forum/meteor-brasil",
+      "added" : "2014-08-26",
+      "lang"  : "pt-br"
+    },
+    {
       "title" : "Meetup Groups",
       "url"   : "http://meteor.meetup.com/",
       "added" : "2014-07-02"
@@ -207,6 +213,16 @@
       "title" : "Tuts+ — Single Page Web Apps with Meteor",
       "url"   : "http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "DevFreeCasts - Meteor",
+      "url"   : "http://caio-ribeiro-pereira.github.io/devfreecasts/meteor",
+      "added" : "2014-08-26"
+    },
+    {
+      "title" : "MeteorTuts",
+      "url"   : "http://meteortuts.com/",
+      "added" : "2014-08-26"
     }
   ],
   "Useful Resources": [
