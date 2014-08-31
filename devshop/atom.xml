@@ -3,7 +3,28 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-07-14T17:16:59.634Z</updated>
+  <updated>2014-08-31T08:31:09.563Z</updated>
+  
+  <entry xml:lang="en">
+    <id>http://meteortuts.com/</id>
+    <title>MeteorTuts</title>
+    <link rel="alternate" href="http://meteortuts.com/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://caio-ribeiro-pereira.github.io/devfreecasts/meteor</id>
+    <title>DevFreeCasts - Meteor</title>
+    <link rel="alternate" href="http://caio-ribeiro-pereira.github.io/devfreecasts/meteor"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="pt-br">
+    <id>https://groups.google.com/forum/#!forum/meteor-brasil</id>
+    <title>Google Group - Meteor Brasil</title>
+    <link rel="alternate" href="https://groups.google.com/forum/#!forum/meteor-brasil"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>http://www.okgrow.com/</id>
@@ -121,27 +142,6 @@
     <id>http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/</id>
     <title>10 Reasons why you should not even consider using Meteor</title>
     <link rel="alternate" href="http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://meteorhacks.com/discover-meteor-ddp-in-realtime.html</id>
-    <title>Discover Meteor DDP in Realtime</title>
-    <link rel="alternate" href="http://meteorhacks.com/discover-meteor-ddp-in-realtime.html"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://meteorhacks.com/how-blaze-works.html</id>
-    <title>How Blaze Works - Meteor&#39;s Reactive Templating UI</title>
-    <link rel="alternate" href="http://meteorhacks.com/how-blaze-works.html"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://meteor-js.zeef.com/rene.schneider</id>
-    <title>Meteor Resources (Rene Schneider&#39;s Zeef)</title>
-    <link rel="alternate" href="https://meteor-js.zeef.com/rene.schneider"/>
     <updated></updated>
   </entry>
   
