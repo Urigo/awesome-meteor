@@ -3,7 +3,14 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-08-31T08:31:09.563Z</updated>
+  <updated>2014-09-27T11:05:08.810Z</updated>
+  
+  <entry xml:lang="en">
+    <id>https://www.udemy.com/meteorjs</id>
+    <title>A Beginner&#39;s Guide to the Meteor JavaScript Framework</title>
+    <link rel="alternate" href="https://www.udemy.com/meteorjs"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>http://meteortuts.com/</id>
@@ -135,13 +142,6 @@
     <id>https://github.com/juanpastas/meteor-bootstrap</id>
     <title>juanpastas/meteor-bootstrap</title>
     <link rel="alternate" href="https://github.com/juanpastas/meteor-bootstrap"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/</id>
-    <title>10 Reasons why you should not even consider using Meteor</title>
-    <link rel="alternate" href="http://yauh.de/10-reasons-why-you-should-not-even-consider-using-meteor/"/>
     <updated></updated>
   </entry>
   
