@@ -1,4 +1,4 @@
-# Meteor Bookmarks
+# Awesome Meteor
 
 ## Meteor
 
