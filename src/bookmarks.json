@@ -1024,6 +1024,12 @@
       "url"   : "http://audit.meteor.com",
       "desc"  : "your meteor site analyzed",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "MeteorPad",
+      "url"   : "http://meteorpad.com",
+      "desc"  : "JSFiddle for Meteor",
+      "added" : "2014-10-06"
     }
   ],
   "Testing Packages": [
