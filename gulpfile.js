@@ -67,7 +67,7 @@ gulp.task('bookmarks:favicons', function(done) {
       if (_.find(favicons, {host: host})) return linkcb();
       favicon(link.url, function(err, url) {
         console.log(chalk.gray('Fetching favicon for %s'), link.url);
-        url = url ? url : 'https://www.meteor.com/favicon.ico';
+        url = url ? url : 'https://www.meteor.com/favicon.png';
         url = /^(?!http).*/i.test(url) ? 'http://' + url : url;
         data.push({host: host, favicon: url});
         linkcb(err);
