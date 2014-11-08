@@ -91,7 +91,7 @@ gulp.task('bookmarks', ['bookmarks:check:duplicates']);
 // Build
 // -----------------------------------------------------------------------------
 gulp.task('build:readme', ['bookmarks'], function(done) {
-  var md = ['# Meteor Bookmarks']
+  var md = ['# Awesome Meteor']
   var bookmarks = JSON.parse(fs.readFileSync(BOOKMARKS_FILE));
   async.each(Object.keys(bookmarks), function(section, sectioncb) {
     md.push(util.format('\n## %s\n', section))
