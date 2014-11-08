@@ -3,7 +3,21 @@
   <title>Meteor Bookmarks</title>
   <link href="/meteor-bookmarks/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/meteor-bookmarks/" rel="alternate" type="text/html" />
-  <updated>2014-09-27T11:05:08.810Z</updated>
+  <updated>2014-11-08T16:50:52.317Z</updated>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/SachaG/Void</id>
+    <title>SachaG/Void</title>
+    <link rel="alternate" href="https://github.com/SachaG/Void"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://meteorpad.com</id>
+    <title>MeteorPad</title>
+    <link rel="alternate" href="http://meteorpad.com"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://www.udemy.com/meteorjs</id>
@@ -128,20 +142,6 @@
     <id>https://github.com/CiaraBurkett/meteor-base</id>
     <title>CiaraBurkett/meteor-base</title>
     <link rel="alternate" href="https://github.com/CiaraBurkett/meteor-base"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://kadira.io/</id>
-    <title>Kadira</title>
-    <link rel="alternate" href="https://kadira.io/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/juanpastas/meteor-bootstrap</id>
-    <title>juanpastas/meteor-bootstrap</title>
-    <link rel="alternate" href="https://github.com/juanpastas/meteor-bootstrap"/>
     <updated></updated>
   </entry>
   
