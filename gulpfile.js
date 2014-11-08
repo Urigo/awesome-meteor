@@ -2,6 +2,7 @@
 
 var fs       = require('fs');
 var path     = require('path');
+var util     = require('util');
 var parseURL = require('url').parse;
 var express  = require('express');
 var _        = require('lodash');
@@ -16,9 +17,11 @@ var jsonlint = require("gulp-jsonlint");
 var deploy   = require('gulp-gh-pages');
 var swig     = require('swig');
 var build    = require('./build');
+var pkg      = require('./package.json')
 
 var FAVICONS_FILE  = path.join(__dirname, 'src', 'favicons.json');
 var BOOKMARKS_FILE = path.join(__dirname, 'src', 'bookmarks.json');
+var README = path.join(__dirname, 'README.md');
 
 // Assets
 // -----------------------------------------------------------------------------
@@ -87,6 +90,28 @@ gulp.task('bookmarks', ['bookmarks:check:duplicates']);
 
 // Build
 // -----------------------------------------------------------------------------
+gulp.task('build:readme', ['bookmarks'], function(done) {
+  var md = ['# Meteor Bookmarks']
+  var bookmarks = JSON.parse(fs.readFileSync(BOOKMARKS_FILE));
+  async.each(Object.keys(bookmarks), function(section, sectioncb) {
+    md.push(util.format('\n## %s\n', section))
+    async.each(bookmarks[section], function(link, linkcb) {
+      md.push(util.format('* [%s](%s)', link.title, link.url))
+      linkcb();
+    }, function(err) {
+      sectioncb(err);
+    });
+  }, function(err) {
+    if (err) console.log(chalk.red(err));
+    md.push('\n## Authors\n');
+    pkg.contributors.forEach(function(contributor) {
+      md.push(util.format('* [%s](%s)', contributor.name, contributor.url));
+    });
+    fs.writeFileSync(README, md.join('\n'));
+    done();
+  });
+});
+
 gulp.task('build:metalsmith', ['bookmarks'], function(done) {
   build(function(err){
     if (err) throw err;
@@ -95,7 +120,7 @@ gulp.task('build:metalsmith', ['bookmarks'], function(done) {
   });
 });
 
-gulp.task('build', ['build:metalsmith', 'assets'], function() {
+gulp.task('build', ['build:readme', 'build:metalsmith', 'assets'], function() {
   return gulp.src(['build/**/*'])
     .pipe(gulp.dest('public'));
 });

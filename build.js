@@ -55,7 +55,7 @@ function setBookmarkDomain(bookmark, cb) {
 
 function setBookmarkFavicon(bookmark, favicons, cb) {
   var favicon = _.find(favicons, {host: parseURL(bookmark.url).hostname});
-  bookmark.favicon = favicon ? favicon.favicon : 'https://www.meteor.com/favicon.ico';
+  bookmark.favicon = favicon ? favicon.favicon : 'https://www.meteor.com/favicon.png';
   cb();
 }
 
