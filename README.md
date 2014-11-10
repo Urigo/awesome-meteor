@@ -56,6 +56,7 @@
 * [Meteor: Criando aplicações web real-time com JavaScript](https://casadocodigo.refersion.com/l/d88.3525)
 * [Meteor Explained - A Journey Into Meteor’s Reactivity](https://gumroad.com/l/meteor-explained)
 * [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
+* [Bulletproof Meteor - Build Fast and Efficient Meteor Apps](https://bulletproofmeteor.com/)
 
 ## Courses
 
