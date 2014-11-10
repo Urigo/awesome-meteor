@@ -3,7 +3,14 @@
   <title>Awesome Meteor</title>
   <link href="/awesome-meteor/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/awesome-meteor/" rel="alternate" type="text/html" />
-  <updated>2014-11-08T18:38:17.844Z</updated>
+  <updated>2014-11-10T08:06:43.545Z</updated>
+  
+  <entry xml:lang="en">
+    <id>https://bulletproofmeteor.com/</id>
+    <title>Bulletproof Meteor - Build Fast and Efficient Meteor Apps</title>
+    <link rel="alternate" href="https://bulletproofmeteor.com/"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://github.com/SachaG/Void</id>
@@ -135,13 +142,6 @@
     <id>https://github.com/Gentlenode/hackathon-meteor</id>
     <title>Gentlenode/hackathon-meteor</title>
     <link rel="alternate" href="https://github.com/Gentlenode/hackathon-meteor"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/CiaraBurkett/meteor-base</id>
-    <title>CiaraBurkett/meteor-base</title>
-    <link rel="alternate" href="https://github.com/CiaraBurkett/meteor-base"/>
     <updated></updated>
   </entry>
   
