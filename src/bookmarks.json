@@ -196,6 +196,11 @@
       "title" : "Your First Meteor Application",
       "url"   : "https://leanpub.com/meteortutorial/read",
       "added" : "2014-07-04"
+    },
+    {
+      "title" : "Bulletproof Meteor - Build Fast and Efficient Meteor Apps",
+      "url"   : "https://bulletproofmeteor.com/",
+      "added" : "2014-11-10"
     }
   ],
   "Courses": [
