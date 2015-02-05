@@ -64,7 +64,7 @@
 * [Udemy — Meteor: Build a real-time web app using only JavaScript!](https://www.udemy.com/meteor-course/)
 * [A Beginner's Guide to the Meteor JavaScript Framework](https://www.udemy.com/meteorjs)
 * [Tuts+ — Single Page Web Apps with Meteor](http://courses.tutsplus.com/courses/single-page-web-apps-with-meteor)
-* [DevFreeCasts - Meteor](http://caio-ribeiro-pereira.github.io/devfreecasts/meteor)
+* [DevFreeCasts - Meteor](http://devfreecasts.org/meteor)
 * [MeteorTuts](http://meteortuts.com/)
 
 ## Useful Resources
@@ -213,6 +213,7 @@
 * [Gentlenode/hackathon-meteor](https://github.com/Gentlenode/hackathon-meteor)
 * [jfols/liftoff](https://github.com/jfols/liftoff)
 * [SachaG/Void](https://github.com/SachaG/Void)
+* [radiegtya/meteoris](https://github.com/radiegtya/meteoris)
 
 ## Reusable Apps
 
