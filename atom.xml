@@ -3,7 +3,14 @@
   <title>Awesome Meteor</title>
   <link href="/awesome-meteor/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/awesome-meteor/" rel="alternate" type="text/html" />
-  <updated>2014-11-10T08:06:43.545Z</updated>
+  <updated>2015-02-05T07:37:29.990Z</updated>
+  
+  <entry xml:lang="en">
+    <id>https://github.com/radiegtya/meteoris</id>
+    <title>radiegtya/meteoris</title>
+    <link rel="alternate" href="https://github.com/radiegtya/meteoris"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://bulletproofmeteor.com/</id>
@@ -41,9 +48,9 @@
   </entry>
   
   <entry xml:lang="en">
-    <id>http://caio-ribeiro-pereira.github.io/devfreecasts/meteor</id>
+    <id>http://devfreecasts.org/meteor</id>
     <title>DevFreeCasts - Meteor</title>
-    <link rel="alternate" href="http://caio-ribeiro-pereira.github.io/devfreecasts/meteor"/>
+    <link rel="alternate" href="http://devfreecasts.org/meteor"/>
     <updated></updated>
   </entry>
   
@@ -135,13 +142,6 @@
     <id>http://azimuthc.ms/</id>
     <title>Azimuth</title>
     <link rel="alternate" href="http://azimuthc.ms/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/Gentlenode/hackathon-meteor</id>
-    <title>Gentlenode/hackathon-meteor</title>
-    <link rel="alternate" href="https://github.com/Gentlenode/hackathon-meteor"/>
     <updated></updated>
   </entry>
   
