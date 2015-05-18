@@ -25,6 +25,7 @@
 * [YouTube](https://www.youtube.com/user/MeteorVideos)
 * [Made with Meteor](http://madewith.meteor.com/)
 * [LinuxFr.org](http://linuxfr.org/tags/meteor/public)
+* [Meteor Help](http://meteorhelp.com)
 
 ## News
 
@@ -32,6 +33,7 @@
 * [MeteorHacks](http://meteorhacks.com/)
 * [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 * [Underground WebDev Weekly](http://weekly.udgwebdev.com/)
+* [Meteor Create](http://meteorcreate.com/top)
 
 ## Podcasts
 
