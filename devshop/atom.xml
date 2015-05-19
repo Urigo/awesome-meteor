@@ -3,7 +3,21 @@
   <title>Awesome Meteor</title>
   <link href="/awesome-meteor/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/awesome-meteor/" rel="alternate" type="text/html" />
-  <updated>2015-02-05T07:37:29.990Z</updated>
+  <updated>2015-05-19T06:23:32.637Z</updated>
+  
+  <entry xml:lang="en">
+    <id>http://meteorcreate.com/</id>
+    <title>Meteor Create</title>
+    <link rel="alternate" href="http://meteorcreate.com/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>http://meteorhelp.com/</id>
+    <title>MeteorHelp</title>
+    <link rel="alternate" href="http://meteorhelp.com/"/>
+    <updated></updated>
+  </entry>
   
   <entry xml:lang="en">
     <id>https://github.com/radiegtya/meteoris</id>
@@ -128,20 +142,6 @@
     <id>https://github.com/mad-eye/meteor-mocha-web</id>
     <title>meteor-mocha-web</title>
     <link rel="alternate" href="https://github.com/mad-eye/meteor-mocha-web"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/xolvio/velocity</id>
-    <title>Velocity</title>
-    <link rel="alternate" href="https://github.com/xolvio/velocity"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>http://azimuthc.ms/</id>
-    <title>Azimuth</title>
-    <link rel="alternate" href="http://azimuthc.ms/"/>
     <updated></updated>
   </entry>
   
