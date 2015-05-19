@@ -103,6 +103,12 @@
       "url"   : "http://linuxfr.org/tags/meteor/public",
       "lang"  : "fr",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "MeteorHelp",
+      "url"   : "http://meteorhelp.com/",
+      "lang"  : "en",
+      "added" : "2015-19-05"
     }
   ],
   "News": [
@@ -126,6 +132,12 @@
       "url"   : "http://weekly.udgwebdev.com/",
       "lang"  : "pt-br",
       "added" : "2014-07-02"
+    },
+    {
+      "title" : "Meteor Create",
+      "url"   : "http://meteorcreate.com/",
+      "lang"  : "en",
+      "added" : "2015-19-05"
     }
   ],
   "Podcasts": [
