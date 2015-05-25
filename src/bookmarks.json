@@ -1025,6 +1025,12 @@
       "url"   : "http://azimuthc.ms/",
       "desc"  : "simple + speedy CMS that harnesses the power of Meteor.js",
       "added" : "2014-07-05"
+    },
+    {
+      "title" : "Orion, CMS",
+      "url"   : "http://orionjs.org/",
+      "desc"  : "A CMS allowing to store your model and data within Mongo. Supports site definition through a dictionary. Admin interface available for Bootstrap, Foundation and Material.",
+      "added" : "2015-05-23"
     }
   ],
   "Tools": [
