@@ -227,6 +227,7 @@
 * [Comments](https://github.com/Differential/meteor-comments)
 * [CMS](https://github.com/Differential/meteor-cms)
 * [Azimuth](http://azimuthc.ms/)
+* [Orion, a CMS for Meteor](http://orionjs.org/)
 
 ## Tools
 
