@@ -2,7 +2,7 @@
 
 ```
 $ make install
-$ gulp
+$ make serve
 $ open http://localhost:3000
 ```
 
@@ -16,7 +16,7 @@ To be sure everything is okay, run:
 
 ```
 $ make install
-$ gulp
+$ make serve
 $ open http://localhost:3000
 ```
 

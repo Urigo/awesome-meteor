@@ -1030,7 +1030,7 @@
       "title" : "Orion, CMS",
       "url"   : "http://orionjs.org/",
       "desc"  : "A CMS allowing to store your model and data within Mongo. Supports site definition through a dictionary. Admin interface available for Bootstrap, Foundation and Material.",
-      "added" : "2015-05-23"
+      "added" : "2015-05-25"
     }
   ],
   "Tools": [
