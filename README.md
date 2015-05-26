@@ -263,3 +263,4 @@
 * [Caio Ribeiro Pereira](http://udgwebdev.com/)
 * [Asad Dhamani](http://www.asad.pw/)
 * [Mitchell Wulfman](https://github.com/wulfmeister)
+* [Pierre-Eric Marchandet](https://github.com/PEM--)
