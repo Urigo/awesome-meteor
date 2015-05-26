@@ -16,7 +16,7 @@ To be sure everything is okay, run:
 
 ```
 $ make install
-$ make server
+$ make serve
 $ open http://localhost:3000
 ```
 
