@@ -265,3 +265,4 @@
 * [Asad Dhamani](http://www.asad.pw/)
 * [Mitchell Wulfman](https://github.com/wulfmeister)
 * [Pierre-Eric Marchandet](https://github.com/PEM--)
+* [Peter T. Brown](https://github.com/flippyhead)
