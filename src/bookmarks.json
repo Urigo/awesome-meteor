@@ -1063,6 +1063,12 @@
       "url"   : "http://meteorpad.com",
       "desc"  : "JSFiddle for Meteor",
       "added" : "2014-10-06"
+    },
+    {
+      "title" : "Admiral",
+      "url"   : "http://github.com/flippyhead/admiral",
+      "desc"  : "Admiral for Meteor",
+      "added" : "2015-5-27"
     }
   ],
   "Testing Packages": [
