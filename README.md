@@ -236,6 +236,7 @@
 * [Kadira](https://kadira.io/)
 * [Audit](http://audit.meteor.com)
 * [MeteorPad](http://meteorpad.com)
+* [Admiral](http://github.com/flippyhead/admiral)
 
 ## Testing Packages
 
