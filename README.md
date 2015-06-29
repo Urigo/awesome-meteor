@@ -260,10 +260,11 @@
 
 ## Authors
 
-* [Gilles Fabio](http://github.com/gillesfabio)
-* [Pascal Germain](https://twitter.com/notpascool)
-* [Caio Ribeiro Pereira](http://udgwebdev.com/)
 * [Asad Dhamani](http://www.asad.pw/)
+* [Caio Ribeiro Pereira](http://udgwebdev.com/)
+* [Gilles Fabio](http://github.com/gillesfabio)
+* [Jose Ney Guerrero](http://www.neydroid.com)
 * [Mitchell Wulfman](https://github.com/wulfmeister)
-* [Pierre-Eric Marchandet](https://github.com/PEM--)
+* [Pascal Germain](https://twitter.com/notpascool)
 * [Peter T. Brown](https://github.com/flippyhead)
+* [Pierre-Eric Marchandet](https://github.com/PEM--)
