@@ -178,6 +178,7 @@
 * [Deploying a Meteor App to Modulus](http://rywalker.com/deploying-a-meteor-app-to-modulus)
 * [A Beginner's Guide to Publish, Subscribe, and the "autopublish" Package in Meteor](http://meteortips.com/autopublish-tutorial/)
 * [A Beginner's Guide to Iron Router, Part 1](http://meteortips.com/iron-router-beginner-tutorial-part-1/)
+* [Building a Slack Clone in Meteor.js: Getting Started](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 
 ## Sources
 
