@@ -789,6 +789,11 @@
       "url"   : "http://meteortips.com/iron-router-beginner-tutorial-part-1/",
       "tags"  : ["routing", "iron-router"],
       "added" : "2014-07-11"
+    },
+    {
+      "title" : "Building a Slack Clone in Meteor.js: Getting Started",
+      "url"   : "https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started",
+      "added" : "2015-06-29"
     }
   ],
   "Sources": [
