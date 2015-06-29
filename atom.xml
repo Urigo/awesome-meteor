@@ -3,7 +3,7 @@
   <title>Awesome Meteor</title>
   <link href="/awesome-meteor/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/awesome-meteor/" rel="alternate" type="text/html" />
-  <updated>2015-05-28T05:41:25.015Z</updated>
+  <updated>2015-06-29T07:09:10.457Z</updated>
   
   <entry xml:lang="en">
     <id>http://meteorcreate.com/</id>
@@ -16,6 +16,13 @@
     <id>http://meteorhelp.com/</id>
     <title>MeteorHelp</title>
     <link rel="alternate" href="http://meteorhelp.com/"/>
+    <updated></updated>
+  </entry>
+  
+  <entry xml:lang="en">
+    <id>https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started</id>
+    <title>Building a Slack Clone in Meteor.js: Getting Started</title>
+    <link rel="alternate" href="https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started"/>
     <updated></updated>
   </entry>
   
@@ -135,13 +142,6 @@
     <id>https://gentlenode.com/</id>
     <title>Gentlenode Studio</title>
     <link rel="alternate" href="https://gentlenode.com/"/>
-    <updated></updated>
-  </entry>
-  
-  <entry xml:lang="en">
-    <id>https://github.com/xdissent/meteor-cucumber</id>
-    <title>Meteor Cucumber</title>
-    <link rel="alternate" href="https://github.com/xdissent/meteor-cucumber"/>
     <updated></updated>
   </entry>
   
