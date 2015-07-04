@@ -21,7 +21,7 @@ A curated list of awesome Meteor Packages, libraries and software.
     - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
     - [Deployement](#deployement)
-    - [FrontEnd Frameworks](#frontEnd-frameworks)
+    - [Front End Frameworks](#front-end-frameworks)
     - [Package managers](#package-managers)
     - [Internationalization](#internationalization)
     - [Scaffolding](#scaffolding)
@@ -162,9 +162,9 @@ A curated list of awesome Meteor Packages, libraries and software.
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
 
-## FrontEnd Frameworks
+## Front End Frameworks
 
-*Alternative FrontEnd Frameworks to Blaze*
+*Alternative Front End Frameworks to Blaze*
 
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
 * [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
