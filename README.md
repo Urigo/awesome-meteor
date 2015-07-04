@@ -238,3 +238,5 @@ Where to discover new Meteor things.
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
 Your contributions are always welcome!
+
+Thank you @gillesfabio for creating this repo!
