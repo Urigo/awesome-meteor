@@ -1,3 +1,0 @@
----
-template: devshop.html
----
