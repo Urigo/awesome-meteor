@@ -190,7 +190,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 * [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
-* [Microscope](The Discover Meteor book's example app)
+* [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Libreboard](https://github.com/libreboard/libreboard) - Open source Trello clone
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
