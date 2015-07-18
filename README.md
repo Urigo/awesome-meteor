@@ -256,7 +256,7 @@ Where to discover new Meteor things.
 * [Official Meteor](http://www.meteor.com) - Official website
 * [Official Documentation](http://docs.meteor.com/#/full/)
 * [Meteor Manual](http://manual.meteor.com/) 
-* [Meteor forums](forums.meteor.com)
+* [Meteor forums](http://forums.meteor.com)
 * [Atmosphere](http://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
 * [Bullet Proof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production
 * [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
