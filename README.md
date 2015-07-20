@@ -136,6 +136,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteorhacks:search-source](https://github.com/meteorhacks/search-source) - Reactive Data Source for Search
 * [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (+ Elastic Search Support
 * [alethes:pages](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination
+* [Discover Meteor Blog about pagination](https://www.discovermeteor.com/blog/pagination-problems-meteor/)
  
 ## Mobile
 
