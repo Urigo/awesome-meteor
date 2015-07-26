@@ -48,7 +48,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Where to start*
 
 * [Official Meteor tutorial](https://www.meteor.com/try)
-* [Doscover Meteor Book](https://www.discovermeteor.com/)
+* [Discover Meteor Book](https://www.discovermeteor.com/)
 * [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
 
 ## Collections
