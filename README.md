@@ -23,7 +23,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [ES2015](#ES2015)
     - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
-    - [Deployement](#deployement)
+    - [Deployment](#deployment)
     - [Front End Frameworks](#front-end-frameworks)
     - [Altervative Databases](#altervative-databases)
     - [Package managers](#package-managers)
@@ -82,7 +82,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [alanning:roles](https://github.com/alanning/meteor-roles) - Roles support for the built-in accounts packages.
 
-## Deployement
+## Deployment
 
 *Tools for deploying and maintaining Meteor apps*
 
