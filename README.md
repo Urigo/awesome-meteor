@@ -176,6 +176,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [msavin:mongol](https://github.com/msavin/Mongol/) - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
 * [meteorhacks:kadira-debug](https://github.com/meteorhacks/kadira-debug) - Full Stack Debugging Solution for Meteor.
+* [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) - An extensible dev console for Meteor.
 
 ## Package Managers
 
