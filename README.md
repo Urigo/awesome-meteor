@@ -25,7 +25,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Payments](#payments)
     - [Deployment](#deployment)
     - [Front End Frameworks](#front-end-frameworks)
-    - [Altervative Databases](#altervative-databases)
+    - [Alternative Databases](#alternative-databases)
     - [Package managers](#package-managers)
     - [Internationalization](#internationalization)
     - [Scaffolding](#scaffolding)
@@ -215,7 +215,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend
 * [ddp.js](https://github.com/mondora/ddp.js) - Isomorphic JavaScript DDP client
 
-## Altervative Databases
+## Alternative Databases
 
 **Alternative Databases for MongoDB
 
