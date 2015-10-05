@@ -145,6 +145,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Mobile Developement*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor.
 * [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
