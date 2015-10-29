@@ -278,6 +278,7 @@ Where to discover new Meteor things.
 * [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw)
 * [Made With Meteor](http://madewith.meteor.com/)
 * [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
+* [The Meteor Chef](https://themeteorchef.com)
 
 ## Weekly
 
