@@ -195,6 +195,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Differential - meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
 * [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 * [meteoris2](https://github.com/radiegtya/meteoris2)
+* [Base](https://github.com/themeteorchef/base)
 
 ## Open source apps
 * [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
@@ -277,6 +278,7 @@ Where to discover new Meteor things.
 * [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw)
 * [Made With Meteor](http://madewith.meteor.com/)
 * [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
+* [The Meteor Chef](https://themeteorchef.com)
 
 ## Weekly
 
