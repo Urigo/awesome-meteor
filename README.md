@@ -179,6 +179,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
 * [meteorhacks:kadira-debug](https://github.com/meteorhacks/kadira-debug) - Full Stack Debugging Solution for Meteor.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) - An extensible dev console for Meteor.
+* [Meteor DDP Monitor](https://github.com/thebakeryio/meteor-ddp-monitor) - Chrome Dev tools extension for monitoring Meteor DDP traffic
 
 ## Package Managers
 
