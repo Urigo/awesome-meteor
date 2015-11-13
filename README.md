@@ -286,6 +286,7 @@ Where to discover new Meteor things.
 * [Meteor-Blog](http://info.meteor.com/blog)
 * [Meteor Weekly](http://meteorweekly.com/)
 * [Crater.io](https://crater.io/)
+* [This Week In Meteor](http://thisweekinmeteor.com/)
 
 ## Twitter
 
