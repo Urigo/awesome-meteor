@@ -92,7 +92,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
-* [meteorhacks:fast-render](https://github.com/meteorhacks/fast-render) - Render you app even before the DDP connection is live
+* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
@@ -103,7 +103,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor.
-* [meteorhacks:flow-router](https://github.com/meteorhacks/flow-router) - Client Side Router for Meteor.
+* [meteorhacks:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
 
 ## Offline
 
@@ -118,7 +118,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Meteor Testing Manual](http://www.meteortesting.com/)
 * [Velocity](http://velocity.meteor.com/) - A reactive test-runner for Meteor.
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
-* [sanjo:jasmine](https://github.com/Sanjo/meteor-jasmine/) - Run Jasmine tests for all your Meteor code.
+* [sanjo:jasmine](https://github.com/xolvio/meteor-jasmine) - Run Jasmine tests for all your Meteor code.
 * [xolvio:cucumber](https://github.com/xolvio/meteor-cucumber) - Reactive BDD for Meteor using Cucumber.js and Velocity.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 
@@ -177,7 +177,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [msavin:mongol](https://github.com/msavin/Mongol/) - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
-* [meteorhacks:kadira-debug](https://github.com/meteorhacks/kadira-debug) - Full Stack Debugging Solution for Meteor.
+* [meteorhacks:kadira-debug](https://github.com/kadirahq/meteor-debug) - Full Stack Debugging Solution for Meteor.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) - An extensible dev console for Meteor.
 * [Meteor DDP Monitor](https://github.com/thebakeryio/meteor-ddp-monitor) - Chrome Dev tools extension for monitoring Meteor DDP traffic
 
@@ -258,16 +258,16 @@ Where to discover new Meteor things.
 * [Blog about Optimistic UIi With Meteor Latency Compensation](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
 * [Meteor Hacks Blog](https://meteorhacks.com/)
 * [Meteor Create](http://meteorcreate.com/) - Discover the Best Meteor Tutorials
-* [The Meteor podcast](http://www.meteorpodcast.com/)
-* [Meteor club podcast](http://podcast.meteorjs.club/)
+* [The Meteor podcast](http://podcast.crater.io)
+* [Meteor club podcast](https://podcast.meteorjs.club/)
 
 ## Websites
 
-* [Official Meteor](http://www.meteor.com) - Official website
+* [Official Meteor](https://www.meteor.com/) - Official website
 * [Official Documentation](http://docs.meteor.com/#/full/)
 * [Meteor Manual](http://manual.meteor.com/) 
-* [Meteor forums](http://forums.meteor.com)
-* [Atmosphere](http://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
+* [Meteor forums](https://forums.meteor.com/)
+* [Atmosphere](https://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
 * [Bullet Proof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production
 * [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
 * [Meteorpedia](http://www.meteorpedia.com)
@@ -284,9 +284,9 @@ Where to discover new Meteor things.
 ## Weekly
 
 * [Meteor-Blog](http://info.meteor.com/blog)
-* [Meteor Weekly](http://meteorweekly.com/)
+* [Meteor Weekly](https://goodbits.io)
 * [Crater.io](https://crater.io/)
-* [This Week In Meteor](http://thisweekinmeteor.com/)
+* [This Week In Meteor](https://goodbits.io)
 
 ## Twitter
 
