@@ -295,6 +295,8 @@ Where to discover new Meteor things.
 ## Job Boards
 * [We Work Meteor](http://www.weworkmeteor.com/)
 
+## Slack Channels
+* [The Meteor Chef](https://themeteorchef.slack.com)
 
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
