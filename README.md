@@ -20,7 +20,6 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Testing](#testing)
     - [SEO](#seo)
     - [Analytics](#analytics)
-    - [ES2015](#ES2015)
     - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
     - [Deployment](#deployment)
@@ -158,12 +157,6 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Analytics*
 
 * [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
-
-## ES2015
-
-*ES2015 transpilers*
-
-[grigio:babel](https://github.com/grigio/meteor-babel) - Write javascript ES6 / ES7 in your Meteor app. A port of the Babel transpiler
 
 ## Cron Jobs
 
