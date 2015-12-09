@@ -138,7 +138,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (+ Elastic Search Support
 * [alethes:pages](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination
 * [Discover Meteor Blog about pagination](https://www.discovermeteor.com/blog/pagination-problems-meteor/)
- 
+
 ## Mobile
 
 *Mobile Developement*
@@ -259,7 +259,8 @@ Where to discover new Meteor things.
 
 * [Official Meteor](https://www.meteor.com/) - Official website
 * [Official Documentation](http://docs.meteor.com/#/full/)
-* [Meteor Manual](http://manual.meteor.com/) 
+* [Official Guide](http://guide.meteor.com/) 
+* [Meteor Manual](http://manual.meteor.com/)
 * [Meteor forums](https://forums.meteor.com/)
 * [Atmosphere](https://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
 * [Bullet Proof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production
