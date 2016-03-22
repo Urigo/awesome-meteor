@@ -209,6 +209,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Blaze](https://www.meteor.com/blaze)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
 * [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
+* [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
 
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
