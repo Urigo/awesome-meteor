@@ -28,6 +28,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Package managers](#package-managers)
     - [Internationalization](#internationalization)
     - [Scaffolding](#scaffolding)
+    - [Tooling](#tooling)
 - [Resources](#resources)
     - [Books](#books)
     - [Courses](#courses)
@@ -193,6 +194,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 * [meteoris2](https://github.com/radiegtya/meteoris2)
 * [Base](https://github.com/themeteorchef/base)
+
+## Tooling
+
+* [ESLint-plugin-Meteor](https://github.com/dferber90/eslint-plugin-meteor/) - ESLint plugin for Meteor
 
 ## Open source apps
 * [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
