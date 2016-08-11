@@ -99,7 +99,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
-* [Amazon auto scaling and Meteor](http://allandequeiroz.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
+* [Amazon auto scaling and Meteor](https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
 
 ## Routers
 
