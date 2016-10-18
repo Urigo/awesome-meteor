@@ -100,6 +100,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
 * [Amazon auto scaling and Meteor](https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
+* [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
 
 ## Routers
 
