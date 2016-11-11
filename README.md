@@ -123,8 +123,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Meteor Testing Manual](http://www.meteortesting.com/)
 * [Velocity](http://velocity.meteor.com/) - A reactive test-runner for Meteor.
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
-* [sanjo:jasmine](https://github.com/xolvio/meteor-jasmine) - Run Jasmine tests for all your Meteor code.
-* [xolvio:cucumber](https://github.com/xolvio/meteor-cucumber) - Reactive BDD for Meteor using Cucumber.js and Velocity.
+* [xolvio:chimp](https://github.com/xolvio/chimp) - Testing so easy, a primate could do it! Supports mocha, Cucumber, jasmine, and chai.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 
 ## Files
