@@ -260,6 +260,7 @@ Where to discover new Meteor things.
 
 ## Tutorials
 
+* [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
 * [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 * [Rocket-Chat Slack Clone](https://rocket.chat/)
 * [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn
