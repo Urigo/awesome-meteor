@@ -269,7 +269,7 @@ Where to discover new Meteor things.
 
 ## Blogs
 
-* [Official Meteor blog](http://info.meteor.com/blog)
+* [Official Meteor blog](http://blog.meteor.com)
 * [Meteor Hacks Blog](https://meteorhacks.com/)
 * [Meteor Create](http://meteorcreate.com/) - Discover the Best Meteor Tutorials
 * [The Meteor podcast](http://podcast.crater.io)
