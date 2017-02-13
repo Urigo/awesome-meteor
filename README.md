@@ -125,6 +125,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
 * [xolvio:chimp](https://github.com/xolvio/chimp) - Testing so easy, a primate could do it! Supports mocha, Cucumber, jasmine, and chai.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
+* [Gagarin](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps. 
 
 ## Files
 
