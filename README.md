@@ -19,6 +19,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Offline](#offline)
     - [Testing](#testing)
     - [SEO](#seo)
+    - [Data Visualization](#data-visualization)
     - [Analytics](#analytics)
     - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
@@ -156,6 +157,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
 * [okland:camera-ui](https://github.com/okland/camera-ui) - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
 * [percolatestudio/cordova-plugin-safe-reload](https://github.com/percolatestudio/cordova-plugin-safe-reload) - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
+
+## Data Visualization
+
+*Data Visualization in Meteor: charts, maps, etc.*
+
+* [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) - This package provides a simple way to use AnyChart JavaScript charting component in Meteor.
 
 ## Analytics
 
