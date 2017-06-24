@@ -204,8 +204,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Boilerplate
 
-* [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 * [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
+* [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
 * [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
