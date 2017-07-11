@@ -203,7 +203,6 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor
 * [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications 
 * [Differential - meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
-* [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 * [meteoris2](https://github.com/radiegtya/meteoris2)
 * [Base](https://github.com/themeteorchef/base)
 
@@ -213,6 +212,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Boilerplate
 
+* [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
