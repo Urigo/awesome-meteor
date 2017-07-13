@@ -76,6 +76,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Helpers for templates*
 
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+* [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
+* [kadira:blaze-layout](https://github.com/kadirahq/blaze-layout) - Layout Manager for Blaze (works well with Meteor FlowRouter)
 * [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor
 * [themeteorites:blaze-magic-events](https://github.com/themeteorites/blaze-magic-events) - A new way of binding event handlers to html elements for Meteor's Blaze
 * [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) - MVVM for Meteor
@@ -103,6 +105,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
 * [Amazon auto scaling and Meteor](https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
 * [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
+* [pm2-meteor](https://github.com/andruschka/pm2-meteor) - Simplest way to deploy, scale and run Meteor Apps with PM2.
 
 ## Routers
 
@@ -133,6 +136,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Handling files in Meteor*
 
 * [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads.
+* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls).
 
 ## Search sort paginate
@@ -161,9 +165,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Data Visualization
 
-*Data Visualization in Meteor: charts, maps, etc.*
+*Data Visualization in Meteor: charts, maps, tables, etc.*
 
 * [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) - This package provides a simple way to use AnyChart JavaScript charting component in Meteor.
+* [aldeed:tabular](https://github.com/aldeed/meteor-tabular) - Reactive datatables for large or small datasets.
 
 ## Analytics
 
@@ -216,7 +221,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
-* [Telescope](https://github.com/TelescopeJS/Telescope) - An open-source social news app built with Meteor
+* [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor
 * [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
@@ -227,7 +232,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [Blaze](https://www.meteor.com/blaze)
+* [Blaze](http://blazejs.org/guide/introduction.html)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
 * [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
 * [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
