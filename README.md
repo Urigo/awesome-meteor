@@ -14,7 +14,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Routers](#routers)
     - [Debugging Tools](#debugging-tools)
     - [Editor Plugins](#editor-plugins)
-    - [Search sort paginate](#search-sort-paginate)
+    - [Search, sort and paginate](#search-sort-paginate)
     - [Mobile](#mobile)
     - [Offline](#offline)
     - [Testing](#testing)
@@ -58,6 +58,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers and expensions for collections*
 
+* [node-simple-schema](https://github.com/aldeed/node-simple-schema/) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
 * [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) - Automatic validation of insert and update operations on the client and server.
 * [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers/) – Transform your collections with helpers that you define.
 * [matb33:collection-hooks](https://github.com/matb33/meteor-collection-hooks/) - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
@@ -87,6 +88,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
+* [accounts-base](https://guide.meteor.com/accounts.html) - Meteor's user account system.
 * [alanning:roles](https://github.com/alanning/meteor-roles) - Roles support for the built-in accounts packages.
 
 ## Deployment
@@ -112,13 +114,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor.
-* [meteorhacks:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
+* [kadira:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
+* [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
 
 ## Offline
 
 *Tools for Meteor offline support*
 
-* [ground:db](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods
+* [ground:db](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods.
 
 ## Testing
 
@@ -139,9 +142,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls).
 
-## Search sort paginate
+## Search, sort and paginate
 
-*Search sort paginate related tools*
+*Search, sort and paginate related tools*
 
 * [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) - Publish the count of a cursor, in real time.
 * [percolate:find-from-publication](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
