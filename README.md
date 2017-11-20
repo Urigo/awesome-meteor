@@ -249,9 +249,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Alternative Databases
 
-**Alternative Databases for MongoDB
+*Alternative Databases for MongoDB*
 
 * [meteor-pg](https://github.com/Richie765/meteor-pg) - New and improved PostgreSQL support for Meteor
+* [ostrio:neo4jdriver](https://github.com/VeliovGroup/ostrio-neo4jdriver/) - Neo4j Driver for Meteor, with support of GrapheneDB
 * [numtel:pg](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
 * [numtel:mysql](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor
 * [simple:rethink](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor
