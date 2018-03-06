@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Deployment
 
 *Tools for deploying and maintaining Meteor apps*
-
+* [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [BulletProof Meteor](https://bulletproofmeteor.com/)
 * [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - Performance Monitoring for Meteor.
