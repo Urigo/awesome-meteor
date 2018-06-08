@@ -136,6 +136,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 * [Gagarin](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps. 
 
+## SEO
+
+*Search Engine Optimization tools*
+
+* [ostrio:spiderable-middleware](https://github.com/VeliovGroup/spiderable-middleware/) - Prerendering (*a.k.a. Spiderable*) with support of ES6 (ECMAScript2015) - Meteor app crawled perfectly by search engines.
+
 ## Files
 
 *Handling files in Meteor*
