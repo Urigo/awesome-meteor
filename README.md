@@ -116,6 +116,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor.
 * [kadira:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
+* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
 
 ## Offline
