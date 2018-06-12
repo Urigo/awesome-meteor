@@ -106,7 +106,6 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
-* [Amazon auto scaling and Meteor](https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/) - An detailed description of how to build an infrastructure that auto scale and auto update without human interaction.
 * [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) - Simplest way to deploy, scale and run Meteor Apps with PM2.
 
@@ -130,11 +129,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Testing tools*
 
 * [Meteor Testing Manual](http://www.meteortesting.com/)
-* [Velocity](http://velocity.meteor.com/) - A reactive test-runner for Meteor.
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
 * [xolvio:chimp](https://github.com/xolvio/chimp) - Testing so easy, a primate could do it! Supports mocha, Cucumber, jasmine, and chai.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
-* [Gagarin](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps. 
+* [Gagarin](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps.
 
 ## SEO
 
@@ -218,7 +216,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Scaffolding*
 
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor
-* [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications 
+* [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications
 * [Differential - meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
 * [meteoris2](https://github.com/radiegtya/meteoris2)
 * [Base](https://github.com/themeteorchef/base)
@@ -290,23 +288,19 @@ Where to discover new Meteor things.
 * [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 * [Rocket-Chat Slack Clone](https://rocket.chat/)
 * [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn
-* [Learning Resources for Meteor](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 * [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
 
 ## Blogs
 
 * [Official Meteor blog](http://blog.meteor.com)
-* [Meteor Hacks Blog](https://meteorhacks.com/)
-* [Meteor Create](http://meteorcreate.com/) - Discover the Best Meteor Tutorials
 * [The Meteor podcast](http://podcast.crater.io)
-* [Meteor club podcast](https://podcast.meteorjs.club/)
 * [Blog about Optimistic UIs With Meteor Latency Compensation](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
 
 ## Websites
 
 * [Official website](https://www.meteor.com/)
 * [Official Documentation](http://docs.meteor.com/)
-* [Official Guide](http://guide.meteor.com/) 
+* [Official Guide](http://guide.meteor.com/)
 * [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
 * [BulletProof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production, by Arunoda Susiripala
 * [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
@@ -316,7 +310,7 @@ Where to discover new Meteor things.
 * [Reddit](https://www.reddit.com/r/meteor)
 * [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
 * [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
-* [The Meteor Chef](https://themeteorchef.com) 
+* [The Meteor Chef](https://themeteorchef.com)
 
 ### Q&A
 
@@ -331,7 +325,6 @@ Where to discover new Meteor things.
 
 * [Meteor-Blog](http://info.meteor.com/blog)
 * [Meteor Weekly](https://goodbits.io)
-* [Crater.io](https://crater.io/)
 * [This Week In Meteor](https://goodbits.io)
 
 ## Twitter
