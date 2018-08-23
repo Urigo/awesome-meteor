@@ -92,6 +92,15 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [accounts-base](https://guide.meteor.com/accounts.html) - Meteor's user account system.
 * [alanning:roles](https://github.com/alanning/meteor-roles) - Roles support for the built-in accounts packages.
 
+## Payments
+
+*Tools for handling payments in Meteor*
+
+* [Stripe](https://atmospherejs.com/mrgalaxy/stripe) - payment gateway for Stripe
+* [PayPal](https://atmospherejs.com/mrt/paypal) - payment gateway for PayPal
+* [BrainTree](https://atmospherejs.com/patrickml/braintree) - payment gateway for BrainTree
+* [Instamojo](https://atmospherejs.com/instamojo/instamojo) - payment gateway for Instamojo
+
 ## Deployment
 
 *Tools for deploying and maintaining Meteor apps*
