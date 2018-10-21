@@ -112,6 +112,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
 * [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
+* [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - An active fork of fast-render
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
@@ -126,6 +127,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [kadira:flow-router](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
 * [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
+* [msavin:parrot](https://github.com/msavin/Parrot) - Web router specially designed for building SPAs using Meteor
 
 ## Offline
 
