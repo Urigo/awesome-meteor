@@ -249,6 +249,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
+* [Rocket.Chat](https://rocket.chat/)
 
 ## Front End Frameworks
 
