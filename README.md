@@ -244,6 +244,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
+* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor
 * [Microscope](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban
