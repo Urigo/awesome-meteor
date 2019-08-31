@@ -23,14 +23,18 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Analytics](#analytics)
     - [Cron Jobs](#cron-jobs)
     - [Payments](#payments)
+    - [Administration](#administration)
+    - [Performance](#performance)
+    - [Monitoring](#monitoring)
     - [Deployment](#deployment)
     - [Front End Frameworks](#front-end-frameworks)
     - [Alternative Databases](#alternative-databases)
+    - [Boilerplate](#boilerplate)
+    - [Open Source Apps](#open-source-apps)
     - [Package managers](#package-managers)
     - [Internationalization](#internationalization)
     - [Scaffolding](#scaffolding)
     - [Tooling](#tooling)
-- [Boilerplate](#boilerplate)
 - [Resources](#resources)
     - [Books](#books)
     - [Courses](#courses)
@@ -40,6 +44,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Weekly](#weekly)
     - [Twitter](#twitter)
     - [Job Boards](#job-boards)
+- [Built With Meteor](#built-with-meteor)    
 - [Contributing](#contributing)
 
 - - -
@@ -64,6 +69,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [matb33:collection-hooks](https://github.com/matb33/meteor-collection-hooks/) - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
 * [reywood:publish-composite](https://github.com/englue/meteor-publish-composite) - publish a set of related documents from various collections using a reactive join
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) - The Model layer for Meteor
+* [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor Collection Joins + Reactive GraphQL like queries
+
 
 ## REST
 
@@ -101,25 +108,49 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [BrainTree](https://atmospherejs.com/patrickml/braintree) - payment gateway for BrainTree
 * [Instamojo](https://atmospherejs.com/instamojo/instamojo) - payment gateway for Instamojo
 
+## Administration
+
+*Tools for administrating your Meteor apps*
+
+* [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app
+* [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
+* [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
+
+
+## Monitoring
+
+*Tools for monitoring your Meteor apps*
+
+* [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - Perfomance Monitoring for Meteor based on Elastic APM
+* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) - Performance Monitoring for Meteor
+* [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - Performance Monitoring for Meteor
+
+
+## Performance
+
+*Tools for speeding up your Meteor apps*
+
+* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
+* [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - An active fork of fast-render
+* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
+* [epotek:method-cache](https://github.com/e-Potek/method-cache) - Meteor method caching using DataLoader
+
+
 ## Deployment
 
 *Tools for deploying and maintaining Meteor apps*
 
-* [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app
-* [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
-* [BulletProof Meteor](https://bulletproofmeteor.com/)
-* [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - Performance Monitoring for Meteor.
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
+* [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) - Automate Meteor deployments on Google Cloud App Engine Flexible
+* [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
+* [meteor-azure](https://github.com/fractal-code/meteor-azure) - Automate Meteor deployments on Azure App Service
+* [pm2-meteor](https://github.com/andruschka/pm2-meteor) - Simplest way to deploy, scale and run Meteor Apps with PM2.
+* [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
-* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
-* [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - An active fork of fast-render
-* [meteorhacks:cluster](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
-* [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
-* [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
-* [pm2-meteor](https://github.com/andruschka/pm2-meteor) - Simplest way to deploy, scale and run Meteor Apps with PM2.
-* [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - Perfomance Monitoring for Meteor based on Elastic APM
+* [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
+
 
 ## Routers
 
@@ -136,6 +167,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Tools for Meteor offline support*
 
 * [ground:db](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods.
+* [npdev:collections](https://github.com/CaptainN/npdev-collections) - An easy way to create offline collections with SSR for Meteor
 
 ## Testing
 
@@ -143,6 +175,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Meteor Testing Manual](http://www.meteortesting.com/)
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
+* [hubroedu:mocha](https://github.com/hubroedu/meteor-mocha/) - Decaffed cultofcoders:mocha fork. 
 * [xolvio:chimp](https://github.com/xolvio/chimp) - Testing so easy, a primate could do it! Supports mocha, Cucumber, jasmine, and chai.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 * [Gagarin](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps.
@@ -259,13 +292,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [Blaze](http://blazejs.org/guide/introduction.html)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
-* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
-* [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
-* [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
 * [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
-
+* [Svelte](https://github.com/meteor-svelte/meteor-svelte) - Build cybernetically enhanced web apps with Meteor and Svelte
+* [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
+* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
+* [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
 * [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend
 * [ddp.js](https://github.com/mondora/ddp.js) - Isomorphic JavaScript DDP client
@@ -282,13 +314,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 # Resources
 
-Where to discover new Meteor things.
+*Where to discover new Meteor things*
 
 ## Books
 
 * [Meteor Explained](https://gumroad.com/l/meteor-explained)
 * [Meteor Tips](http://meteortips.com/)
 * [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
+* [Secure Meteor](https://www.securemeteor.com/)
 
 ## Courses
 
@@ -351,6 +384,14 @@ Where to discover new Meteor things.
 ## Job Boards
 
 * [We Work Meteor](https://www.weworkmeteor.com/)
+
+## Built With Meteor
+
+*Commercial Grade Applications Built With Meteor*
+
+* [Qualia](https://www.qualia.com/) - Real Estate Startup
+* [Code Signal](https://codesignal.com/) - Skills-based assessment platform
+ 
 
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
