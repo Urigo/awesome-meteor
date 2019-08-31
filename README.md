@@ -296,7 +296,7 @@ Where to discover new Meteor things.
 * [Udemy - A Beginner's Guide to the Meteor JavaScript Framework](https://www.udemy.com/meteorjs/)
 * [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
 * [DevFreeCasts.org](http://devfreecasts.org/meteor/)
-* [MeteorTuts](http://meteortuts.com/)
+* [MeteorTuts](http://meteor-tuts.com/)
 
 ## Tutorials
 
