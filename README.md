@@ -40,7 +40,6 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
     - [Websites](#websites)
-    - [Weekly](#weekly)
     - [Twitter](#twitter)
     - [Job Boards](#job-boards)
 - [Built With Meteor](#built-with-meteor)    
