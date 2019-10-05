@@ -42,6 +42,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Websites](#websites)
     - [Twitter](#twitter)
     - [Job Boards](#job-boards)
+    - [Other](#other)
 - [Built With Meteor](#built-with-meteor)    
 - [Contributing](#contributing)
 
@@ -353,6 +354,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Job Boards
 
 * [We Work Meteor](https://www.weworkmeteor.com/)
+
+## Other
+
+* [Awesome Blaze](https://github.com/arggh/awesome-blaze)
 
 ## Built With Meteor
 
