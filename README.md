@@ -61,14 +61,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers and expensions for collections*
 
-* [simple-schema](https://github.com/aldeed/simple-schema-js) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
+* [simple-schema](https://github.com/aldeed/simple-schema-js) - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
 * [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) - Automatic validation of insert and update operations on the client and server.
 * [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers/) – Transform your collections with helpers that you define.
 * [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
-* [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - publish a set of related documents from various collections using a reactive join
-* [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) - The Model layer for Meteor
-* [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor Collection Joins + Reactive GraphQL like queries
-
+* [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - publish a set of related documents from various collections using a reactive join.
+* [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) - The Model layer for Meteor.
+* [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor Collection Joins + Reactive GraphQL like queries.
+* [sakulstra:aggregate](https://github.com/sakulstra/meteor-aggregate) - Add proper aggregation support for Meteor.
 
 ## REST
 
@@ -109,9 +109,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for administrating your Meteor apps*
 
-* [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app
-* [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
-* [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
+* [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app.
+* [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution.
+* [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor.
 
 
 ## Monitoring
@@ -275,15 +275,15 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
-* [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
-* [Svelte](https://github.com/meteor-svelte/meteor-svelte) - Build cybernetically enhanced web apps with Meteor and Svelte
-* [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
-* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
-* [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
+* [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor.
+* [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support).
+* [Svelte](https://github.com/meteor-svelte/meteor-svelte) - Build cybernetically enhanced web apps with Meteor and Svelte.
+* [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor.
+* [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor.
+* [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor.
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
-* [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend
-* [ddp.js](https://github.com/mondora/ddp.js) - Isomorphic JavaScript DDP client
+* [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend.
+* [ddp.js](https://github.com/mondora/ddp.js) - Isomorphic JavaScript DDP client.
 
 ## Alternative Databases
 
