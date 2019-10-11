@@ -42,7 +42,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Websites](#websites)
     - [Twitter](#twitter)
     - [Job Boards](#job-boards)
-    - [Other](#other)
+    - [Related](#related)
 - [Built With Meteor](#built-with-meteor)    
 - [Contributing](#contributing)
 
@@ -355,10 +355,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [We Work Meteor](https://www.weworkmeteor.com/)
 
-## Other
+## Related
 
+* [Awesome Meteor Developers](https://github.com/harryadelb/awesome-meteor-developers)
 * [Awesome Blaze](https://github.com/arggh/awesome-blaze)
 * [Awesome React Native Meteor](https://github.com/meteor-factory/awesome-react-native-meteor)
+
 
 ## Built With Meteor
 
