@@ -327,6 +327,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Blogs
 
 * [Official Meteor blog](http://blog.meteor.com)
+* [The Meteor podcast](http://podcast.crater.io) 
 
 ## Websites
 
@@ -334,6 +335,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Official Documentation](http://docs.meteor.com/)
 * [Official Guide](http://guide.meteor.com/)
 * [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
+* [Discover Meteor](https://book.discovermeteor.com/)
 * [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 * [Meetups](http://meteor.meetup.com/)
 * [Reddit](https://www.reddit.com/r/meteor)
