@@ -284,6 +284,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
 * [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend.
 * [ddp.js](https://github.com/mondora/ddp.js) - Isomorphic JavaScript DDP client.
+* [elm](https://github.com/ni-ko-o-kin/meteor-elm-example) -  elm as the view layer for a meteor based project.
 
 ## Alternative Databases
 
