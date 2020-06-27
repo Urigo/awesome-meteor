@@ -117,7 +117,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
 * [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - An active fork of fast-render
 * [epotek:method-cache](https://github.com/e-Potek/method-cache) - Meteor method caching using DataLoader
+* [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) - Transform publications to be non-reactive. 
 * [artillery-engine-meteor](https://github.com/kschingiz/artillery-engine-meteor) - Artillery load testing for MeteorJS applications.
+
 
 ## Deployment
 
