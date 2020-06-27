@@ -363,7 +363,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Qualia](https://www.qualia.com/) - Real Estate Startup
 * [Code Signal](https://codesignal.com/) - Skills-based assessment platform
- 
+* [Pathable](Pathable) - Events managment suite 
+* [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
