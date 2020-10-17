@@ -55,7 +55,6 @@ _Where to start_
 
 - [Official Meteor tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
 - [Official Guide](http://guide.meteor.com/)
-- [Why Meteor](https://wiki.dandascalescu.com/essays/why_meteor) to begin with, and [Meteor vs. the MEAN stack](https://wiki.dandascalescu.com/essays/meteor_js_vs_the_mean_stack)
 
 ## Collections
 
