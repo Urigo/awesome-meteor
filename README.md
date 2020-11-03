@@ -300,6 +300,7 @@ _Where to discover new Meteor things_
 - [Secure Meteor](https://www.securemeteor.com/)
 - [meteor-tuts](https://www.meteor-tuts.com/) - Free
 - [Meteor Tips](http://meteortips.com/) - Free
+- [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - Free
 - [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 
 ## Courses
