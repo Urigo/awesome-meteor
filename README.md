@@ -244,7 +244,6 @@ _Debugging Tools_
 
 _Scaffolding_
 
-- [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 - [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications.
 
 ## Tooling
