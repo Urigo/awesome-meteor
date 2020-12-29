@@ -68,13 +68,14 @@ _Helpers and expensions for collections_
 - [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) - The Model layer for Meteor.
 - [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor Collection Joins + Reactive GraphQL like queries.
 - [sakulstra:aggregate](https://github.com/sakulstra/meteor-aggregate) - Add proper aggregation support for Meteor.
+- [quave:collections](https://github.com/quavedev/collections) - Create collections in a standard way.
 
 ## REST
 
 _REST support for Meteor_
 
-- [simple:rest](https://github.com/stubailo/meteor-rest) - automatically make your Meteor app accessible over HTTP and DDP alike.
-- [nimble:restivus](https://github.com/kahmali/meteor-restivus) - Make REST endpoints for your Meteor app with incredible ease.
+- [maka:rest](https://atmospherejs.com/maka/rest) - automatically make your Meteor app accessible over HTTP and DDP alike.
+- [vatfree:restivus](https://github.com/vatfree/meteor-restivus) - Make REST endpoints for your Meteor app with incredible ease.
 
 ## Forms and Templates
 
@@ -100,6 +101,7 @@ _Tools for administrating your Meteor apps_
 - [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app.
 - [yogiben:admin](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution.
 - [houston:admin](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor.
+- [zodern:pure-admin](https://github.com/zodern/meteor-pure-admin) - An isolated, customizable admin panel for Meteor.
 
 ## Monitoring
 
@@ -147,6 +149,7 @@ _Routers for Blaze_
 - [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 - [msavin:parrot](https://github.com/msavin/Parrot) - Web router specially designed for building SPAs using Meteor
 - [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
+- [iron:router](https://github.com/iron-meteor/iron-router) - A router that works on the server and the browser, designed specifically for Meteor. 
 
 ## Offline
 
@@ -155,6 +158,7 @@ _Tools for Meteor offline support_
 - [ground:db](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods.
 - [npdev:collections](https://github.com/CaptainN/npdev-collections) - An easy way to create offline collections with SSR for Meteor
 - [meteor-service-worker](https://github.com/NitroBAY/meteor-service-worker) - Meteor specific service worker implementaion.
+- [quave:pwa](https://github.com/quavedev/pwa) - A Meteor package that allows you to configure your PWA.
 
 ## Testing
 
@@ -193,9 +197,10 @@ _Search, sort and paginate related tools_
 
 _Mobile Development_
 
+- [meteor-push](https://github.com/activitree/meteor-push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
+- [quave:universal-links](https://github.com/quavedev/universal-links) - A Meteor package that allows you to expose your native iOS settings to enable Universal Links. 
 - [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
 - [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor.
-- [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 - [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 - [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
 - [okland:accounts-phone](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
@@ -206,7 +211,6 @@ _Mobile Development_
 
 _Data Visualization in Meteor: charts, maps, tables, etc._
 
-- [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) - This package provides a simple way to use AnyChart JavaScript charting component in Meteor.
 - [aldeed:tabular](https://github.com/aldeed/meteor-tabular) - Reactive datatables for large or small datasets.
 - [aslagle:reactive-table](https://github.com/aslagle/reactive-table/) - Reactive table for Meteor, using Blaze.
 - [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) - Reactive and paginated item list.
@@ -217,6 +221,7 @@ _Data Visualization in Meteor: charts, maps, tables, etc._
 _Analytics_
 
 - [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
+- [quave:analytics](https://github.com/quavedev/analytics) - A Meteor package that allows you to send your page views and more to Google Analytics.
 
 ## Cron Jobs
 
@@ -246,6 +251,7 @@ _Scaffolding_
 
 - [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 - [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications.
+- [maka-cli](https://github.com/maka-io/maka-cli) - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 
 ## Tooling
 
@@ -318,10 +324,10 @@ _Where to discover new Meteor things_
   - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
   - [User Accounts in Meteor](https://www.leveluptutorials.com/tutorials/user-accounts-in-meteor)
   - [Full-stack GraphQL with Apollo, Meteor & React](https://www.leveluptutorials.com/tutorials/full-stack-graphql-with-apollo-meteor-and-react)
+  - [EventedMind](https://learn-meteor.netlify.app/)
 
 - #### Paid
   - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
-  - [EventedMind](https://www.eventedmind.com/) - Contains some free tutorials.
   - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
   - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
   - [BulletProof Meteor](https://bulletproofmeteor.com/) - Contains some free tutorials.
