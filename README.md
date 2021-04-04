@@ -334,7 +334,7 @@ _Where to discover new Meteor things_
   - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
   - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
   - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
-  - [BulletProof Meteor](https://bulletproofmeteor.com/) - Contains some free tutorials.
+  - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - Course in Spanish.
 
 ## Tutorials
 
