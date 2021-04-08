@@ -42,6 +42,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
   - [Websites](#websites)
+  - [Q&A](#q&a)
+  - [Community Newsletters](#community-newsletters)	
   - [Twitter](#twitter)
   - [Related](#related)
 - [Built With Meteor](#built-with-meteor)
@@ -369,6 +371,11 @@ _Where to discover new Meteor things_
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
 - [Meteor forums](https://forums.meteor.com/)
 - [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
+
+### Community Newsletters
+
+- [zodern](https://zodern.me/newsletter.html)
+- [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
 ## Twitter
 
