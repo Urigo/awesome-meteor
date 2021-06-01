@@ -44,7 +44,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Websites](#websites)
   - [Q&A](#q&a)
   - [Community Newsletters](#community-newsletters)	
-  - [Twitter](#twitter)
+  - [Social](#social)
+  - [Work Opportunities](#work-opportunities)
   - [Related](#related)
 - [Built With Meteor](#built-with-meteor)
 - [Contributing](#contributing)
@@ -360,20 +361,26 @@ _Where to discover new Meteor things_
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
 - [Meteor forums](https://forums.meteor.com/)
-- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
 
 ### Community Newsletters
 
 - [zodern](https://zodern.me/newsletter.html)
 - [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
-## Twitter
+## Social
 
-- [Official Meteor](https://twitter.com/meteorjs)
+- [Official Twitter Account](https://twitter.com/meteorjs)
+- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
+
+
+## Work Opportunities
+
+- [Awesome Meteor Jobs](https://github.com/harryadel/awesome-meteor-jobs)
+- [We work Meteor](https://www.weworkmeteor.com/)
+- [Official Job Board](https://jobs.meteor.com/)
 
 ## Related
 
-- [Awesome Meteor Jobs](https://github.com/harryadel/awesome-meteor-jobs)
 - [Awesome Meteor Developers](https://github.com/harryadelb/awesome-meteor-developers)
 - [Awesome Blaze](https://github.com/arggh/awesome-blaze)
 
