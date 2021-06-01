@@ -347,7 +347,8 @@ _Where to discover new Meteor things_
 - [Official Documentation](http://docs.meteor.com/)
 - [Official Guide](http://guide.meteor.com/)
 - [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
-- [Packosphere](https://packosphere.com/) - Alternative front-end for Meteor package system, built by @copleykj
+- [Packosphere](https://packosphere.com/) - Alternative front-end for Meteor package system, built by [Kelly Copley
+](https://github.com/copleykj)
 - [Discover Meteor](https://book.discovermeteor.com/)
 - [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 - [Meetups](http://meteor.meetup.com/)
