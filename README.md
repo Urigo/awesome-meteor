@@ -320,23 +320,13 @@ _Where to discover new Meteor things_
 
 - #### Free
 
-  _Most of these free courses are by [Scott Tolinski](https://github.com/stolinski), please make sure to check out some his paid stuff over at [leveluptutorials](https://www.leveluptutorials.com/)_
-
-  - [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
-  - [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
-  - [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
-  - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
-  - [Meteor & React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone)
-  - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
-  - [User Accounts in Meteor](https://www.leveluptutorials.com/tutorials/user-accounts-in-meteor)
-  - [Full-stack GraphQL with Apollo, Meteor & React](https://www.leveluptutorials.com/tutorials/full-stack-graphql-with-apollo-meteor-and-react)
-  - [EventedMind](https://learn-meteor.netlify.app/)
+  - [How to Create an App](https://www.youtube.com/c/Howtocreateanappdev/videos) - Most updated.
+  - [EventedMind](https://learn-meteor.netlify.app/) - It's old but goes into detail regarding how Meteor internals.
 
 - #### Paid
-  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
-  - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
-  - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+  - [Udemy - Learn React and Meteor in 2021: Build a multiplayer game](https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/)
   - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - Course in Spanish.
+  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
 
 ## Tutorials
 
