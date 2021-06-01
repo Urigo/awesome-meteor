@@ -326,7 +326,7 @@ _Where to discover new Meteor things_
 - #### Paid
   - [Udemy - Learn React and Meteor in 2021: Build a multiplayer game](https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/)
   - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - Course in Spanish.
-  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
+  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials but mostly on 1.x.
 
 ## Tutorials
 
