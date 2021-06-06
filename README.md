@@ -48,6 +48,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Work Opportunities](#work-opportunities)
   - [Related](#related)
 - [Built With Meteor](#built-with-meteor)
+- [Deprecated](#deprecated)
 - [Contributing](#contributing)
 
 ---
@@ -393,7 +394,19 @@ _Commercial Grade Applications Built With Meteor_
 - [Pathable](Pathable) - Events managment suite
 - [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
-# [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
+## Deprecated
+
+_This section is desginated for resources which are no longer compatible with the current version of Meteor_
+
+- [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
+- [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
+- [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
+- [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
+- [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+- [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
+- [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
+
+## [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
 Your contributions are always welcome!
 
