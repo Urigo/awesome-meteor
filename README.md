@@ -44,9 +44,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Websites](#websites)
   - [Q&A](#q&a)
   - [Community Newsletters](#community-newsletters)	
-  - [Twitter](#twitter)
+  - [Social](#social)
+  - [Work Opportunities](#work-opportunities)
   - [Related](#related)
 - [Built With Meteor](#built-with-meteor)
+- [Deprecated](#deprecated)
 - [Contributing](#contributing)
 
 ---
@@ -320,29 +322,17 @@ _Where to discover new Meteor things_
 
 - #### Free
 
-  _Most of these free courses are by [Scott Tolinski](https://github.com/stolinski), please make sure to check out some his paid stuff over at [leveluptutorials](https://www.leveluptutorials.com/)_
-
-  - [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
-  - [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
-  - [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
-  - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
-  - [Meteor & React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone)
-  - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
-  - [User Accounts in Meteor](https://www.leveluptutorials.com/tutorials/user-accounts-in-meteor)
-  - [Full-stack GraphQL with Apollo, Meteor & React](https://www.leveluptutorials.com/tutorials/full-stack-graphql-with-apollo-meteor-and-react)
-  - [EventedMind](https://learn-meteor.netlify.app/)
+  - [How to Create an App](https://www.youtube.com/c/Howtocreateanappdev/videos) - Most updated.
+  - [EventedMind](https://learn-meteor.netlify.app/) - It's old but goes into detail regarding how Meteor internals.
 
 - #### Paid
-  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials.
-  - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
-  - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+  - [Udemy - Learn React and Meteor in 2021: Build a multiplayer game](https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/)
   - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - Course in Spanish.
+  - [leveluptutorials](https://www.leveluptutorials.com/) - Contains some free tutorials but mostly on 1.x.
 
 ## Tutorials
 
-- [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
-- [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
-- [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn
+
 - [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
 - [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 - [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
@@ -358,6 +348,8 @@ _Where to discover new Meteor things_
 - [Official Documentation](http://docs.meteor.com/)
 - [Official Guide](http://guide.meteor.com/)
 - [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
+- [Packosphere](https://packosphere.com/) - Alternative front-end for Meteor package system, built by [Kelly Copley
+](https://github.com/copleykj)
 - [Discover Meteor](https://book.discovermeteor.com/)
 - [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 - [Meetups](http://meteor.meetup.com/)
@@ -370,20 +362,26 @@ _Where to discover new Meteor things_
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
 - [Meteor forums](https://forums.meteor.com/)
-- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
 
 ### Community Newsletters
 
 - [zodern](https://zodern.me/newsletter.html)
 - [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
-## Twitter
+## Social
 
-- [Official Meteor](https://twitter.com/meteorjs)
+- [Official Twitter Account](https://twitter.com/meteorjs)
+- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
+
+
+## Work Opportunities
+
+- [Awesome Meteor Jobs](https://github.com/harryadel/awesome-meteor-jobs)
+- [We work Meteor](https://www.weworkmeteor.com/)
+- [Official Job Board](https://jobs.meteor.com/)
 
 ## Related
 
-- [Awesome Meteor Jobs](https://github.com/harryadel/awesome-meteor-jobs)
 - [Awesome Meteor Developers](https://github.com/harryadelb/awesome-meteor-developers)
 - [Awesome Blaze](https://github.com/arggh/awesome-blaze)
 
@@ -396,7 +394,19 @@ _Commercial Grade Applications Built With Meteor_
 - [Pathable](Pathable) - Events managment suite
 - [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
-# [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
+## Deprecated
+
+_This section is desginated for resources which are no longer compatible with the current version of Meteor_
+
+- [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
+- [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
+- [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
+- [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
+- [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+- [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
+- [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
+
+## [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
 Your contributions are always welcome!
 
