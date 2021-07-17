@@ -280,6 +280,11 @@ _Scaffolding_
 - [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by Meteor.
 - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool.
 
+## Internationalization
+
+- [Meteor-Internationalization](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
+- [meteor-accounts-t9n](https://github.com/softwarerero/meteor-accounts-t9n/) - Translations for meteor account's error messages.
+
 ## Front End Frameworks
 
 _Alternative Front End Frameworks to Blaze_
