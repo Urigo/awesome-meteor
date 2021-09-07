@@ -142,6 +142,7 @@ _Tools for deploying and maintaining Meteor apps_
 - [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
 - [yamup](https://github.com/bordalix/yamup) - Deploy Meteor apps to your own Ubuntu server (EC2, ...) without dockers
+- [waveshosting](https://github.com/nicolaslopezj/waveshosting) - Web application to manage meteor deployments.
 
 ## Docker Images
 
