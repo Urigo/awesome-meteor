@@ -260,7 +260,6 @@ _Debugging Tools_
 
 _Scaffolding_
 
-- [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 - [iron-cli](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications.
 - [maka-cli](https://github.com/maka-io/maka-cli) - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 
