@@ -366,6 +366,7 @@ _Where to discover new Meteor things_
 - [Meetups](http://meteor.meetup.com/)
 - [Reddit](https://www.reddit.com/r/meteor)
 - [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
+- [YouTube](https://www.youtube.com/channel/UC77VyeTVJ45HiUS_o2GNcBA) videos from meetups around the world
 - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
 - [The Meteor Chef](https://themeteorchef.com)
 
