@@ -4,7 +4,7 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 The official Meteor resources page can be found [here](https://www.meteor.com/tools/resources)
 
-- [Awesome Meteor](#awesome-meteor)
+- [Awesome Meteor](#awesome-meteor-)
   - [Getting Started](#getting-started)
   - [Collections](#collections)
   - [Forms and Templates](#forms-and-templates)
@@ -14,7 +14,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Routers](#routers)
   - [Debugging Tools](#debugging-tools)
   - [Editor Plugins](#editor-plugins)
-  - [Search, sort and paginate](#search-sort-paginate)
+  - [Search, sort and paginate](#search-sort-and-paginate)
   - [Mobile](#mobile)
   - [Offline](#offline)
   - [Testing](#testing)
@@ -42,7 +42,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
   - [Websites](#websites)
-  - [Q&A](#q&a)
+  - [Q&A](#qa)
   - [Community Newsletters](#community-newsletters)	
   - [Social](#social)
   - [Work Opportunities](#work-opportunities)
